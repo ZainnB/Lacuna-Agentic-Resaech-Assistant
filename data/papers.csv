@@ -1,0 +1,9 @@
+arxiv_id,title,why_chosen
+2010.11929,An Image is Worth 16x16 Words (ViT),patch-size / model-scale ablation tables; architecture figure
+2103.00020,Learning Transferable Visual Models From Natural Language Supervision (CLIP),large zero-shot tables; scaling plots
+2303.15343,Sigmoid Loss for Language Image Pre-Training (SigLIP),batch-size ablation plots
+2005.12872,End-to-End Object Detection with Transformers (DETR),encoder/decoder ablations; attention visualisations
+2304.02643,Segment Anything (SAM),architecture diagram; many result plots
+2110.06864,ByteTrack,association ablation tables
+2203.12602,VideoMAE,masking-ratio plots and ablation tables
+2102.05095,Is Space-Time Attention All You Need (TimeSformer),attention-scheme ablations; architecture figure

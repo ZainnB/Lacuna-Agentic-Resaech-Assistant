@@ -1,0 +1,19 @@
+services:
+  db:
+    image: pgvector/pgvector:pg16
+    environment:
+      POSTGRES_USER: figrag
+      POSTGRES_PASSWORD: figrag
+      POSTGRES_DB: figrag
+    ports:
+      - "5433:5432"   # 5433 on the host so a local Postgres doesn't collide
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./sql/init.sql:/docker-entrypoint-initdb.d/init.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U figrag"]
+      interval: 2s
+      retries: 30
+
+volumes:
+  pgdata:
