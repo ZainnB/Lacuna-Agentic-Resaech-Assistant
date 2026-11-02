@@ -1,4 +1,5 @@
 """Eval on a fixed 10-question subset: the seed of the Phase 2 CI gate."""
+import os
 import random
 
 import pytest
@@ -11,6 +12,8 @@ SUBSET_SIZE = 10
 
 @pytest.fixture(scope="module")
 def conn():
+    if not os.environ.get("ANTHROPIC_API_KEY"):
+        pytest.skip("ANTHROPIC_API_KEY not set")
     cfg = load_config()
     try:
         from figrag.store import connect, stored_index_hash

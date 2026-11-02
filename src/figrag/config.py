@@ -1,3 +1,4 @@
+import csv
 import hashlib
 import json
 import tomllib
@@ -32,8 +33,10 @@ def stable_hash(*parts, n: int = 8) -> str:
 
 
 def index_hash(cfg: dict) -> str:
-    """Identifies the chunk table contents: chunking + embedding config."""
-    return stable_hash(cfg["chunking"], cfg["embedding"])
+    """Identifies the chunk table contents: pinned corpus + chunking + embedding config."""
+    with open(PAPERS_CSV, newline="") as f:
+        corpus = sorted(row["arxiv_id"] for row in csv.DictReader(f))
+    return stable_hash(corpus, cfg["chunking"], cfg["embedding"])
 
 
 def read_jsonl(path: Path) -> list[dict]:

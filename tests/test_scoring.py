@@ -71,3 +71,9 @@ def test_heading_detection_skips_table_rows():
 def test_strip_references_keeps_appendix():
     lines = [(1, "Intro"), (8, "References"), (8, "[1] A. Dosovitskiy, L. Beyer"), (9, "A Additional Results"), (9, "x")]
     assert [l for _, l in strip_references(lines)] == ["Intro", "A Additional Results", "x"]
+
+
+def test_strip_references_ends_at_styled_heading():
+    lines = [(1, "Intro"), (8, "References"), (8, "A. Deep structured output learning"), (9, "A. Linear-probe evaluation"), (9, "x")]
+    kept = strip_references(lines, headings={(9, "A. Linear-probe evaluation")})
+    assert [l for _, l in kept] == ["Intro", "A. Linear-probe evaluation", "x"]
