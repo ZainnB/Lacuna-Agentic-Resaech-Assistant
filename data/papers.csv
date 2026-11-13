@@ -2,7 +2,7 @@ arxiv_id,title,why_chosen
 2010.11929v2,An Image is Worth 16x16 Words (ViT),patch-size / model-scale ablation tables; architecture figure
 2103.00020v1,Learning Transferable Visual Models From Natural Language Supervision (CLIP),large zero-shot tables; scaling plots
 2303.15343v4,Sigmoid Loss for Language Image Pre-Training (SigLIP),batch-size ablation plots
-1804.02767v1,YOLOv3: An Incremental Improvement,short paper; COCO comparison table; speed/accuracy plot
-1912.13200v6,AdderNet: Do We Really Need Multiplications in Deep Learning?,CIFAR/ImageNet result tables; feature-visualisation figures
-2103.13415v3,Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields,multiscale PSNR/SSIM tables; cone-tracing diagrams
-2205.14135v2,FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness,runtime/memory plots; long-range-arena tables
+1912.13200v6,AdderNet: Do We Really Need Multiplications in Deep Learning?,raster learning-curve and histogram plots (Fig 3-4); CIFAR/ImageNet tables
+2205.14135v2,FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness,raster speedup bar charts (Fig 5-8); 21 tables
+2005.14165v4,Language Models are Few-Shot Learners (GPT-3),raster scaling line plots (Fig 1.2-1.3); per-task result tables
+2307.09288v2,Llama 2: Open Foundation and Fine-Tuned Chat Models,raster win/tie/loss bar charts (Fig 12); 50+ tables

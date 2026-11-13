@@ -1,0 +1,33 @@
+# Frozen deepread (FAMM-RAG) baseline config. Every field here feeds the run hash in
+# evals/results/. Do not tune these against the eval set.
+#
+# RE-FROZEN ONCE on 2026-11-13 (docs/decisions.md, "Deepread generator re-frozen"): the generator
+# moved from claude-opus-5 to the free-tier groq/openai/gpt-oss-120b and the judge to
+# gemini/gemini-3.5-flash-lite before the first baseline run, so no result was invalidated.
+# This was the one permitted re-freeze (blueprint section 0). The generator, judge, prompt
+# (generate.PROMPT_VERSION) and chunking config below do not change again.
+
+[chunking]
+tokens = 400
+overlap = 80
+tokenizer = "BAAI/bge-base-en-v1.5"
+
+[embedding]
+model = "BAAI/bge-base-en-v1.5"
+device = "mps"          # falls back to cpu if MPS is unavailable
+batch_size = 32
+query_prefix = "Represent this sentence for searching relevant passages: "
+
+[retrieval]
+top_k = 5               # chunks passed to the generator; recall@5
+eval_depth = 10         # depth used for MRR@10
+
+# Model specs are "<provider>/<model id>" for lacuna.llm.complete_json. Each chain has exactly
+# one element: a fallback to another model would silently break the frozen-generator comparison.
+[generator]
+model = "groq/openai/gpt-oss-120b"
+max_tokens = 2048
+
+[judge]
+model = "gemini/gemini-3.5-flash-lite"
+max_tokens = 2048

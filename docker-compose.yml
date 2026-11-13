@@ -1,19 +1,40 @@
+name: lacuna
+
 services:
   db:
     image: pgvector/pgvector:pg16
     environment:
-      POSTGRES_USER: figrag
-      POSTGRES_PASSWORD: figrag
-      POSTGRES_DB: figrag
+      POSTGRES_USER: lacuna
+      POSTGRES_PASSWORD: lacuna
+      POSTGRES_DB: lacuna
     ports:
       - "5433:5432"   # 5433 on the host so a local Postgres doesn't collide
     volumes:
       - pgdata:/var/lib/postgresql/data
       - ./sql/init.sql:/docker-entrypoint-initdb.d/init.sql:ro
     healthcheck:
-      test: ["CMD-SHELL", "pg_isready -U figrag"]
+      test: ["CMD-SHELL", "pg_isready -U lacuna"]
       interval: 2s
       retries: 30
 
+  neo4j:
+    image: neo4j:5
+    environment:
+      NEO4J_AUTH: neo4j/lacuna-dev
+      # Small caps: this runs beside Postgres and an embedding model on a 16 GB laptop.
+      NEO4J_server_memory_heap_initial__size: 512m
+      NEO4J_server_memory_heap_max__size: 512m
+      NEO4J_server_memory_pagecache_size: 256m
+    ports:
+      - "7474:7474"   # browser
+      - "7687:7687"   # bolt
+    volumes:
+      - neo4jdata:/data
+    healthcheck:
+      test: ["CMD-SHELL", "cypher-shell -u neo4j -p lacuna-dev 'RETURN 1' > /dev/null 2>&1 || exit 1"]
+      interval: 5s
+      retries: 40
+
 volumes:
   pgdata:
+  neo4jdata:
