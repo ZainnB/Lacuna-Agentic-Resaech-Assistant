@@ -1,0 +1,14 @@
+{
+  "paper_id": "W7127069821",
+  "title": "A High-Performance ReLU-Based Hardware Accelerator with Simplified Quantization for Efficient Vision Transformers on Edge Devices",
+  "labeller": "",
+  "labelled_on": "",
+  "scope": "abstract",
+  "split": "reporting",
+  "abstract": "Vision Transformer (ViT) models demonstrate substantial promise in image processing tasks, but deploying these computationally intensive models on edge devices poses significant challenges due to constraints in power consumption and computational resources. This paper proposes a dedicated hardware accelerator for the lightweight EfficientViT model to address this issue, focusing on its ReLU-based global attention mechanism. Our approach is underpinned by two key hardware optimization strategies: block-wise attention, which decomposes large matrices for efficient processing, and a simplified quantization technique to convert costly floating-point operations into efficient integers with minimal precision loss. The proposed design is fabricated in TSMC 40nm process technology. Operating at a maximum frequency of 1.29 GHz, the chip consumes 340 mW and achieves a peak throughput of 368.9 GOPS, with an area efficiency of 265.4 GOPS/mm². These results showcase an exceptional balance between performance and resource utilization, delivering a high-performance ViT solution ideally suited for edge computing.",
+  "methods": [],
+  "datasets": [],
+  "tasks": [],
+  "metrics": [],
+  "notes": ""
+}

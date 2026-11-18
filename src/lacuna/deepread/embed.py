@@ -1,4 +1,5 @@
 """bge-base embeddings. The query instruction prefix goes on queries only."""
+
 from functools import lru_cache
 
 import numpy as np

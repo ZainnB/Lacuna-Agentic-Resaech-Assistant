@@ -1,0 +1,14 @@
+{
+  "paper_id": "W4405035745",
+  "title": "UniForm: A Reuse Attention Mechanism Optimized for Efficient Vision Transformers on Edge Devices",
+  "labeller": "",
+  "labelled_on": "",
+  "scope": "abstract",
+  "split": "tuning",
+  "abstract": "Transformer-based architectures have demonstrated remarkable success across various domains, but their deployment on edge devices remains challenging due to high memory and computational demands. In this paper, we introduce a novel Reuse Attention mechanism, tailored for efficient memory access and computational optimization, enabling seamless operation on resource-constrained platforms without compromising performance. Unlike traditional multi-head attention (MHA), which redundantly computes separate attention matrices for each head, Reuse Attention consolidates these computations into a shared attention matrix, significantly reducing memory overhead and computational complexity. Comprehensive experiments on ImageNet-1K and downstream tasks show that the proposed UniForm models leveraging Reuse Attention achieve state-of-the-art imagenet classification accuracy while outperforming existing attention mechanisms, such as Linear Attention and Flash Attention, in inference speed and memory scalability. Notably, UniForm-l achieves a 76.7% Top-1 accuracy on ImageNet-1K with 21.8ms inference time on edge devices like the Jetson AGX Orin, representing up to a 5x speedup over competing benchmark methods. These results demonstrate the versatility of Reuse Attention across high-performance GPUs and edge platforms, paving the way for broader real-time applications",
+  "methods": [],
+  "datasets": [],
+  "tasks": [],
+  "metrics": [],
+  "notes": ""
+}

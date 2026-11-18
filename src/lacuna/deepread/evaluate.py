@@ -3,6 +3,7 @@
 Gold evidence is labelled by location (paper_id, page, evidence_ref, answer_span),
 never by chunk ID, and mapped to chunks here at eval time.
 """
+
 import csv
 import json
 import random
@@ -180,7 +181,7 @@ FAITHFULNESS_PROMPT = """You check whether an answer is supported by the context
 
 The answer is supported only if every factual claim in it, including every number, \
 appears in the excerpts or follows directly from them. Judge support, not real-world truth: \
-a correct answer that the excerpts do not contain is unsupported."""
+a correct answer that the excerpts do not contain is unsupported."""  # noqa: E501
 
 VERDICT_SCHEMA = {
     "type": "object",
@@ -192,14 +193,14 @@ VERDICT_SCHEMA = {
 
 def judge_answer(q: dict, pred: str, cfg: dict) -> dict:
     user = f"Question: {q['question']}\nReference answer: {q['answer']}\nPredicted answer: {pred}"
-    r = gen.call_json(ANSWER_JUDGE_PROMPT, user, VERDICT_SCHEMA, cfg)
+    r = gen.call_json(ANSWER_JUDGE_PROMPT, user, VERDICT_SCHEMA, cfg, role="judge")
     parsed = r.pop("parsed") or {}
     return {"verdict": parsed.get("verdict"), "reasoning": parsed.get("reasoning"), **r}
 
 
 def judge_faithfulness(pred: str, chunks: list[dict], cfg: dict) -> dict:
     user = f"<context>\n{gen.format_context(chunks)}\n</context>\n\nAnswer: {pred}"
-    r = gen.call_json(FAITHFULNESS_PROMPT, user, VERDICT_SCHEMA, cfg)
+    r = gen.call_json(FAITHFULNESS_PROMPT, user, VERDICT_SCHEMA, cfg, role="judge")
     parsed = r.pop("parsed") or {}
     return {"verdict": parsed.get("verdict"), "reasoning": parsed.get("reasoning"), **r}
 
@@ -209,7 +210,9 @@ def judge_faithfulness(pred: str, chunks: list[dict], cfg: dict) -> dict:
 
 def run_hash(cfg: dict) -> str:
     frozen = {k: v for k, v in cfg.items() if k != "db"}
-    return stable_hash(frozen, gen.PROMPT_VERSION, gen.SYSTEM_PROMPT, ANSWER_JUDGE_PROMPT, FAITHFULNESS_PROMPT)
+    return stable_hash(
+        frozen, gen.PROMPT_VERSION, gen.SYSTEM_PROMPT, ANSWER_JUDGE_PROMPT, FAITHFULNESS_PROMPT
+    )
 
 
 def evaluate_one(q: dict, retrieved: list[dict], cfg: dict, judge: bool) -> dict:
@@ -291,14 +294,18 @@ def run(cfg: dict, questions: list[dict], conn, judge: bool = True, workers: int
 
     expected, actual = index_hash(cfg), stored_index_hash(conn)
     if actual != expected:
-        raise SystemExit(f"index was built with config {actual}, current config is {expected}; run `figrag index`")
+        raise SystemExit(
+            f"index was built with config {actual}, current config is {expected}; run `lacuna deepread index`"
+        )
 
     depth = max(cfg["retrieval"]["eval_depth"], cfg["retrieval"]["top_k"])
     vectors = embed_queries([q["question"] for q in questions], cfg["embedding"])
     retrieved = [search(conn, v, depth) for v in vectors]
 
     with ThreadPoolExecutor(max_workers=workers) as pool:
-        records = list(pool.map(lambda args: evaluate_one(*args, cfg, judge), zip(questions, retrieved)))
+        records = list(
+            pool.map(lambda args: evaluate_one(*args, cfg, judge), zip(questions, retrieved, strict=True))
+        )
 
     return {
         "date": date.today().isoformat(),
@@ -326,8 +333,10 @@ def render_markdown(result: dict) -> str:
     lines = [
         f"# Eval {result['date']} `{result['run_hash']}`",
         "",
-        f"Retriever `{cfg['embedding']['model']}`, chunks {cfg['chunking']['tokens']}/{cfg['chunking']['overlap']}, "
-        f"top-{cfg['retrieval']['top_k']}. Generator `{cfg['generator']['model']}`, judge `{cfg['judge']['model']}`, "
+        f"Retriever `{cfg['embedding']['model']}`, "
+        f"chunks {cfg['chunking']['tokens']}/{cfg['chunking']['overlap']}, "
+        f"top-{cfg['retrieval']['top_k']}. Generator `{cfg['generator']['model']}`, "
+        f"judge `{cfg['judge']['model']}`, "
         f"prompt {result['prompt_version']}. Index `{result['index_hash']}`.",
         "",
         f"| split | n | recall@{cfg['retrieval']['top_k']} | MRR@{cfg['retrieval']['eval_depth']} "
@@ -339,10 +348,20 @@ def render_markdown(result: dict) -> str:
             f"| {split} | {m['n']} | {fmt(m['recall_at_k'])} | {fmt(m['mrr'])} | {fmt(m['accuracy'])} "
             f"| {fmt(m['faithfulness'])} | {fmt(m['abstain_rate'])} |"
         )
-    lines += ["", "Tokens: " + ", ".join(f"{k} {v['input']:,} in / {v['output']:,} out" for k, v in result["tokens"].items())]
+    lines += [
+        "",
+        "Tokens: "
+        + ", ".join(f"{k} {v['input']:,} in / {v['output']:,} out" for k, v in result["tokens"].items()),
+    ]
     wrong = [r for r in result["records"] if r["correct"] is False]
     if wrong:
-        lines += ["", "## Wrong answers", "", "| id | split | question | gold | predicted |", "|---|---|---|---|---|"]
+        lines += [
+            "",
+            "## Wrong answers",
+            "",
+            "| id | split | question | gold | predicted |",
+            "|---|---|---|---|---|",
+        ]
         for r in sorted(wrong, key=lambda r: (SPLITS.index(r["split"]), r["id"])):
             q = r["question"].replace("|", "\\|")
             lines.append(f"| {r['id']} | {r['split']} | {q} | {r['gold']} | {r['pred']} |")
@@ -370,15 +389,23 @@ def write_spotcheck(result_path, chunks_by_id: dict, n: int = 15, seed: int = 0)
     out = result_path.with_name(result_path.stem + "_spotcheck.csv")
     with open(out, "w", newline="") as f:
         w = csv.writer(f)
-        w.writerow(["id", "question", "answer", "judge_supported", "judge_reasoning", "human_supported", "context"])
+        w.writerow(
+            ["id", "question", "answer", "judge_supported", "judge_reasoning", "human_supported", "context"]
+        )
         for r in sample:
             context = gen.format_context([chunks_by_id[c["id"]] for c in r["retrieved"][:k]])
-            w.writerow([r["id"], r["question"], r["pred"], r["faithful"], r["faithfulness_judge"], "", context])
+            w.writerow(
+                [r["id"], r["question"], r["pred"], r["faithful"], r["faithfulness_judge"], "", context]
+            )
     return out
 
 
 def spotcheck_agreement(csv_path) -> dict:
     with open(csv_path, newline="") as f:
         rows = [r for r in csv.DictReader(f) if r["human_supported"].strip()]
-    agree = sum((r["human_supported"].strip().lower() in {"yes", "y", "true", "1"}) == (r["judge_supported"] == "True") for r in rows)
+    agree = sum(
+        (r["human_supported"].strip().lower() in {"yes", "y", "true", "1"})
+        == (r["judge_supported"] == "True")
+        for r in rows
+    )
     return {"labelled": len(rows), "agree": agree, "agreement": round(agree / len(rows), 3) if rows else None}

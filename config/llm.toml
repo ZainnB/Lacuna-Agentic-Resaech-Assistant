@@ -1,0 +1,57 @@
+# LLM role chains for lacuna.llm. Each entry is "<provider>/<model id>", split on the FIRST slash,
+# so "groq/openai/gpt-oss-120b" is provider groq, model openai/gpt-oss-120b.
+# Order is the fallback order. Providers without a key in .env are skipped. Paid specs
+# (anthropic/..., openai/...) raise SpendStageError while SPEND_STAGE < 2.
+#
+# Model ids checked 2026-11-14 against the official pages (no live calls made for this check):
+#   gemini    gemini-3.5-flash-lite, gemini-3.8-flash: both "Stable" (aistudio.google.com/docs/models).
+#             Live ping 2026-11-14: 3.5-flash-lite OK, 3.8-flash returned 503, so it is not in any chain.
+#   groq      openai/gpt-oss-120b, openai/gpt-oss-20b: production; qwen/qwen3.8-27b: PREVIEW, so left out
+#             (console.groq.com/docs/models). Live ping 2026-11-14: gpt-oss-120b OK.
+#   openrouter ids ending ":free" listed by https://openrouter.ai/api/v1/models on 2026-11-14 include
+#             google/gemma-4-31b-it:free and google/gemma-4-26b-a4b-it:free. The old
+#             openai/gpt-oss-20b:free is NOT listed any more. Free ids churn; re-check before relying on it.
+#   cerebras  gpt-oss-120b and qwen-3.8-27b (inference-docs.cerebras.ai/support/rate-limits, 2026-11-14).
+#
+# Note: deepread's frozen generator/judge chains live in config/deepread.toml, not here.
+
+[chains]
+default = [
+  "gemini/gemini-3.5-flash-lite",
+  "groq/openai/gpt-oss-120b",
+  "cerebras/gpt-oss-120b",
+  "openrouter/google/gemma-4-31b-it:free",
+  "ollama/qwen3:4b",
+]
+generator = [
+  "gemini/gemini-3.5-flash-lite",
+  "groq/openai/gpt-oss-120b",
+  "cerebras/gpt-oss-120b",
+  "openrouter/google/gemma-4-31b-it:free",
+  "ollama/qwen3:4b",
+]
+judge = [
+  "gemini/gemini-3.5-flash-lite",
+  "groq/openai/gpt-oss-120b",
+  "cerebras/gpt-oss-120b",
+  "openrouter/google/gemma-4-31b-it:free",
+  "ollama/qwen3:4b",
+]
+extractor = [
+  "gemini/gemini-3.5-flash-lite",
+  "groq/openai/gpt-oss-120b",
+  "groq/openai/gpt-oss-20b",
+  "openrouter/google/gemma-4-31b-it:free",
+  "ollama/qwen3:4b",
+]
+screener = [
+  "gemini/gemini-3.5-flash-lite",
+  "groq/openai/gpt-oss-120b",
+  "cerebras/gpt-oss-120b",
+  "openrouter/google/gemma-4-31b-it:free",
+  "ollama/qwen3:4b",
+]
+
+# Optional per-provider limit overrides (0 or absent = keep the default in llm/providers.py).
+# [limits.groq]
+# rpm = 30

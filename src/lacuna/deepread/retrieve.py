@@ -10,4 +10,4 @@ def search(conn: psycopg.Connection, query_vec: np.ndarray, k: int) -> list[dict
         (query_vec, query_vec, k),
     ).fetchall()
     cols = ["id", "paper_id", "page", "section", "text", "score"]
-    return [dict(zip(cols, row)) for row in rows]
+    return [dict(zip(cols, row, strict=True)) for row in rows]

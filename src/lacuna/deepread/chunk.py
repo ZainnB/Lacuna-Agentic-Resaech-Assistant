@@ -1,4 +1,5 @@
 """Token-window chunking within each page, so every chunk has exactly one page."""
+
 import re
 
 from transformers import AutoTokenizer
@@ -38,13 +39,15 @@ def chunk_pages(pages: list[dict], cfg: dict) -> list[dict]:
             for offset, title in headings:
                 if offset <= start:
                     current = title
-            chunks.append({
-                "id": f"{paper_id}:p{page['page']}:c{i}",
-                "paper_id": paper_id,
-                "page": page["page"],
-                "section": current,
-                "text": text[start:end],
-            })
+            chunks.append(
+                {
+                    "id": f"{paper_id}:p{page['page']}:c{i}",
+                    "paper_id": paper_id,
+                    "page": page["page"],
+                    "section": current,
+                    "text": text[start:end],
+                }
+            )
         if headings:
             section[paper_id] = headings[-1][1]
     return chunks

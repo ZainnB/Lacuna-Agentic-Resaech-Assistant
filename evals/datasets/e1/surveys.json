@@ -1,0 +1,62 @@
+[
+ {
+  "arxiv_first_date": "2025-03-04",
+  "arxiv_id": "2503.02891",
+  "doi": "https://doi.org/10.1016/j.neucom.2025.130417",
+  "n_refs": 164,
+  "n_refs_resolved": 159,
+  "openalex_id": "W4410431342",
+  "publication_date": "2025-05-16",
+  "query": "What are the main approaches to making vision transformers efficient enough to run on edge devices?",
+  "sub_area": "efficient ViTs / edge",
+  "title": "Vision transformers on the edge: A comprehensive survey of model compression and acceleration strategies"
+ },
+ {
+  "arxiv_first_date": "2025-04-13",
+  "arxiv_id": "2504.09724",
+  "doi": "https://doi.org/10.1002/widm.70036",
+  "n_refs": 198,
+  "n_refs_resolved": 195,
+  "openalex_id": "W4412378716",
+  "publication_date": "2025-07-13",
+  "query": "How are vision-language models being made efficient in terms of compute, memory and latency?",
+  "sub_area": "vision-language models",
+  "title": "A Survey on Efficient Vision‐Language Models"
+ },
+ {
+  "arxiv_first_date": "2025-08-13",
+  "arxiv_id": "2508.09977",
+  "doi": "https://doi.org/10.1109/tpami.2026.3704980",
+  "n_refs": 254,
+  "n_refs_resolved": 254,
+  "openalex_id": "W7165187017",
+  "publication_date": "2026-06-18",
+  "query": "How is 3D Gaussian splatting being used for segmentation, editing and generation of 3D scenes?",
+  "sub_area": "3D Gaussian splatting",
+  "title": "A Survey on 3D Gaussian Splatting Applications: Segmentation, Editing, and Generation"
+ },
+ {
+  "arxiv_first_date": "2025-08-28",
+  "arxiv_id": "2508.20765",
+  "doi": "https://doi.org/10.1007/s11263-026-02784-5",
+  "n_refs": 281,
+  "n_refs_resolved": 279,
+  "openalex_id": "W4414449694",
+  "publication_date": "2026-04-07",
+  "query": "How do video understanding models recognise abstract concepts such as emotions, humour and intent that go beyond what is literally visible?",
+  "sub_area": "video understanding",
+  "title": "Looking Beyond the Obvious: A Survey on Abstract Concept Recognition for Video Understanding"
+ },
+ {
+  "arxiv_first_date": "2026-07-28",
+  "arxiv_id": "2607.25642",
+  "doi": "https://doi.org/10.1007/s44336-026-00034-3",
+  "n_refs": 110,
+  "n_refs_resolved": 106,
+  "openalex_id": "W7134051737",
+  "publication_date": "2026-03-06",
+  "query": "What approaches exist for instruction-based image editing with diffusion models, and how are they trained and evaluated?",
+  "sub_area": "diffusion image editing",
+  "title": "Instruction-based image editing: a survey on data, models, evaluation, and applications"
+ }
+]

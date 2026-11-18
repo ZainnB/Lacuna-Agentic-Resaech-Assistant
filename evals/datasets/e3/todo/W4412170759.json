@@ -1,0 +1,14 @@
+{
+  "paper_id": "W4412170759",
+  "title": "CST-ViT: Cascaded Spatio–Temporal Redundancy Elimination for Efficient Vision Transformers on Edge IoT Devices",
+  "labeller": "",
+  "labelled_on": "",
+  "scope": "abstract",
+  "split": "tuning",
+  "abstract": "Transformer-based models have demonstrated outstanding performance in video understanding tasks due to their capacity to capture long-range dependencies. However, their high computational cost, along with the massive volume of streaming video data, presents significant challenges for real-time deployment on resource-constrained edge devices integrated into internet of things (IoT) systems. Existing approaches typically eliminate spatial or temporal redundancy in isolation, failing to fully exploit the inherent spatio-temporal similarity in video data. To address this limitation, we propose CST-ViT, a cascaded spatio-temporal redundancy elimination framework that jointly reduces dynamic temporal and intra-frame spatial redundancy. CST-ViT incorporates three gating modules: the direct temporal gate for matching unchanged backgrounds, the offset temporal gate for capturing motion-related changes, and the spatial gate for intra-frame similarity matching. Together with a spatiotemporal caching and token reuse mechanism, CST-ViT enables efficient token filtering and computation reuse. Experimental results show that CST-ViT reduces computation by 55.88% with no loss in accuracy, and achieves up to a 74.75% reduction in computation with less than 1% accuracy degradation, outperforming state-of-the-art methods in terms of accuracy–efficiency trade-off for video transformers.",
+  "methods": [],
+  "datasets": [],
+  "tasks": [],
+  "metrics": [],
+  "notes": ""
+}

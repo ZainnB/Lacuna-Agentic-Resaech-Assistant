@@ -1,12 +1,27 @@
 from lacuna.deepread.chunk import heading_offsets, windows
-from lacuna.deepread.evaluate import (contains_span, is_hit, orphan_violations, retrieval_metrics, score_answer,
-                             validate_questions)
+from lacuna.deepread.evaluate import (
+    contains_span,
+    is_hit,
+    orphan_violations,
+    retrieval_metrics,
+    score_answer,
+    validate_questions,
+)
 from lacuna.deepread.ingest import strip_references
 
 
 def q(**kw):
-    base = {"id": "q1", "question": "?", "answer": "71.4", "answer_type": "numeric", "split": "table",
-            "paper_id": "p", "page": 7, "evidence_ref": "Table 3", "answer_span": "71.4"}
+    base = {
+        "id": "q1",
+        "question": "?",
+        "answer": "71.4",
+        "answer_type": "numeric",
+        "split": "table",
+        "paper_id": "p",
+        "page": 7,
+        "evidence_ref": "Table 3",
+        "answer_span": "71.4",
+    }
     return {**base, **kw}
 
 
@@ -70,14 +85,26 @@ def test_heading_detection_skips_table_rows():
 
 
 def test_strip_references_keeps_appendix():
-    lines = [(1, "Intro"), (8, "References"), (8, "[1] A. Dosovitskiy, L. Beyer"), (9, "A Additional Results"), (9, "x")]
-    assert [l for _, l in strip_references(lines)] == ["Intro", "A Additional Results", "x"]
+    lines = [
+        (1, "Intro"),
+        (8, "References"),
+        (8, "[1] A. Dosovitskiy, L. Beyer"),
+        (9, "A Additional Results"),
+        (9, "x"),
+    ]
+    assert [line for _, line in strip_references(lines)] == ["Intro", "A Additional Results", "x"]
 
 
 def test_strip_references_ends_at_styled_heading():
-    lines = [(1, "Intro"), (8, "References"), (8, "A. Deep structured output learning"), (9, "A. Linear-probe evaluation"), (9, "x")]
+    lines = [
+        (1, "Intro"),
+        (8, "References"),
+        (8, "A. Deep structured output learning"),
+        (9, "A. Linear-probe evaluation"),
+        (9, "x"),
+    ]
     kept = strip_references(lines, headings={(9, "A. Linear-probe evaluation")})
-    assert [l for _, l in kept] == ["Intro", "A. Linear-probe evaluation", "x"]
+    assert [line for _, line in kept] == ["Intro", "A. Linear-probe evaluation", "x"]
 
 
 def test_orphan_violations_flag_dropped_papers_and_pages():

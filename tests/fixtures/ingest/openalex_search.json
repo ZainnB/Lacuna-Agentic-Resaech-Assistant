@@ -1,0 +1,1049 @@
+{
+ "meta": {
+  "count": 163069,
+  "db_response_time_ms": 130,
+  "page": 1,
+  "per_page": 2,
+  "groups_count": null,
+  "cost_usd": 0.001
+ },
+ "results": [
+  {
+   "id": "https://openalex.org/W4408521026",
+   "doi": "https://doi.org/10.1109/iiki65561.2024.00019",
+   "title": "Enhancing Transmission Efficiency in Vision Transformer Edge Computing via Token Clustering",
+   "display_name": "Enhancing Transmission Efficiency in Vision Transformer Edge Computing via Token Clustering",
+   "publication_year": 2024,
+   "publication_date": "2024-12-06",
+   "cited_by_count": 1,
+   "ids": {
+    "openalex": "https://openalex.org/W4408521026",
+    "doi": "https://doi.org/10.1109/iiki65561.2024.00019"
+   },
+   "locations": [
+    {
+     "id": "doi:10.1109/iiki65561.2024.00019",
+     "doi": "https://doi.org/10.1109/iiki65561.2024.00019",
+     "is_oa": false,
+     "landing_page_url": "https://doi.org/10.1109/iiki65561.2024.00019",
+     "pdf_url": null,
+     "source": {
+      "id": "https://openalex.org/S7407087099",
+      "display_name": "International Conference on Identification, Information and Knowledge in the Internet of Things (IIKI)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "conference"
+     },
+     "license": null,
+     "license_id": null,
+     "version": "publishedVersion",
+     "is_accepted": true,
+     "is_published": true,
+     "raw_source_name": "2024 International Conference on Identification, Information and Knowledge in the Internet of Things (IIKI)",
+     "raw_type": "proceedings-article"
+    }
+   ],
+   "primary_location": {
+    "id": "doi:10.1109/iiki65561.2024.00019",
+    "doi": "https://doi.org/10.1109/iiki65561.2024.00019",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1109/iiki65561.2024.00019",
+    "pdf_url": null,
+    "source": {
+     "id": "https://openalex.org/S7407087099",
+     "display_name": "International Conference on Identification, Information and Knowledge in the Internet of Things (IIKI)",
+     "issn_l": null,
+     "issn": null,
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": null,
+     "host_organization_name": null,
+     "host_organization_lineage": [],
+     "host_organization_lineage_names": [],
+     "type": "conference"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "2024 International Conference on Identification, Information and Knowledge in the Internet of Things (IIKI)",
+    "raw_type": "proceedings-article"
+   },
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5010085152",
+      "display_name": "Qi Li",
+      "orcid": "https://orcid.org/0000-0002-1963-5263",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-1963-5263"
+      ]
+     },
+     "institutions": [],
+     "is_corresponding": false,
+     "raw_author_name": "Qi Li",
+     "raw_affiliation_strings": [
+      "Ritsumeikan University 1-1-1 Noji-higashi,Graduate School of Science and Engineering,,Kusatsu,Shiga,Japan,525-8577"
+     ],
+     "raw_orcid": null
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5076579498",
+      "display_name": "Lin Meng",
+      "orcid": "https://orcid.org/0000-0003-4351-6923",
+      "observed_orcids": [
+       "https://orcid.org/0000-0003-4351-6923",
+       "https://orcid.org/0000-0001-9787-9936"
+      ]
+     },
+     "institutions": [],
+     "is_corresponding": false,
+     "raw_author_name": "Lin Meng",
+     "raw_affiliation_strings": [
+      "Ritsumeikan University 1-1-1 Noji-higashi,College of Science and Engineering,Kusatsu,Shiga,Japan,525-8577"
+     ],
+     "raw_orcid": null
+    }
+   ],
+   "referenced_works": [
+    "https://openalex.org/W2029016069",
+    "https://openalex.org/W2117539524",
+    "https://openalex.org/W2167848597",
+    "https://openalex.org/W2612193523",
+    "https://openalex.org/W2792220137"
+   ],
+   "abstract_inverted_index": {
+    "Vision": [
+     0
+    ],
+    "Transformer": [
+     1
+    ],
+    "demonstrates": [
+     2
+    ],
+    "excellent": [
+     3
+    ],
+    "performance,": [
+     4
+    ],
+    "but": [
+     5
+    ],
+    "huge": [
+     6
+    ],
+    "number": [
+     7
+    ],
+    "of": [
+     8,
+     29,
+     44,
+     117
+    ],
+    "parameters": [
+     9
+    ],
+    "hindered": [
+     10
+    ],
+    "deployment.": [
+     11
+    ],
+    "Offloading": [
+     12
+    ],
+    "workloads": [
+     13
+    ],
+    "to": [
+     14,
+     36,
+     52,
+     70
+    ],
+    "the": [
+     15,
+     27,
+     41,
+     66,
+     79,
+     95
+    ],
+    "cloud": [
+     16
+    ],
+    "is": [
+     17,
+     34,
+     48,
+     97,
+     111
+    ],
+    "a": [
+     18,
+     60
+    ],
+    "promising": [
+     19
+    ],
+    "solution.": [
+     20
+    ],
+    "However,": [
+     21
+    ],
+    "transmission": [
+     22,
+     54,
+     72
+    ],
+    "latency": [
+     23
+    ],
+    "and": [
+     24,
+     99
+    ],
+    "bandwidth": [
+     25
+    ],
+    "limit": [
+     26
+    ],
+    "efficiency": [
+     28
+    ],
+    "cloud.": [
+     30,
+     90
+    ],
+    "Edge": [
+     31
+    ],
+    "computing": [
+     32
+    ],
+    "technology": [
+     33
+    ],
+    "used": [
+     35
+    ],
+    "mitigate": [
+     37
+    ],
+    "this": [
+     38,
+     57
+    ],
+    "problem.": [
+     39
+    ],
+    "Leveraging": [
+     40
+    ],
+    "computation": [
+     42
+    ],
+    "power": [
+     43
+    ],
+    "edge": [
+     45
+    ],
+    "devices,": [
+     46
+    ],
+    "data": [
+     47,
+     110
+    ],
+    "processed": [
+     49
+    ],
+    "before": [
+     50
+    ],
+    "uploading": [
+     51
+    ],
+    "reduce": [
+     53
+    ],
+    "latency.": [
+     55,
+     105
+    ],
+    "Therefore,": [
+     56
+    ],
+    "paper": [
+     58
+    ],
+    "proposes": [
+     59
+    ],
+    "clustering-based": [
+     61
+    ],
+    "token": [
+     62
+    ],
+    "subsampling": [
+     63
+    ],
+    "method": [
+     64
+    ],
+    "for": [
+     65
+    ],
+    "vision": [
+     67
+    ],
+    "transformer": [
+     68
+    ],
+    "partitioning": [
+     69
+    ],
+    "enhance": [
+     71
+    ],
+    "efficiency.": [
+     73
+    ],
+    "Tokens": [
+     74
+    ],
+    "are": [
+     75,
+     87
+    ],
+    "encoded": [
+     76
+    ],
+    "based": [
+     77
+    ],
+    "on": [
+     78
+    ],
+    "cosine": [
+     80
+    ],
+    "similarity": [
+     81
+    ],
+    "clustering": [
+     82
+    ],
+    "result,": [
+     83
+    ],
+    "then": [
+     84
+    ],
+    "all": [
+     85
+    ],
+    "tokens": [
+     86
+    ],
+    "reconstructed": [
+     88
+    ],
+    "at": [
+     89
+    ],
+    "Experimental": [
+     91
+    ],
+    "results": [
+     92
+    ],
+    "show": [
+     93
+    ],
+    "that": [
+     94
+    ],
+    "proposal": [
+     96
+    ],
+    "effective": [
+     98
+    ],
+    "can": [
+     100
+    ],
+    "be": [
+     101
+    ],
+    "executed": [
+     102
+    ],
+    "with": [
+     103,
+     113
+    ],
+    "low": [
+     104
+    ],
+    "For": [
+     106
+    ],
+    "ViT,": [
+     107
+    ],
+    "23.09%": [
+     108
+    ],
+    "transmitted": [
+     109
+    ],
+    "reduced": [
+     112
+    ],
+    "an": [
+     114
+    ],
+    "accuracy": [
+     115
+    ],
+    "drop": [
+     116
+    ],
+    "0.44%": [
+     118
+    ],
+    "within": [
+     119
+    ],
+    "0.8": [
+     120
+    ],
+    "ms.": [
+     121
+    ]
+   }
+  },
+  {
+   "id": "https://openalex.org/W4385187240",
+   "doi": "https://doi.org/10.1109/iscas46773.2023.10181988",
+   "title": "ViTA: A Vision Transformer Inference Accelerator for Edge Applications",
+   "display_name": "ViTA: A Vision Transformer Inference Accelerator for Edge Applications",
+   "publication_year": 2023,
+   "publication_date": "2023-05-21",
+   "cited_by_count": 76,
+   "ids": {
+    "openalex": "https://openalex.org/W4385187240",
+    "doi": "https://doi.org/10.1109/iscas46773.2023.10181988"
+   },
+   "locations": [
+    {
+     "id": "doi:10.1109/iscas46773.2023.10181988",
+     "doi": "https://doi.org/10.1109/iscas46773.2023.10181988",
+     "is_oa": false,
+     "landing_page_url": "https://doi.org/10.1109/iscas46773.2023.10181988",
+     "pdf_url": null,
+     "source": {
+      "id": "https://openalex.org/S4393914142",
+      "display_name": "IEEE International Symposium on Circuits and Systems proceedings",
+      "issn_l": "0271-4302",
+      "issn": [
+       "0271-4302"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [
+       "jufo-1",
+       "norway-1"
+      ],
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "conference"
+     },
+     "license": null,
+     "license_id": null,
+     "version": "publishedVersion",
+     "is_accepted": true,
+     "is_published": true,
+     "raw_source_name": "2023 IEEE International Symposium on Circuits and Systems (ISCAS)",
+     "raw_type": "proceedings-article"
+    },
+    {
+     "id": "pmh:oai:arXiv.org:2302.09108",
+     "doi": null,
+     "is_oa": true,
+     "landing_page_url": "http://arxiv.org/abs/2302.09108",
+     "pdf_url": "https://arxiv.org/pdf/2302.09108",
+     "source": {
+      "id": "https://openalex.org/S4306400194",
+      "display_name": "arXiv (Cornell University)",
+      "issn_l": "2331-8422",
+      "issn": [
+       "2331-8422"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": "https://openalex.org/I205783295",
+      "host_organization_name": "Cornell University",
+      "host_organization_lineage": [
+       "https://openalex.org/I205783295"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+     },
+     "license": "cc-by",
+     "license_id": "https://openalex.org/licenses/cc-by",
+     "version": "submittedVersion",
+     "is_accepted": false,
+     "is_published": false,
+     "raw_source_name": null,
+     "raw_type": "text"
+    },
+    {
+     "id": "doi:10.48550/arxiv.2302.09108",
+     "doi": "https://doi.org/10.48550/arxiv.2302.09108",
+     "is_oa": true,
+     "landing_page_url": "https://doi.org/10.48550/arxiv.2302.09108",
+     "pdf_url": null,
+     "source": {
+      "id": "https://openalex.org/S4306400194",
+      "display_name": "arXiv (Cornell University)",
+      "issn_l": "2331-8422",
+      "issn": [
+       "2331-8422"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": "https://openalex.org/I205783295",
+      "host_organization_name": "Cornell University",
+      "host_organization_lineage": [
+       "https://openalex.org/I205783295"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+     },
+     "license": "cc-by",
+     "license_id": "https://openalex.org/licenses/cc-by",
+     "version": null,
+     "is_accepted": false,
+     "is_published": false,
+     "raw_source_name": null,
+     "raw_type": "article-journal"
+    }
+   ],
+   "primary_location": {
+    "id": "doi:10.1109/iscas46773.2023.10181988",
+    "doi": "https://doi.org/10.1109/iscas46773.2023.10181988",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1109/iscas46773.2023.10181988",
+    "pdf_url": null,
+    "source": {
+     "id": "https://openalex.org/S4393914142",
+     "display_name": "IEEE International Symposium on Circuits and Systems proceedings",
+     "issn_l": "0271-4302",
+     "issn": [
+      "0271-4302"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [
+      "jufo-1",
+      "norway-1"
+     ],
+     "host_organization": null,
+     "host_organization_name": null,
+     "host_organization_lineage": [],
+     "host_organization_lineage_names": [],
+     "type": "conference"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "2023 IEEE International Symposium on Circuits and Systems (ISCAS)",
+    "raw_type": "proceedings-article"
+   },
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5079937406",
+      "display_name": "Shashank Nag",
+      "orcid": "https://orcid.org/0009-0000-3619-6066",
+      "observed_orcids": [
+       "https://orcid.org/0009-0000-3619-6066"
+      ]
+     },
+     "institutions": [],
+     "is_corresponding": false,
+     "raw_author_name": "Shashank Nag",
+     "raw_affiliation_strings": [
+      "Indian Institute of Technology Madras,Department of Electrical Engineering,India",
+      "Department of Electrical Engineering, Indian Institute of Technology Madras, India"
+     ],
+     "raw_orcid": null
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5017435097",
+      "display_name": "Gourav Datta",
+      "orcid": "https://orcid.org/0000-0002-5380-2619",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-5380-2619"
+      ]
+     },
+     "institutions": [],
+     "is_corresponding": false,
+     "raw_author_name": "Gourav Datta",
+     "raw_affiliation_strings": [
+      "University of Southern California,Ming Hsieh Department of Electrical and Computer Engineering,USA",
+      "Ming Hsieh Department of Electrical and Computer Engineering, University of Southern California, USA"
+     ],
+     "raw_orcid": null
+    }
+   ],
+   "referenced_works": [
+    "https://openalex.org/W2067523571",
+    "https://openalex.org/W2095885645",
+    "https://openalex.org/W2108598243",
+    "https://openalex.org/W2442974303",
+    "https://openalex.org/W2626778328"
+   ],
+   "abstract_inverted_index": {
+    "Vision": [
+     0
+    ],
+    "Transformer": [
+     1
+    ],
+    "models,": [
+     2,
+     57,
+     84,
+     132
+    ],
+    "such": [
+     3
+    ],
+    "as": [
+     4
+    ],
+    "ViT,": [
+     5
+    ],
+    "Swin": [
+     6
+    ],
+    "Transformer,": [
+     7
+    ],
+    "and": [
+     8,
+     39,
+     71,
+     90,
+     101,
+     105,
+     146
+    ],
+    "Transformer-in-Transformer,": [
+     9
+    ],
+    "have": [
+     10
+    ],
+    "recently": [
+     11
+    ],
+    "gained": [
+     12
+    ],
+    "significant": [
+     13
+    ],
+    "traction": [
+     14
+    ],
+    "in": [
+     15,
+     43,
+     117
+    ],
+    "computer": [
+     16
+    ],
+    "vision": [
+     17,
+     82,
+     111,
+     130
+    ],
+    "tasks": [
+     18
+    ],
+    "due": [
+     19
+    ],
+    "to": [
+     20,
+     23,
+     32,
+     41
+    ],
+    "their": [
+     21
+    ],
+    "ability": [
+     22
+    ],
+    "capture": [
+     24
+    ],
+    "the": [
+     25,
+     53
+    ],
+    "global": [
+     26
+    ],
+    "relation": [
+     27
+    ],
+    "between": [
+     28
+    ],
+    "features": [
+     29
+    ],
+    "which": [
+     30,
+     154
+    ],
+    "leads": [
+     31
+    ],
+    "superior": [
+     33
+    ],
+    "performance.": [
+     34
+    ],
+    "However,": [
+     35
+    ],
+    "they": [
+     36
+    ],
+    "are": [
+     37
+    ],
+    "compute-heavy": [
+     38
+    ],
+    "difficult": [
+     40
+    ],
+    "deploy": [
+     42
+    ],
+    "resource-constrained": [
+     44,
+     62,
+     86
+    ],
+    "edge": [
+     45,
+     87,
+     159
+    ],
+    "devices.": [
+     46
+    ],
+    "Existing": [
+     47
+    ],
+    "hardware": [
+     48,
+     77,
+     125
+    ],
+    "accelerators,": [
+     49
+    ],
+    "including": [
+     50
+    ],
+    "those": [
+     51
+    ],
+    "for": [
+     52,
+     79,
+     158
+    ],
+    "closely-related": [
+     54
+    ],
+    "BERT": [
+     55
+    ],
+    "transformer": [
+     56,
+     83,
+     112,
+     131
+    ],
+    "do": [
+     58
+    ],
+    "not": [
+     59
+    ],
+    "target": [
+     60
+    ],
+    "highly": [
+     61
+    ],
+    "environments.": [
+     63
+    ],
+    "In": [
+     64
+    ],
+    "this": [
+     65,
+     69
+    ],
+    "paper,": [
+     66
+    ],
+    "we": [
+     67
+    ],
+    "address": [
+     68
+    ],
+    "gap": [
+     70
+    ],
+    "propose": [
+     72
+    ],
+    "ViTA": [
+     73,
+     156
+    ],
+    "-": [
+     74,
+     151
+    ],
+    "a": [
+     75,
+     98,
+     134,
+     141
+    ],
+    "configurable": [
+     76
+    ],
+    "accelerator": [
+     78
+    ],
+    "inference": [
+     80
+    ],
+    "of": [
+     81,
+     136,
+     143,
+     153
+    ],
+    "targeting": [
+     85
+    ],
+    "computing": [
+     88
+    ],
+    "devices": [
+     89
+    ],
+    "avoiding": [
+     91
+    ],
+    "repeated": [
+     92
+    ],
+    "off-chip": [
+     93
+    ],
+    "memory": [
+     94
+    ],
+    "accesses.": [
+     95
+    ],
+    "We": [
+     96,
+     121
+    ],
+    "employ": [
+     97
+    ],
+    "head-level": [
+     99
+    ],
+    "pipeline": [
+     100
+    ],
+    "inter-layer": [
+     102
+    ],
+    "MLP": [
+     103
+    ],
+    "optimizations,": [
+     104
+    ],
+    "can": [
+     106
+    ],
+    "support": [
+     107
+    ],
+    "several": [
+     108
+    ],
+    "commonly": [
+     109
+    ],
+    "used": [
+     110
+    ],
+    "models": [
+     113
+    ],
+    "with": [
+     114,
+     140
+    ],
+    "changes": [
+     115
+    ],
+    "solely": [
+     116
+    ],
+    "our": [
+     118
+    ],
+    "control": [
+     119
+    ],
+    "logic.": [
+     120
+    ],
+    "achieve": [
+     122
+    ],
+    "nearly": [
+     123
+    ],
+    "90%": [
+     124
+    ],
+    "utilization": [
+     126
+    ],
+    "efficiency": [
+     127
+    ],
+    "on": [
+     128
+    ],
+    "most": [
+     129
+    ],
+    "report": [
+     133
+    ],
+    "power": [
+     135
+    ],
+    "0.88W": [
+     137
+    ],
+    "when": [
+     138
+    ],
+    "synthesised": [
+     139
+    ],
+    "clock": [
+     142
+    ],
+    "150": [
+     144
+    ],
+    "MHz,": [
+     145
+    ],
+    "get": [
+     147
+    ],
+    "reasonable": [
+     148
+    ],
+    "frame": [
+     149
+    ],
+    "rates": [
+     150
+    ],
+    "all": [
+     152
+    ],
+    "makes": [
+     155
+    ],
+    "suitable": [
+     157
+    ],
+    "applications.": [
+     160
+    ]
+   }
+  }
+ ],
+ "group_by": []
+}

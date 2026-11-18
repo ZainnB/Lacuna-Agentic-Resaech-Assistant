@@ -1,0 +1,14 @@
+{
+  "paper_id": "W4414909010",
+  "title": "Efficient Partitioning Vision Transformer on Edge Devices for Distributed Inference",
+  "labeller": "",
+  "labelled_on": "",
+  "scope": "abstract",
+  "split": "tuning",
+  "abstract": "Deep learning models are increasingly utilized on resource-constrained edge devices for real-time data analytics. Recently, Vision Transformer and their variants have shown exceptional performance in various computer vision tasks. However, their substantial computational requirements and low inference latency create significant challenges for deploying such models on resource-constrained edge devices. To address this issue, we propose a novel framework, ED-ViT, which is designed to efficiently split and execute complex Vision Transformers across multiple edge devices. Our approach involves partitioning Vision Transformer models into several sub-models, while each dedicated to handling a specific subset of data classes. To further reduce computational overhead and inference latency, we introduce a class-wise pruning technique that decreases the size of each sub-model. Through extensive experiments conducted on five datasets using three model architectures and actual implementation on edge devices, we demonstrate that our method significantly cuts down inference latency on edge devices and achieves a reduction in model size by up to 28.9 times and 34.1 times, respectively, while maintaining test accuracy comparable to the original Vision Transformer. Additionally, we compare ED-ViT with two state-of-the-art methods that deploy CNN and SNN models on edge devices, evaluating metrics such as accuracy, inference time, and overall model size. Our comprehensive evaluation underscores the effectiveness of the proposed ED-ViT framework.",
+  "methods": [],
+  "datasets": [],
+  "tasks": [],
+  "metrics": [],
+  "notes": ""
+}

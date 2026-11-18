@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "lacuna": {
+      "type": "stdio",
+      "command": "uv",
+      "args": ["run", "lacuna", "mcp", "serve"],
+      "env": {}
+    }
+  }
+}

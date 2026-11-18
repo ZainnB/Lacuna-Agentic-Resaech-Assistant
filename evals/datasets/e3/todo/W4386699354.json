@@ -1,0 +1,14 @@
+{
+  "paper_id": "W4386699354",
+  "title": "DeViT: Decomposing Vision Transformers for Collaborative Inference in Edge Devices",
+  "labeller": "",
+  "labelled_on": "",
+  "scope": "abstract",
+  "split": "reporting",
+  "abstract": "Recent years have witnessed the great success of vision transformer (ViT), which has achieved state-of-the-art performance on multiple computer vision benchmarks. However, ViT models suffer from vast amounts of parameters and high computation cost, leading to difficult deployment on resource-constrained edge devices. Existing solutions mostly compress ViT models to a compact model but still cannot achieve real-time inference. To tackle this issue, we propose to explore the divisibility of transformer structure, and decompose the large ViT into multiple small models for collaborative inference at edge devices. Our objective is to achieve fast and energy-efficient collaborative inference while maintaining comparable accuracy compared with large ViTs. To this end, we first propose a collaborative inference framework termedDeViTto facilitate edge deployment by decomposing large ViTs. Subsequently, we design a decomposition-and-ensemble algorithm based on knowledge distillation, termed DEKD, to fuse multiple small decomposed models while dramatically reducing communication overheads, and handle heterogeneous models by developing a feature matching module to promote the imitations of decomposed models from the large ViT. Extensive experiments for three representative ViT backbones on four widely-used datasets demonstrate our method achieves efficient collaborative inference for ViTs and outperforms existing lightweight ViTs, striking a good trade-off between efficiency and accuracy. For example, our DeViTs improves end-to-end latency by 2.89× with only 1.65% accuracy sacrifice using CIFAR-100 compared to the large ViT, ViT-L/16, on the GPU server. DeDeiTs surpasses the recent efficient ViT, MobileViT-S, by 3.54% in accuracy on ImageNet-1 K, while running 1.72× faster and requiring 55.28% lower energy consumption on the edge device.",
+  "methods": [],
+  "datasets": [],
+  "tasks": [],
+  "metrics": [],
+  "notes": ""
+}

@@ -1,0 +1,264 @@
+# Seed alias table for entity resolution (blueprint 7.1). The first name is canonical; every
+# alias is matched after normalisation (case, punctuation and hyphens ignored).
+# Variants such as "ViT-B/16" are split off by lacuna.extract.resolve.split_variant first, so list
+# only the family name here. Extend freely; no code change needed.
+
+[[entity]]
+type = "method"
+canonical = "ViT"
+aliases = ["Vision Transformer", "Vision Transformers", "ViTs"]
+
+[[entity]]
+type = "method"
+canonical = "ResNet"
+aliases = ["Residual Network", "Residual Networks", "ResNets", "Deep Residual Network"]
+
+[[entity]]
+type = "method"
+canonical = "ResNeXt"
+aliases = ["Res NeXt"]
+
+[[entity]]
+type = "method"
+canonical = "DeiT"
+aliases = ["Data-efficient Image Transformer", "Data-efficient Image Transformers"]
+
+[[entity]]
+type = "method"
+canonical = "Swin Transformer"
+aliases = ["Swin", "Shifted Window Transformer"]
+
+[[entity]]
+type = "method"
+canonical = "BERT"
+aliases = ["Bidirectional Encoder Representations from Transformers"]
+
+[[entity]]
+type = "method"
+canonical = "GPT"
+aliases = ["Generative Pre-trained Transformer", "Generative Pretrained Transformer"]
+
+[[entity]]
+type = "method"
+canonical = "Transformer"
+aliases = ["Transformers"]
+
+[[entity]]
+type = "method"
+canonical = "CLIP"
+aliases = ["Contrastive Language-Image Pre-training", "Contrastive Language Image Pretraining"]
+
+[[entity]]
+type = "method"
+canonical = "NeRF"
+aliases = ["Neural Radiance Field", "Neural Radiance Fields", "NeRFs"]
+
+[[entity]]
+type = "method"
+canonical = "3D Gaussian Splatting"
+aliases = ["3DGS", "Gaussian Splatting", "3D-GS"]
+
+[[entity]]
+type = "method"
+canonical = "GAN"
+aliases = ["Generative Adversarial Network", "Generative Adversarial Networks", "GANs"]
+
+[[entity]]
+type = "method"
+canonical = "VAE"
+aliases = ["Variational Autoencoder", "Variational Auto-Encoder", "Variational Autoencoders"]
+
+[[entity]]
+type = "method"
+canonical = "CNN"
+aliases = ["Convolutional Neural Network", "Convolutional Neural Networks", "ConvNet", "ConvNets", "CNNs"]
+
+[[entity]]
+type = "method"
+canonical = "RNN"
+aliases = ["Recurrent Neural Network", "Recurrent Neural Networks", "RNNs"]
+
+[[entity]]
+type = "method"
+canonical = "LSTM"
+aliases = ["Long Short-Term Memory", "Long Short Term Memory"]
+
+[[entity]]
+type = "method"
+canonical = "Faster R-CNN"
+aliases = ["Faster RCNN"]
+
+[[entity]]
+type = "method"
+canonical = "Mask R-CNN"
+aliases = ["Mask RCNN"]
+
+[[entity]]
+type = "method"
+canonical = "YOLO"
+aliases = ["You Only Look Once"]
+
+[[entity]]
+type = "method"
+canonical = "SGD"
+aliases = ["Stochastic Gradient Descent"]
+
+[[entity]]
+type = "method"
+canonical = "Adam"
+aliases = ["Adam optimizer", "Adam optimiser"]
+
+[[entity]]
+type = "dataset"
+canonical = "ImageNet-1k"
+aliases = ["ImageNet", "ImageNet-1K", "ILSVRC-2012", "ILSVRC 2012", "ILSVRC2012", "ImageNet ILSVRC-2012", "ImageNet-1000"]
+
+[[entity]]
+type = "dataset"
+canonical = "ImageNet-21k"
+aliases = ["ImageNet-21K", "ImageNet21k", "full ImageNet"]
+
+[[entity]]
+type = "dataset"
+canonical = "COCO"
+aliases = ["MS COCO", "MS-COCO", "Microsoft COCO", "MSCOCO", "COCO 2017", "Common Objects in Context"]
+
+[[entity]]
+type = "dataset"
+canonical = "CIFAR-10"
+aliases = ["CIFAR10"]
+
+[[entity]]
+type = "dataset"
+canonical = "CIFAR-100"
+aliases = ["CIFAR100"]
+
+[[entity]]
+type = "dataset"
+canonical = "MNIST"
+aliases = ["MNIST handwritten digits"]
+
+[[entity]]
+type = "dataset"
+canonical = "Pascal VOC"
+aliases = ["PASCAL VOC", "VOC", "VOC2012", "Pascal VOC 2012"]
+
+[[entity]]
+type = "dataset"
+canonical = "ADE20K"
+aliases = ["ADE20k", "ADE-20K", "ADE 20K"]
+
+[[entity]]
+type = "dataset"
+canonical = "Cityscapes"
+aliases = ["CityScapes"]
+
+[[entity]]
+type = "dataset"
+canonical = "JFT-300M"
+aliases = ["JFT 300M", "JFT300M"]
+
+[[entity]]
+type = "dataset"
+canonical = "GLUE"
+aliases = ["GLUE benchmark", "General Language Understanding Evaluation"]
+
+[[entity]]
+type = "dataset"
+canonical = "SQuAD"
+aliases = ["SQuAD 1.1", "Stanford Question Answering Dataset"]
+
+[[entity]]
+type = "dataset"
+canonical = "KITTI"
+aliases = ["KITTI dataset"]
+
+[[entity]]
+type = "dataset"
+canonical = "Mip-NeRF 360"
+aliases = ["Mip-NeRF360", "MipNeRF360", "Mip NeRF 360"]
+
+[[entity]]
+type = "task"
+canonical = "image classification"
+aliases = ["image recognition", "visual classification"]
+
+[[entity]]
+type = "task"
+canonical = "object detection"
+aliases = ["object recognition and localization"]
+
+[[entity]]
+type = "task"
+canonical = "semantic segmentation"
+aliases = ["semantic image segmentation"]
+
+[[entity]]
+type = "task"
+canonical = "novel view synthesis"
+aliases = ["NVS", "view synthesis", "novel-view synthesis"]
+
+[[entity]]
+type = "task"
+canonical = "machine translation"
+aliases = ["neural machine translation", "NMT"]
+
+[[entity]]
+type = "task"
+canonical = "question answering"
+aliases = ["QA", "question-answering"]
+
+[[entity]]
+type = "metric"
+canonical = "top-1 accuracy"
+aliases = ["Top-1 Acc", "top1 accuracy", "top-1 acc.", "Top-1", "top 1 accuracy"]
+
+[[entity]]
+type = "metric"
+canonical = "top-5 accuracy"
+aliases = ["Top-5 Acc", "top5 accuracy", "top-5 acc.", "Top-5"]
+
+[[entity]]
+type = "metric"
+canonical = "accuracy"
+aliases = ["acc", "classification accuracy"]
+
+[[entity]]
+type = "metric"
+canonical = "mAP"
+aliases = ["mean average precision", "mean Average Precision"]
+
+[[entity]]
+type = "metric"
+canonical = "mIoU"
+aliases = ["mean IoU", "mean intersection over union", "mean Intersection-over-Union"]
+
+[[entity]]
+type = "metric"
+canonical = "PSNR"
+aliases = ["peak signal-to-noise ratio", "Peak Signal to Noise Ratio"]
+
+[[entity]]
+type = "metric"
+canonical = "SSIM"
+aliases = ["structural similarity", "structural similarity index", "Structural Similarity Index Measure"]
+
+[[entity]]
+type = "metric"
+canonical = "LPIPS"
+aliases = ["learned perceptual image patch similarity"]
+
+[[entity]]
+type = "metric"
+canonical = "F1"
+aliases = ["F1 score", "F1-score", "F-score", "F1 measure"]
+
+[[entity]]
+type = "metric"
+canonical = "BLEU"
+aliases = ["BLEU score"]
+
+[[entity]]
+type = "metric"
+canonical = "FID"
+aliases = ["Frechet Inception Distance", "Fréchet Inception Distance"]

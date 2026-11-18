@@ -3,17 +3,18 @@
 Tables are left exactly as PyMuPDF extracts them: the messy text is the
 realistic baseline.
 """
+
 import csv
 import re
 import time
 
+import httpx
 import pymupdf
-import requests
 
 from lacuna.deepread.config import PAGES_PATH, PAPERS_CSV, PDF_DIR, write_jsonl
 
 ABS_VERSION = re.compile(r"\[v(\d+)\]")
-USER_AGENT = "figrag/0.1 (+https://github.com/ZainnB/FAMM-RAG)"
+USER_AGENT = "lacuna-deepread/0.1"
 RETRY_STATUS = {406, 429, 500, 502, 503}
 VERSIONED_ID = re.compile(r"^\d{4}\.\d{4,5}v\d+$")
 # Math fonts map bracket glyphs to control codes; Postgres rejects the NULs.
@@ -39,17 +40,25 @@ def write_papers(rows: list[dict]) -> None:
         writer.writerows(rows)
 
 
-def fetch(url: str, tries: int = 6) -> requests.Response:
-    """GET with exponential backoff; arXiv answers bursts with 406/429/503."""
-    for attempt in range(tries):
-        resp = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=60)
-        if resp.status_code == 200:
-            return resp
-        if resp.status_code not in RETRY_STATUS or attempt == tries - 1:
-            resp.raise_for_status()
-        wait = 5 * 2**attempt
-        print(f"arXiv returned {resp.status_code}; retrying in {wait}s")
-        time.sleep(wait)
+def fetch(url: str, tries: int = 6) -> httpx.Response:
+    """GET with exponential backoff; arXiv answers bursts with 406/429/503.
+
+    The body is streamed and read in full, with a 60s timeout, so a stalled PDF download fails
+    instead of hanging.
+    """
+    timeout = httpx.Timeout(60.0)
+    with httpx.Client(headers={"User-Agent": USER_AGENT}, timeout=timeout, follow_redirects=True) as client:
+        for attempt in range(tries):
+            with client.stream("GET", url) as resp:
+                if resp.status_code == 200:
+                    resp.read()
+                    return resp
+                if resp.status_code not in RETRY_STATUS or attempt == tries - 1:
+                    resp.read()
+                    resp.raise_for_status()
+            wait = 5 * 2**attempt
+            print(f"arXiv returned {resp.status_code}; retrying in {wait}s")
+            time.sleep(wait)
     raise AssertionError("unreachable")
 
 
@@ -133,7 +142,9 @@ def extract_pages(pdf_path) -> list[dict]:
     lines = []
     with pymupdf.open(pdf_path) as doc:
         for page_no, page in enumerate(doc, start=1):
-            lines.extend((page_no, CONTROL_CHARS.sub("", line)) for line in page.get_text("text").splitlines())
+            lines.extend(
+                (page_no, CONTROL_CHARS.sub("", line)) for line in page.get_text("text").splitlines()
+            )
         headings = headings_like_references(doc)
     pages: dict[int, list[str]] = {}
     for page_no, line in strip_references(lines, headings):
@@ -149,7 +160,7 @@ def ingest() -> list[dict]:
     pinned = [p["arxiv_id"] for p in read_papers()]
     missing = [pid for pid in pinned if not (PDF_DIR / f"{pid}.pdf").exists()]
     if missing:
-        raise SystemExit(f"missing PDFs (run `figrag download`): {missing}")
+        raise SystemExit(f"missing PDFs (run `lacuna deepread download`): {missing}")
     pages = [page for pid in pinned for page in extract_pages(PDF_DIR / f"{pid}.pdf")]
     write_jsonl(PAGES_PATH, pages)
     print(f"{len(pages)} pages from {len(pinned)} papers -> {PAGES_PATH}")

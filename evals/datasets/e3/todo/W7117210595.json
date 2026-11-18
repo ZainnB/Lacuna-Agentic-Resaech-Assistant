@@ -1,0 +1,14 @@
+{
+  "paper_id": "W7117210595",
+  "title": "Efficient vision transformer inference on edge devices",
+  "labeller": "",
+  "labelled_on": "",
+  "scope": "abstract",
+  "split": "reporting",
+  "abstract": "Aquests últims anys els Transformadors de Visió (ViTs) han mostrat rendiments impressionants en tasques de visió per computador, però els seus grans costos computacionals els fa difícils de fer servir en dispositius edge amb recursos limitats. Aquesta tesi explora com fer als ViTs més eficients durant la inferència aplicant sobre aquest quatre tècniques ben conegudes: quantization, knowledge distillation, token merging i pruning. Cada tècnica va ser primer provada de manera individual i, després, van ser combinades de diferents maneres per veure com interactuaven entre elles. Per a cada experiment, els canvis en la latència, ús de memòria i precisió han estat mesurats i una mètrica pròpia de trade-off ha estat introduïda per entendre millor com cadascun dels mètodes balanceja l'eficiència i el rendiment del model. Els resultats remarquen quina de les tècniques-i les seves combinacions-ofereixen les millores més altes, proporcionant una guia útil per implementar ViTs en dispositius amb recursos limitats.",
+  "methods": [],
+  "datasets": [],
+  "tasks": [],
+  "metrics": [],
+  "notes": ""
+}

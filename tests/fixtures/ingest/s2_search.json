@@ -1,0 +1,5 @@
+{"total": 2, "offset": 0, "data": [
+ {"paperId": "abc123", "title": "An Image is Worth 16x16 Words", "year": 2020, "citationCount": 900,
+  "externalIds": {"DOI": "10.48550/ARXIV.2010.11929", "ArXiv": "2010.11929", "CorpusId": 1}},
+ {"paperId": "def456", "title": "No ids paper", "year": 2021, "citationCount": 3, "externalIds": {}}
+]}

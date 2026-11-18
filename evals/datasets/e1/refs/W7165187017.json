@@ -1,0 +1,2542 @@
+[
+ {
+  "arxiv_id": null,
+  "cited_by_count": 5871,
+  "doi": "https://doi.org/10.1007/978-3-030-58452-8_24",
+  "id": "W3109585842",
+  "publication_date": "2020-01-01",
+  "publication_year": 2020,
+  "title": "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 7081,
+  "doi": "https://doi.org/10.1109/iccv48922.2021.00951",
+  "id": "W3159481202",
+  "publication_date": "2021-10-01",
+  "publication_year": 2021,
+  "title": "Emerging Properties in Self-Supervised Vision Transformers",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 216,
+  "doi": "https://doi.org/10.1109/iccv48922.2021.00572",
+  "id": "W3203312108",
+  "publication_date": "2021-10-01",
+  "publication_year": 2021,
+  "title": "Editing Conditional Radiance Fields",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 229,
+  "doi": "https://doi.org/10.1109/iccv48922.2021.01352",
+  "id": "W3204326360",
+  "publication_date": "2021-10-01",
+  "publication_year": 2021,
+  "title": "Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 436,
+  "doi": "https://doi.org/10.1109/iccv48922.2021.01554",
+  "id": "W3210613940",
+  "publication_date": "2021-10-01",
+  "publication_year": 2021,
+  "title": "In-Place Scene Labelling and Understanding with Implicit Scene Representation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 3035,
+  "doi": "https://doi.org/10.1109/iccv48922.2021.01595",
+  "id": "W4214755140",
+  "publication_date": "2021-10-01",
+  "publication_year": 2021,
+  "title": "Point Transformer",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 29,
+  "doi": "https://doi.org/10.1007/978-3-031-20062-5_2",
+  "id": "W4312407972",
+  "publication_date": "2022-01-01",
+  "publication_year": 2022,
+  "title": "LaTeRF: Label and Text Driven Object Radiance Fields",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 1232,
+  "doi": "https://doi.org/10.1109/cvpr52688.2022.01565",
+  "id": "W4312453532",
+  "publication_date": "2022-06-01",
+  "publication_year": 2022,
+  "title": "Efficient Geometry-aware 3D Generative Adversarial Networks",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 218,
+  "doi": "https://doi.org/10.1109/cvpr52688.2022.01041",
+  "id": "W4312567873",
+  "publication_date": "2022-06-01",
+  "publication_year": 2022,
+  "title": "GRAM: Generative Radiance Manifolds for 3D-Aware Image Generation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 20670,
+  "doi": "https://doi.org/10.1109/cvpr52688.2022.01042",
+  "id": "W4312933868",
+  "publication_date": "2022-06-01",
+  "publication_year": 2022,
+  "title": "High-Resolution Image Synthesis with Latent Diffusion Models",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 404,
+  "doi": "https://doi.org/10.1109/cvpr52688.2022.00381",
+  "id": "W4312971576",
+  "publication_date": "2022-06-01",
+  "publication_year": 2022,
+  "title": "CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 88,
+  "doi": "https://doi.org/10.1109/cvpr52688.2022.01807",
+  "id": "W4313167908",
+  "publication_date": "2022-06-01",
+  "publication_year": 2022,
+  "title": "CoNeRF: Controllable Neural Radiance Fields",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 164,
+  "doi": "https://doi.org/10.1109/3dv57658.2022.00056",
+  "id": "W4321512591",
+  "publication_date": "2022-09-01",
+  "publication_year": 2022,
+  "title": "Neural Feature Fusion Fields: 3D Distillation of Self-Supervised 2D Image Representations",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 7323,
+  "doi": "https://doi.org/10.1145/3592433",
+  "id": "W4385318467",
+  "publication_date": "2023-07-26",
+  "publication_year": 2023,
+  "title": "3D Gaussian Splatting for Real-Time Radiance Field Rendering",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 179,
+  "doi": "https://doi.org/10.1109/cvpr52729.2023.01980",
+  "id": "W4386065379",
+  "publication_date": "2023-06-01",
+  "publication_year": 2023,
+  "title": "SPIn-NeRF: Multiview Segmentation and Perceptual Inpainting with Neural Radiance Fields",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 1100,
+  "doi": "https://doi.org/10.1109/cvpr52729.2023.00037",
+  "id": "W4386065887",
+  "publication_date": "2023-06-01",
+  "publication_year": 2023,
+  "title": "Magic3D: High-Resolution Text-to-3D Content Creation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 3018,
+  "doi": "https://doi.org/10.1109/cvpr52729.2023.02155",
+  "id": "W4386072096",
+  "publication_date": "2023-06-01",
+  "publication_year": 2023,
+  "title": "DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 69,
+  "doi": "https://doi.org/10.1109/cvpr52729.2023.00409",
+  "id": "W4386075659",
+  "publication_date": "2023-06-01",
+  "publication_year": 2023,
+  "title": "Interactive Segmentation of Radiance Fields",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 446,
+  "doi": "https://doi.org/10.1109/cvpr52729.2023.01214",
+  "id": "W4386075859",
+  "publication_date": "2023-06-01",
+  "publication_year": 2023,
+  "title": "Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 162,
+  "doi": "https://doi.org/10.1109/cvpr52729.2023.00873",
+  "id": "W4386075898",
+  "publication_date": "2023-06-01",
+  "publication_year": 2023,
+  "title": "Panoptic Lifting for 3D Scene Understanding with Neural Fields",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 455,
+  "doi": "https://doi.org/10.1109/cvpr52729.2023.01218",
+  "id": "W4386075992",
+  "publication_date": "2023-06-01",
+  "publication_year": 2023,
+  "title": "Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 1961,
+  "doi": "https://doi.org/10.1109/cvpr52729.2023.01764",
+  "id": "W4386076215",
+  "publication_date": "2023-06-01",
+  "publication_year": 2023,
+  "title": "InstructPix2Pix: Learning to Follow Image Editing Instructions",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 377,
+  "doi": "https://doi.org/10.1145/3807511",
+  "id": "W4390723081",
+  "publication_date": "2026-04-09",
+  "publication_year": 2026,
+  "title": "A Survey on 3D Gaussian Splatting",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 3796,
+  "doi": "https://doi.org/10.1109/iccv51070.2023.00387",
+  "id": "W4390872297",
+  "publication_date": "2023-10-01",
+  "publication_year": 2023,
+  "title": "Scalable Diffusion Models with Transformers",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 446,
+  "doi": "https://doi.org/10.1109/iccv51070.2023.01808",
+  "id": "W4390872653",
+  "publication_date": "2023-10-01",
+  "publication_year": 2023,
+  "title": "Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 486,
+  "doi": "https://doi.org/10.1109/iccv51070.2023.01807",
+  "id": "W4390872744",
+  "publication_date": "2023-10-01",
+  "publication_year": 2023,
+  "title": "LERF: Language Embedded Radiance Fields",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 132,
+  "doi": "https://doi.org/10.1109/iccv51070.2023.00254",
+  "id": "W4390872914",
+  "publication_date": "2023-10-01",
+  "publication_year": 2023,
+  "title": "MeViS: A Large-scale Benchmark for Video Segmentation with Motion Expressions",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 176,
+  "doi": "https://doi.org/10.1109/iccv51070.2023.01850",
+  "id": "W4390873799",
+  "publication_date": "2023-10-01",
+  "publication_year": 2023,
+  "title": "MOSE: A New Dataset for Video Object Segmentation in Complex Scenes",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 246,
+  "doi": "https://doi.org/10.1109/iccv51070.2023.00727",
+  "id": "W4390874211",
+  "publication_date": "2023-10-01",
+  "publication_year": 2023,
+  "title": "Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 16933,
+  "doi": "https://doi.org/10.1109/iccv51070.2023.00371",
+  "id": "W4390874575",
+  "publication_date": "2023-10-01",
+  "publication_year": 2023,
+  "title": "Segment Anything",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 137,
+  "doi": "https://doi.org/10.1145/3658187",
+  "id": "W4391506026",
+  "publication_date": "2024-07-19",
+  "publication_year": 2024,
+  "title": "StopThePop: Sorted Gaussian Splatting for View-Consistent Real-time Rendering",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 144,
+  "doi": "https://doi.org/10.1109/tvcg.2024.3361502",
+  "id": "W4391547698",
+  "publication_date": "2024-02-05",
+  "publication_year": 2024,
+  "title": "Text2NeRF: Text-Driven 3D Scene Generation With Neural Radiance Fields",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 303,
+  "doi": "https://doi.org/10.1109/tvcg.2024.3397828",
+  "id": "W4391800855",
+  "publication_date": "2024-05-07",
+  "publication_year": 2024,
+  "title": "3D Gaussian Splatting as a New Era: A Survey",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 168,
+  "doi": "https://doi.org/10.1145/3651282",
+  "id": "W4394974290",
+  "publication_date": "2024-05-11",
+  "publication_year": 2024,
+  "title": "Reducing the Memory Footprint of 3D Gaussian Splatting",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 11,
+  "doi": "https://doi.org/10.1109/tcsvt.2026.3701506",
+  "id": "W4398191786",
+  "publication_date": "2026-06-09",
+  "publication_year": 2026,
+  "title": "Dreamer XL: Towards High-Resolution Text-to-3D Generation via Trajectory Score Matching",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 711,
+  "doi": "https://doi.org/10.1109/3dv62453.2024.00044",
+  "id": "W4399574574",
+  "publication_date": "2024-03-18",
+  "publication_year": 2024,
+  "title": "Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 318,
+  "doi": "https://doi.org/10.1007/s41095-024-0436-y",
+  "id": "W4400403028",
+  "publication_date": "2024-07-07",
+  "publication_year": 2024,
+  "title": "Recent advances in 3D Gaussian splatting",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 198,
+  "doi": "https://doi.org/10.1145/3641519.3657463",
+  "id": "W4400573485",
+  "publication_date": "2024-07-12",
+  "publication_year": 2024,
+  "title": "4D-Rotor Gaussian Splatting: Towards Efficient Novel View Synthesis for Dynamic Scenes",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 217,
+  "doi": "https://doi.org/10.1145/3641519.3657448",
+  "id": "W4400581036",
+  "publication_date": "2024-07-12",
+  "publication_year": 2024,
+  "title": "VR-GS: A Physical Dynamics-Aware Interactive Gaussian Splatting System in Virtual Reality",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "2407.09473",
+  "cited_by_count": 22,
+  "doi": "https://doi.org/10.48550/arxiv.2407.09473",
+  "id": "W4400668548",
+  "publication_date": "2024-07-12",
+  "publication_year": 2024,
+  "title": "StyleSplat: 3D Object Style Transfer with Gaussian Splatting",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 87,
+  "doi": "https://doi.org/10.1145/3658205",
+  "id": "W4400819283",
+  "publication_date": "2024-07-19",
+  "publication_year": 2024,
+  "title": "TIP-Editor: An Accurate 3D Editor Following Both Text-Prompts And Image-Prompts",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 19,
+  "doi": "https://doi.org/10.24963/ijcai.2024/130",
+  "id": "W4401024770",
+  "publication_date": "2024-07-26",
+  "publication_year": 2024,
+  "title": "FastScene: Text-Driven Fast Indoor 3D Scene Generation via Panoramic Gaussian Splatting",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 36,
+  "doi": "https://doi.org/10.1049/ipr2.13190",
+  "id": "W4401029143",
+  "publication_date": "2024-07-26",
+  "publication_year": 2024,
+  "title": "Point'n Move: Interactive scene object manipulation on Gaussian splatting radiance fields",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 101,
+  "doi": "https://doi.org/10.1007/s11263-024-02183-8",
+  "id": "W4401523508",
+  "publication_date": "2024-08-12",
+  "publication_year": 2024,
+  "title": "FMGS: Foundation Model Embedded 3D Gaussian Splatting for Holistic 3D Scene Understanding",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 308,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.00813",
+  "id": "W4402660132",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 509,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.01853",
+  "id": "W4402698358",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 151,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.01975",
+  "id": "W4402702918",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "GaussianEditor: Editing 3D Gaussians Delicately with Text Instructions",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 94,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.02034",
+  "id": "W4402703038",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "GARField: Group Anything with Radiance Fields",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 208,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.02045",
+  "id": "W4402704577",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "GS-IR: 3D Gaussian Splatting for Inverse Rendering",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 749,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.00512",
+  "id": "W4402704609",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 156,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.01954",
+  "id": "W4402704624",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "3DGStream: On-the-Fly Training of 3D Gaussians for Efficient Streaming of Photo-Realistic Free-Viewpoint Videos",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 710,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.01922",
+  "id": "W4402713101",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 433,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.01840",
+  "id": "W4402715971",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "PixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 779,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.01839",
+  "id": "W4402715988",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "Mip-Splatting: Alias-Free 3D Gaussian Splatting",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 328,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.02048",
+  "id": "W4402716032",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "Feature 3DGS: Supercharging 3D Gaussian Splatting to Enable Distilled Feature Fields",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 280,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.00509",
+  "id": "W4402716145",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "GaussianShader: 3D Gaussian Splatting with Shading Functions for Reflective Surfaces",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 311,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.00420",
+  "id": "W4402716153",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 128,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.02024",
+  "id": "W4402716301",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "FreGS: 3D Gaussian Splatting with Progressive Frequency Regularization",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 384,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.02052",
+  "id": "W4402716359",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "Compact 3D Gaussian Representation for Radiance Field",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 707,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.01952",
+  "id": "W4402716405",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "Scaffold-GS: Structured 3D Gaussians for View-Adaptive Rendering",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 281,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.00985",
+  "id": "W4402726969",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "Compressed 3D Gaussian Splatting for Accelerated Novel View Synthesis",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 99,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.00636",
+  "id": "W4402727155",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "WonderJourney: Going from Anywhere to Everywhere",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 302,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.02022",
+  "id": "W4402727236",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "Text-to-3D using Gaussian Splatting",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 80,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.00850",
+  "id": "W4402727240",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "3D Geometry-aware Deformable Gaussian Splatting for Dynamic View Synthesis",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 336,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.00889",
+  "id": "W4402727293",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "Rethinking FID: Towards a Better Evaluation Metric for Image Generation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 421,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.01895",
+  "id": "W4402727529",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "LangSplat: 3D Language Gaussian Splatting",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 169,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.01977",
+  "id": "W4402727541",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "Multi-Scale 3D Gaussian Splatting for Anti-Aliased Rendering",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 73,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.01948",
+  "id": "W4402727747",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "OmniSeg3D: Omniversal 3D Segmentation via Hierarchical Contrastive Learning",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 162,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.00900",
+  "id": "W4402727792",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "ZeroNVS: Zero-Shot 360-Degree View Synthesis from a Single Image",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 261,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.00972",
+  "id": "W4402727821",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "Splatter Image: Ultra-Fast Single-View 3D Reconstruction",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 244,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.00623",
+  "id": "W4402727912",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 1195,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.01920",
+  "id": "W4402727915",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "4D Gaussian Splatting for Real-Time Dynamic Scene Rendering",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 179,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.01997",
+  "id": "W4402753509",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "Gaussian-Flow: 4D Reconstruction with Dynamic 3D Gaussian Particle",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 345,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.01919",
+  "id": "W4402753521",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "GaussianAvatars: Photorealistic Head Avatars with Rigged 3D Gaussians",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 243,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.00983",
+  "id": "W4402753761",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "Triplane Meets Gaussian Splatting: Fast and Generalizable Single-View 3D Reconstruction with Transformers",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 328,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.02029",
+  "id": "W4402753826",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 383,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.00649",
+  "id": "W4402753842",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "GaussianDreamer: Fast Generation from Text to 3D Gaussians by Bridging 2D and 3D Diffusion Models",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 267,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.00494",
+  "id": "W4402754019",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 283,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.01963",
+  "id": "W4402754045",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "DNGaussian: Optimizing Sparse-View 3D Gaussian Radiance Fields with Global-Local Depth Normalization",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 356,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.02044",
+  "id": "W4402754225",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "DrivingGaussian: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 134,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.00946",
+  "id": "W4402754301",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "RichDreamer: A Generalizable Normal-Depth Diffusion Model for Detail Richness in Text-to-3D",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 146,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.00510",
+  "id": "W4402771875",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "Language Embedded 3D Gaussians for Open-Vocabulary Scene Understanding",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 123,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.00635",
+  "id": "W4402782434",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "HumanGaussian: Text-Driven 3D Human Generation with Gaussian Splatting",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 32,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.02002",
+  "id": "W4402783077",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "SpecNeRF: Gaussian Directional Encoding for Specular Reflections",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 914,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.01956",
+  "id": "W4402816534",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "DUSt3R: Geometric 3D Vision Made Easy",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 208,
+  "doi": "https://doi.org/10.1109/cvprw63382.2024.00086",
+  "id": "W4402916615",
+  "publication_date": "2024-06-17",
+  "publication_year": 2024,
+  "title": "Depth-Regularized Optimization for 3D Gaussian Splatting in Few-Shot Images",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 96,
+  "doi": "https://doi.org/10.1007/978-3-031-73232-4_19",
+  "id": "W4402951620",
+  "publication_date": "2024-09-29",
+  "publication_year": 2024,
+  "title": "CoR-GS: Sparse-View 3D Gaussian Splatting via Co-regularization",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 492,
+  "doi": "https://doi.org/10.1007/978-3-031-73235-5_1",
+  "id": "W4402951629",
+  "publication_date": "2024-09-29",
+  "publication_year": 2024,
+  "title": "LGM: Large Multi-view Gaussian Model for High-Resolution 3D Content Creation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 45,
+  "doi": "https://doi.org/10.1007/978-3-031-72670-5_26",
+  "id": "W4402952294",
+  "publication_date": "2024-09-29",
+  "publication_year": 2024,
+  "title": "FlashSplat: 2D to 3D Gaussian Splatting Segmentation Solved Optimally",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 209,
+  "doi": "https://doi.org/10.1007/978-3-031-72670-5_1",
+  "id": "W4402952317",
+  "publication_date": "2024-09-29",
+  "publication_year": 2024,
+  "title": "GS-LRM: Large Reconstruction Model for 3D Gaussian Splatting",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 50,
+  "doi": "https://doi.org/10.1007/978-3-031-72761-0_23",
+  "id": "W4402952492",
+  "publication_date": "2024-09-29",
+  "publication_year": 2024,
+  "title": "View-Consistent 3D Editing with Gaussian Splatting",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 308,
+  "doi": "https://doi.org/10.1007/978-3-031-72933-1_9",
+  "id": "W4403069195",
+  "publication_date": "2024-10-02",
+  "publication_year": 2024,
+  "title": "FSGS: Real-Time Few-Shot View Synthesis Using Gaussian Splatting",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 80,
+  "doi": "https://doi.org/10.1007/978-3-031-72658-3_19",
+  "id": "W4403081614",
+  "publication_date": "2024-10-02",
+  "publication_year": 2024,
+  "title": "DreamScene360: Unconstrained Text-to-3D Scene Generation with Panoramic Gaussian Splatting",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 14,
+  "doi": "https://doi.org/10.1007/s11263-026-02805-3",
+  "id": "W4403324172",
+  "publication_date": "2026-04-07",
+  "publication_year": 2026,
+  "title": "GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 94,
+  "doi": "https://doi.org/10.1007/978-3-031-72627-9_22",
+  "id": "W4403562035",
+  "publication_date": "2024-10-19",
+  "publication_year": 2024,
+  "title": "PhysDreamer: Physics-Based Interaction with 3D Objects via Video Generation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 43,
+  "doi": "https://doi.org/10.1007/978-3-031-72627-9_23",
+  "id": "W4403562064",
+  "publication_date": "2024-10-19",
+  "publication_year": 2024,
+  "title": "Reconstruction and Simulation of Elastic Objects with Spring-Mass 3D Gaussians",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 63,
+  "doi": "https://doi.org/10.1109/iccv51701.2025.00414",
+  "id": "W4403583115",
+  "publication_date": "2025-10-19",
+  "publication_year": 2025,
+  "title": "Long-LRM: Long-Sequence Large Reconstruction Model for Wide-Coverage Gaussian Splats",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 38,
+  "doi": "https://doi.org/10.1007/978-3-031-72989-8_17",
+  "id": "W4403759415",
+  "publication_date": "2024-10-25",
+  "publication_year": 2024,
+  "title": "BAGS: Blur Agnostic Gaussian Splatting Through Multi-scale Kernel Modeling",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 5,
+  "doi": "https://doi.org/10.1007/978-3-031-72664-4_17",
+  "id": "W4403759715",
+  "publication_date": "2024-10-25",
+  "publication_year": 2024,
+  "title": "WaSt-3D: Wasserstein-2 Distance for Scene-to-Scene Stylization on 3D Gaussians",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 406,
+  "doi": "https://doi.org/10.1007/978-3-031-72664-4_21",
+  "id": "W4403761012",
+  "publication_date": "2024-10-25",
+  "publication_year": 2024,
+  "title": "MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-view Images",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 36,
+  "doi": "https://doi.org/10.1007/978-3-031-72698-9_3",
+  "id": "W4403778873",
+  "publication_date": "2024-10-25",
+  "publication_year": 2024,
+  "title": "Texture-GS: Disentangling the Geometry and Texture for 3D Gaussian Splatting Editing",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 71,
+  "doi": "https://doi.org/10.1007/978-3-031-72698-9_14",
+  "id": "W4403779118",
+  "publication_date": "2024-10-25",
+  "publication_year": 2024,
+  "title": "BAD-Gaussians: Bundle Adjusted Deblur Gaussian Splatting",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 12,
+  "doi": "https://doi.org/10.1145/3664647.3680920",
+  "id": "W4403791464",
+  "publication_date": "2024-10-26",
+  "publication_year": 2024,
+  "title": "Large Point-to-Gaussian Model for Image-to-3D Generation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 42,
+  "doi": "https://doi.org/10.1145/3664647.3680852",
+  "id": "W4403791740",
+  "publication_date": "2024-10-26",
+  "publication_year": 2024,
+  "title": "GOI: Find 3D Gaussians of Interest with an Optimizable Open-vocabulary Semantic-space Hyperplane",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 39,
+  "doi": "https://doi.org/10.1145/3664647.3681634",
+  "id": "W4403792297",
+  "publication_date": "2024-10-26",
+  "publication_year": 2024,
+  "title": "Hi3D: Pursuing High-Resolution Image-to-3D Generation with Video Diffusion Models",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 38,
+  "doi": "https://doi.org/10.1007/978-3-031-73242-3_26",
+  "id": "W4403842650",
+  "publication_date": "2024-10-28",
+  "publication_year": 2024,
+  "title": "GVGEN: Text-to-3D Generation with Volumetric Representation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 221,
+  "doi": "https://doi.org/10.1007/978-3-031-72980-5_10",
+  "id": "W4403843633",
+  "publication_date": "2024-01-01",
+  "publication_year": 2024,
+  "title": "Mini-Splatting: Representing Scenes with a Constrained Number of Gaussians",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 34,
+  "doi": "https://doi.org/10.1007/978-3-031-72646-0_1",
+  "id": "W4403844619",
+  "publication_date": "2024-10-28",
+  "publication_year": 2024,
+  "title": "Learning 3D Geometry and Feature Consistent Gaussian Splatting for Object Removal",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 54,
+  "doi": "https://doi.org/10.1007/978-3-031-72646-0_17",
+  "id": "W4403844667",
+  "publication_date": "2024-10-28",
+  "publication_year": 2024,
+  "title": "Click-Gaussian: Interactive Segmentation to Any 3D Gaussians",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 7,
+  "doi": "https://doi.org/10.1007/978-3-031-73404-5_5",
+  "id": "W4403866814",
+  "publication_date": "2024-10-29",
+  "publication_year": 2024,
+  "title": "3DEgo: 3D Editing on the Go!",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 45,
+  "doi": "https://doi.org/10.1007/978-3-031-73247-8_20",
+  "id": "W4403946970",
+  "publication_date": "2024-10-31",
+  "publication_year": 2024,
+  "title": "LaRa: Efficient Large-Baseline Radiance Fields",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 99,
+  "doi": "https://doi.org/10.1007/978-3-031-72986-7_15",
+  "id": "W4403990489",
+  "publication_date": "2024-11-01",
+  "publication_year": 2024,
+  "title": "DynMF: Neural Motion Factorization for Real-Time Dynamic View Synthesis with 3D Gaussian Splatting",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 19,
+  "doi": "https://doi.org/10.1109/iccv51701.2025.00698",
+  "id": "W4403995944",
+  "publication_date": "2025-10-19",
+  "publication_year": 2025,
+  "title": "LUDVIG: Learning-Free Uplifting of 2D Visual Features to Gaussian Splatting Scenes",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 337,
+  "doi": "https://doi.org/10.1007/978-3-031-73397-0_10",
+  "id": "W4404002612",
+  "publication_date": "2024-11-02",
+  "publication_year": 2024,
+  "title": "Gaussian Grouping: Segment and Edit Anything in 3D Scenes",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 8,
+  "doi": "https://doi.org/10.1111/cgf.15215",
+  "id": "W4404020900",
+  "publication_date": "2024-10-01",
+  "publication_year": 2024,
+  "title": "GSEditPro: 3D Gaussian Splatting Editing with Attention‐based Progressive Localization",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 36,
+  "doi": "https://doi.org/10.1109/iccv51701.2025.02485",
+  "id": "W4404261313",
+  "publication_date": "2025-10-19",
+  "publication_year": 2025,
+  "title": "Vistadream: Sampling Multiview Consistent Images for Single-View Scene Reconstruction",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 30,
+  "doi": "https://doi.org/10.1007/978-3-031-72940-9_21",
+  "id": "W4404446913",
+  "publication_date": "2024-11-16",
+  "publication_year": 2024,
+  "title": "Language-Driven Physics-Based Scene Synthesis and Editing via Feature Splatting",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 93,
+  "doi": "https://doi.org/10.1145/3681758.3698002",
+  "id": "W4404520200",
+  "publication_date": "2024-11-19",
+  "publication_year": 2024,
+  "title": "StyleGaussian: Instant 3D Style Transfer with Gaussian Splatting",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 60,
+  "doi": "https://doi.org/10.1007/978-3-031-72904-1_13",
+  "id": "W4404531449",
+  "publication_date": "2024-11-20",
+  "publication_year": 2024,
+  "title": "DreamScene: 3D Gaussian-Based Text-to-3D Scene Generation via Formation Pattern Sampling",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 29,
+  "doi": "https://doi.org/10.1007/978-3-031-73202-7_12",
+  "id": "W4404534221",
+  "publication_date": "2024-11-20",
+  "publication_year": 2024,
+  "title": "N2F2: Hierarchical Scene Understanding with Nested Neural Feature Fields",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 65,
+  "doi": "https://doi.org/10.1007/978-3-031-72904-1_5",
+  "id": "W4404536255",
+  "publication_date": "2024-11-20",
+  "publication_year": 2024,
+  "title": "DGE: Direct Gaussian 3D Editing by Consistent Multi-view Editing",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 182,
+  "doi": "https://doi.org/10.1007/978-3-031-73036-8_4",
+  "id": "W4404545288",
+  "publication_date": "2024-11-20",
+  "publication_year": 2024,
+  "title": "EAGLES: Efficient Accelerated 3D Gaussians with Lightweight EncodingS",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 90,
+  "doi": "https://doi.org/10.1007/978-3-031-73021-4_27",
+  "id": "W4404545830",
+  "publication_date": "2024-11-20",
+  "publication_year": 2024,
+  "title": "LatentSplat: Autoencoding Variational Gaussians for Fast Generalizable 3D Reconstruction",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 69,
+  "doi": "https://doi.org/10.1007/978-3-031-72643-9_17",
+  "id": "W4404582847",
+  "publication_date": "2024-11-21",
+  "publication_year": 2024,
+  "title": "Analytic-Splatting: Anti-Aliased 3D Gaussian Splatting via Analytic Integration",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 12,
+  "doi": "https://doi.org/10.1145/3680528.3687601",
+  "id": "W4404965638",
+  "publication_date": "2024-12-03",
+  "publication_year": 2024,
+  "title": "Portrait Video Editing Empowered by Multimodal Generative Priors",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 81,
+  "doi": "https://doi.org/10.1007/978-3-031-72630-9_4",
+  "id": "W4405003283",
+  "publication_date": "2024-12-04",
+  "publication_year": 2024,
+  "title": "GaussCtrl: Multi-view Consistent Text-Driven 3D Gaussian Splatting Editing",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 41,
+  "doi": "https://doi.org/10.1109/wacv61042.2026.00185",
+  "id": "W4405034378",
+  "publication_date": "2026-03-06",
+  "publication_year": 2026,
+  "title": "3DSceneEditor: Controllable 3D Scene Editing with Gaussian Splatting",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 33,
+  "doi": "https://doi.org/10.1109/iccv51701.2025.02360",
+  "id": "W4405355483",
+  "publication_date": "2025-10-19",
+  "publication_year": 2025,
+  "title": "FreeSplatter: Pose-free Gaussian Splatting for Sparse-view 3D Reconstruction",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 31,
+  "doi": "https://doi.org/10.1109/3dv69130.2026.00157",
+  "id": "W4405434078",
+  "publication_date": "2026-03-20",
+  "publication_year": 2026,
+  "title": "SuperGSeg: Open-Vocabulary 3D Segmentation with Structured Super-Gaussians",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 17,
+  "doi": "https://doi.org/10.1007/s11263-024-02298-y",
+  "id": "W4405446520",
+  "publication_date": "2024-12-16",
+  "publication_year": 2024,
+  "title": "Hyper-3DG: Text-to-3D Gaussian Generation via Hypergraph",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 9,
+  "doi": "https://doi.org/10.1109/iccv51701.2025.02621",
+  "id": "W4405562474",
+  "publication_date": "2025-10-19",
+  "publication_year": 2025,
+  "title": "CATSplat: Context-Aware Transformer with Spatial Guidance for Generalizable 3D Gaussian Splatting from a Single-View Image",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 27,
+  "doi": "https://doi.org/10.1109/tpami.2026.3701287",
+  "id": "W4405768315",
+  "publication_date": "2026-06-22",
+  "publication_year": 2026,
+  "title": "LangSurf: Language-Embedded Surface Gaussians for 3D Scene Understanding",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 35,
+  "doi": "https://doi.org/10.1109/vcip63160.2024.10849936",
+  "id": "W4406859105",
+  "publication_date": "2024-12-08",
+  "publication_year": 2024,
+  "title": "Mirror-3DGS: Incorporating Mirror Reflections into 3D Gaussian Splatting",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 188,
+  "doi": "https://doi.org/10.1109/tcsvt.2025.3538684",
+  "id": "W4407127931",
+  "publication_date": "2025-02-04",
+  "publication_year": 2025,
+  "title": "3D Gaussian Splatting: Survey, Technologies, Challenges, and Opportunities",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 17,
+  "doi": "https://doi.org/10.1016/j.patcog.2026.113427",
+  "id": "W4407185085",
+  "publication_date": "2026-03-06",
+  "publication_year": 2026,
+  "title": "LayoutDreamer: Physics-guided layout for text-to-3D compositional scene generation",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 32,
+  "doi": "https://doi.org/10.1109/lra.2025.3555938",
+  "id": "W4409019294",
+  "publication_date": "2025-03-31",
+  "publication_year": 2025,
+  "title": "VDG: Vision-Only Dynamic Gaussian for Driving Simulation",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 16,
+  "doi": "https://doi.org/10.1109/wacv61041.2025.00509",
+  "id": "W4409262146",
+  "publication_date": "2025-02-26",
+  "publication_year": 2025,
+  "title": "Localized Gaussian Splatting Editing with Contextual Awareness",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 18,
+  "doi": "https://doi.org/10.1109/wacv61041.2025.00345",
+  "id": "W4409262237",
+  "publication_date": "2025-02-26",
+  "publication_year": 2025,
+  "title": "Lifting by Gaussians: A Simple, Fast and Flexible Method for 3D Instance Segmentation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 110,
+  "doi": "https://doi.org/10.1007/s11263-025-02421-7",
+  "id": "W4409307113",
+  "publication_date": "2025-04-09",
+  "publication_year": 2025,
+  "title": "Segment Anything in 3D with Radiance Fields",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 216,
+  "doi": "https://doi.org/10.1609/aaai.v39i2.32193",
+  "id": "W4409346685",
+  "publication_date": "2025-04-11",
+  "publication_year": 2025,
+  "title": "Segment Any 3D Gaussians",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 56,
+  "doi": "https://doi.org/10.1609/aaai.v39i9.33070",
+  "id": "W4409365106",
+  "publication_date": "2025-04-11",
+  "publication_year": 2025,
+  "title": "TranSplat: Generalizable 3D Gaussian Splatting from Sparse Multi-View Images with Transformers",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 6,
+  "doi": "https://doi.org/10.1609/aaai.v39i10.33103",
+  "id": "W4409365608",
+  "publication_date": "2025-04-11",
+  "publication_year": 2025,
+  "title": "Bootstraping Clustering of Gaussians for View-consistent 3D Scene Understanding",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 4,
+  "doi": "https://doi.org/10.1609/aaai.v39i5.32562",
+  "id": "W4409367097",
+  "publication_date": "2025-04-11",
+  "publication_year": 2025,
+  "title": "Multi-StyleGS: Stylized Gaussian Splatting with Multiple Styles",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 41,
+  "doi": "https://doi.org/10.1609/aaai.v39i7.32787",
+  "id": "W4409367104",
+  "publication_date": "2025-04-11",
+  "publication_year": 2025,
+  "title": "Cycle3D: High-quality and Consistent Image-to-3D Generation via Generation-Reconstruction Cycle",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 19,
+  "doi": "https://doi.org/10.1609/aaai.v39i4.32410",
+  "id": "W4409368305",
+  "publication_date": "2025-04-11",
+  "publication_year": 2025,
+  "title": "FastLGS: Speeding Up Language Embedded Gaussians with Feature Grid Mapping",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 65,
+  "doi": "https://doi.org/10.1609/aaai.v39i4.32389",
+  "id": "W4409368421",
+  "publication_date": "2025-04-11",
+  "publication_year": 2025,
+  "title": "DreamPhysics: Learning Physics-Based 3D Dynamics with Video Diffusion Priors",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 22,
+  "doi": "https://doi.org/10.1109/tmm.2025.3557618",
+  "id": "W4409427075",
+  "publication_date": "2025-01-01",
+  "publication_year": 2025,
+  "title": "TrAME: Trajectory-Anchored Multi-View Editing for Text-Guided 3D Gaussian Manipulation",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 82,
+  "doi": "https://doi.org/10.1111/cgf.70078",
+  "id": "W4409586866",
+  "publication_date": "2025-04-17",
+  "publication_year": 2025,
+  "title": "3DGS.zip: A survey on 3D Gaussian Splatting Compression Methods",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 28,
+  "doi": "https://doi.org/10.1007/978-3-031-85187-2_15",
+  "id": "W4409704170",
+  "publication_date": "2025-01-01",
+  "publication_year": 2025,
+  "title": "Gaussian Splatting in Style",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 322,
+  "doi": "https://doi.org/10.1109/tpami.2025.3568201",
+  "id": "W4410204460",
+  "publication_date": "2025-01-01",
+  "publication_year": 2025,
+  "title": "Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 4,
+  "doi": "https://doi.org/10.1145/3731715.3733277",
+  "id": "W4411635457",
+  "publication_date": "2025-06-25",
+  "publication_year": 2025,
+  "title": "ArtNVG: Content-Style Separated Artistic Neighboring-View Gaussian Stylization",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 50,
+  "doi": "https://doi.org/10.1145/3746284",
+  "id": "W4411712579",
+  "publication_date": "2025-06-27",
+  "publication_year": 2025,
+  "title": "CLIP-GS: CLIP-Informed Gaussian Splatting for View-Consistent 3D Indoor Semantic Understanding",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 31,
+  "doi": "https://doi.org/10.1145/3721238.3730600",
+  "id": "W4412596323",
+  "publication_date": "2025-07-23",
+  "publication_year": 2025,
+  "title": "Drag Your Gaussian: Effective Drag-Based Editing with Score Distillation for 3D Gaussian Splatting",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 25,
+  "doi": "https://doi.org/10.1109/cvpr52734.2025.00272",
+  "id": "W4413144336",
+  "publication_date": "2025-06-10",
+  "publication_year": 2025,
+  "title": "Prometheus: 3D-Aware Latent Diffusion Models for Feed-Forward Text-to-3D Scene Generation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 34,
+  "doi": "https://doi.org/10.1109/cvpr52734.2025.02015",
+  "id": "W4413144387",
+  "publication_date": "2025-06-10",
+  "publication_year": 2025,
+  "title": "Ouroboros3D: Image-to-3D Generation via 3D-aware Recursive Diffusion",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 13,
+  "doi": "https://doi.org/10.1109/cvpr52734.2025.01317",
+  "id": "W4413144660",
+  "publication_date": "2025-06-10",
+  "publication_year": 2025,
+  "title": "PanoGS: Gaussian-based Panoptic Segmentation for 3D Open Vocabulary Scene Understanding",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 2,
+  "doi": "https://doi.org/10.1109/cvpr52734.2025.01520",
+  "id": "W4413144848",
+  "publication_date": "2025-06-10",
+  "publication_year": 2025,
+  "title": "DaCapo: Score Distillation as Stacked Bridge for Fast and High-quality 3D Editing",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 11,
+  "doi": "https://doi.org/10.1109/cvpr52734.2025.02489",
+  "id": "W4413145200",
+  "publication_date": "2025-06-10",
+  "publication_year": 2025,
+  "title": "Scene4U: Hierarchical Layered 3D Scene Reconstruction from Single Panoramic Image for Your Immerse Exploration",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 16,
+  "doi": "https://doi.org/10.1109/cvpr52734.2025.02204",
+  "id": "W4413145227",
+  "publication_date": "2025-06-10",
+  "publication_year": 2025,
+  "title": "Turbo3D: Ultra-fast Text-to-3D Generation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 7,
+  "doi": "https://doi.org/10.1109/cvpr52734.2025.01525",
+  "id": "W4413145473",
+  "publication_date": "2025-06-10",
+  "publication_year": 2025,
+  "title": "OmniSplat: Taming Feed-Forward 3D Gaussian Splatting for Omnidirectional Images with Editable Capabilities",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 17,
+  "doi": "https://doi.org/10.1109/cvpr52734.2025.02005",
+  "id": "W4413145508",
+  "publication_date": "2025-06-10",
+  "publication_year": 2025,
+  "title": "SplatFlow: Multi-View Rectified Flow Model for 3D Gaussian Splatting Synthesis",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 6,
+  "doi": "https://doi.org/10.1109/cvpr52734.2025.00733",
+  "id": "W4413145614",
+  "publication_date": "2025-06-10",
+  "publication_year": 2025,
+  "title": "Morpheus: Text-Driven 3D Gaussian Splat Shape and Color Stylization",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 31,
+  "doi": "https://doi.org/10.1109/cvpr52734.2025.01314",
+  "id": "W4413145675",
+  "publication_date": "2025-06-10",
+  "publication_year": 2025,
+  "title": "InstanceGaussian: Appearance-Semantic Joint Gaussian Representation for 3D Instance-Level Perception",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 140,
+  "doi": "https://doi.org/10.1109/cvpr52734.2025.00555",
+  "id": "W4413145736",
+  "publication_date": "2025-06-10",
+  "publication_year": 2025,
+  "title": "WonderWorld: Interactive 3D Scene Generation from a Single Image",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 42,
+  "doi": "https://doi.org/10.1109/cvpr52734.2025.01319",
+  "id": "W4413145948",
+  "publication_date": "2025-06-10",
+  "publication_year": 2025,
+  "title": "Dr. Splat: Directly Referring 3D Gaussian Splatting via Direct Language Embedding Registration",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 3,
+  "doi": "https://doi.org/10.1109/cvpr52734.2025.02001",
+  "id": "W4413146143",
+  "publication_date": "2025-06-10",
+  "publication_year": 2025,
+  "title": "Hash3D: Training-free Acceleration for 3D Generation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 805,
+  "doi": "https://doi.org/10.1109/cvpr52734.2025.00499",
+  "id": "W4413146238",
+  "publication_date": "2025-06-10",
+  "publication_year": 2025,
+  "title": "VGGT: Visual Geometry Grounded Transformer",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 9,
+  "doi": "https://doi.org/10.1109/cvpr52734.2025.01042",
+  "id": "W4413146354",
+  "publication_date": "2025-06-10",
+  "publication_year": 2025,
+  "title": "Efficient Decoupled Feature 3D Gaussian Splatting via Hierarchical Compression",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 25,
+  "doi": "https://doi.org/10.1109/cvpr52734.2025.01040",
+  "id": "W4413146739",
+  "publication_date": "2025-06-10",
+  "publication_year": 2025,
+  "title": "EditSplat: Multi-View Fusion and Attention-Guided Optimization for View-Consistent 3D Scene Editing with 3D Gaussian Splatting",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 80,
+  "doi": "https://doi.org/10.1109/cvpr52734.2025.00083",
+  "id": "W4413146758",
+  "publication_date": "2025-06-10",
+  "publication_year": 2025,
+  "title": "Wonderland: Navigating 3D Scenes From a Single Image",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 7,
+  "doi": "https://doi.org/10.1109/cvpr52734.2025.00571",
+  "id": "W4413146814",
+  "publication_date": "2025-06-10",
+  "publication_year": 2025,
+  "title": "Scene Splatter: Momentum 3D Scene Generation from Single Image with Video Diffusion Model",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 18,
+  "doi": "https://doi.org/10.1109/cvpr52734.2025.00346",
+  "id": "W4413146881",
+  "publication_date": "2025-06-10",
+  "publication_year": 2025,
+  "title": "Rethinking End-to-End 2D to 3D Scene Segmentation in Gaussian Splatting",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 42,
+  "doi": "https://doi.org/10.1109/cvpr52734.2025.00573",
+  "id": "W4413147446",
+  "publication_date": "2025-06-10",
+  "publication_year": 2025,
+  "title": "Generative Gaussian Splatting for Unbounded 3D City Generation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 21,
+  "doi": "https://doi.org/10.1109/cvpr52734.2025.02011",
+  "id": "W4413147464",
+  "publication_date": "2025-06-10",
+  "publication_year": 2025,
+  "title": "Splatter-360: Generalizable 360° Gaussian Splatting for Wide-baseline Panoramic Images",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 7,
+  "doi": "https://doi.org/10.1109/cvpr52734.2025.00070",
+  "id": "W4413155073",
+  "publication_date": "2025-06-10",
+  "publication_year": 2025,
+  "title": "iSegMan: Interactive Segment-and-Manipulate 3D Gaussians",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 35,
+  "doi": "https://doi.org/10.1109/cvpr52734.2025.02050",
+  "id": "W4413155849",
+  "publication_date": "2025-06-10",
+  "publication_year": 2025,
+  "title": "SelfSplat: Pose-Free and 3D Prior-Free Generalizable 3D Gaussian Splatting",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 15,
+  "doi": "https://doi.org/10.1109/cvpr52734.2025.01536",
+  "id": "W4413155877",
+  "publication_date": "2025-06-10",
+  "publication_year": 2025,
+  "title": "VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 8,
+  "doi": "https://doi.org/10.1109/cvpr52734.2025.02480",
+  "id": "W4413155896",
+  "publication_date": "2025-06-10",
+  "publication_year": 2025,
+  "title": "Ctrl-D: Controllable Dynamic 3D Scene Editing with Personalized 2D Diffusion",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 22,
+  "doi": "https://doi.org/10.1109/cvpr52734.2025.01801",
+  "id": "W4413156234",
+  "publication_date": "2025-06-10",
+  "publication_year": 2025,
+  "title": "COB-GS: Clear Object Boundaries in 3DGS Segmentation Based on Boundary-Adaptive Gaussian Splitting",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 21,
+  "doi": "https://doi.org/10.1109/cvpr52734.2025.00575",
+  "id": "W4413156478",
+  "publication_date": "2025-06-10",
+  "publication_year": 2025,
+  "title": "Taming Video Diffusion Prior with Scene-Grounding Guidance for 3D Gaussian Splatting from Sparse Inputs",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 12,
+  "doi": "https://doi.org/10.1109/cvpr52734.2025.01487",
+  "id": "W4413156809",
+  "publication_date": "2025-06-10",
+  "publication_year": 2025,
+  "title": "PERSE: Personalized 3D Generative Avatars from A Single Portrait",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 81,
+  "doi": "https://doi.org/10.1109/cvpr52734.2025.02043",
+  "id": "W4413157191",
+  "publication_date": "2025-06-10",
+  "publication_year": 2025,
+  "title": "FLARE: Feed-Forward Geometry, Appearance and Camera Estimation from Uncalibrated Sparse Views",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 184,
+  "doi": "https://doi.org/10.1109/cvpr52734.2025.01534",
+  "id": "W4413157519",
+  "publication_date": "2025-06-10",
+  "publication_year": 2025,
+  "title": "DepthSplat: Connecting Gaussian Splatting and Depth",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 19,
+  "doi": "https://doi.org/10.1109/cvpr52734.2025.00352",
+  "id": "W4413158431",
+  "publication_date": "2025-06-10",
+  "publication_year": 2025,
+  "title": "ReasonGrounder: LVLM-Guided Hierarchical Feature Splatting for Open-Vocabulary 3D Visual Grounding and Reasoning",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 9,
+  "doi": "https://doi.org/10.1109/cvpr52734.2025.01726",
+  "id": "W4413158681",
+  "publication_date": "2025-06-10",
+  "publication_year": 2025,
+  "title": "Apply Hierarchical-Chain-of-Generation to Complex Attributes Text-to-3D Generation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 20,
+  "doi": "https://doi.org/10.1109/tpami.2025.3600507",
+  "id": "W4413344259",
+  "publication_date": "2025-08-19",
+  "publication_year": 2025,
+  "title": "MeViS: A Multi-Modal Dataset for Referring Motion Expression Video Segmentation",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 110,
+  "doi": "https://doi.org/10.1109/3dv66043.2025.00067",
+  "id": "W4413556452",
+  "publication_date": "2025-03-25",
+  "publication_year": 2025,
+  "title": "Flash3D: Feed-Forward Generalisable 3D Scene Reconstruction from a Single Image",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 25,
+  "doi": "https://doi.org/10.1109/3dv66043.2025.00107",
+  "id": "W4413556535",
+  "publication_date": "2025-03-25",
+  "publication_year": 2025,
+  "title": "Controllable Text-to-3D Generation via Surface-Aligned Gaussian Splatting",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 110,
+  "doi": "https://doi.org/10.1109/3dv66043.2025.00086",
+  "id": "W4413558925",
+  "publication_date": "2025-03-25",
+  "publication_year": 2025,
+  "title": "RealmDreamer: Text-Driven 3D Scene Generation with Inpainting and Depth Diffusion",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 16,
+  "doi": "https://doi.org/10.1109/cvprw67362.2025.00520",
+  "id": "W4414198426",
+  "publication_date": "2025-06-11",
+  "publication_year": 2025,
+  "title": "OpenSplat3D: Open-Vocabulary 3D Instance Segmentation using Gaussian Splatting",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 263,
+  "doi": "https://doi.org/10.1109/tvcg.2025.3611489",
+  "id": "W4414322177",
+  "publication_date": "2025-09-18",
+  "publication_year": 2025,
+  "title": "LucidDreamer: Domain-Free Generation of 3D Gaussian Splatting Scenes",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 445,
+  "doi": "https://doi.org/10.1109/tpami.2025.3613256",
+  "id": "W4414432428",
+  "publication_date": "2025-01-01",
+  "publication_year": 2025,
+  "title": "ViewCrafter: Taming Video Diffusion Models for High-fidelity Novel View Synthesis",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 6,
+  "doi": "https://doi.org/10.1109/icassp55912.2026.11463083",
+  "id": "W4414740217",
+  "publication_date": "2026-04-21",
+  "publication_year": 2026,
+  "title": "Zero-Shot Visual Grounding in 3d Gaussians via view Retrieval",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 9,
+  "doi": "https://doi.org/10.1007/s11263-026-02821-3",
+  "id": "W4414839060",
+  "publication_date": "2026-05-03",
+  "publication_year": 2026,
+  "title": "Pointmap Association and Piecewise-Plane Constraint for Consistent and Compact 3D Gaussian Segmentation Field",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 8,
+  "doi": "https://doi.org/10.1109/iccv51701.2025.00919",
+  "id": "W4415035843",
+  "publication_date": "2025-10-01",
+  "publication_year": 2025,
+  "title": "CCL-LGS: Contrastive Codebook Learning for 3D Language Gaussian Splatting",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 7,
+  "doi": "https://doi.org/10.52202/085713-5701",
+  "id": "W4415036740",
+  "publication_date": "2025-01-01",
+  "publication_year": 2025,
+  "title": "Styl3R: Instant 3D Stylized Reconstruction for Arbitrary Scenes and Styles",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 37,
+  "doi": "https://doi.org/10.52202/085713-5798",
+  "id": "W4415276187",
+  "publication_date": "2025-01-01",
+  "publication_year": 2025,
+  "title": "LangSplatV2: High-dimensional 3D Language Gaussian Splatting with 450+ FPS",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 7,
+  "doi": "https://doi.org/10.1109/iccv51701.2025.02479",
+  "id": "W4415287434",
+  "publication_date": "2025-10-19",
+  "publication_year": 2025,
+  "title": "VideoRFSplat: Direct Scene-Level Text-to-3D Gaussian Splatting Generation with Flexible Pose and Multi-View Joint Modeling",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 10,
+  "doi": "https://doi.org/10.1109/iccv51701.2025.02425",
+  "id": "W4415348564",
+  "publication_date": "2025-10-19",
+  "publication_year": 2025,
+  "title": "InterGSEdit: Interactive 3D Gaussian Splatting Editing with 3D Geometry-Consistent Attention Prior",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 14,
+  "doi": "https://doi.org/10.1145/3746027.3755516",
+  "id": "W4415536818",
+  "publication_date": "2025-10-25",
+  "publication_year": 2025,
+  "title": "TextSplat: Text-Guided Semantic Fusion for Generalizable Gaussian Splatting",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 4,
+  "doi": "https://doi.org/10.1145/3746027.3755429",
+  "id": "W4415536828",
+  "publication_date": "2025-10-25",
+  "publication_year": 2025,
+  "title": "Prompt-Softbox-Prompt: A Free-Text Embedding Control for Image Editing",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 5,
+  "doi": "https://doi.org/10.1145/3746027.3754918",
+  "id": "W4415537391",
+  "publication_date": "2025-10-25",
+  "publication_year": 2025,
+  "title": "A Neural Representation Framework with LLM-Driven Spatial Reasoning for Open-Vocabulary 3D Visual Grounding",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 16,
+  "doi": "https://doi.org/10.1145/3746027.3754964",
+  "id": "W4415538229",
+  "publication_date": "2025-10-25",
+  "publication_year": 2025,
+  "title": "SLGaussian: Fast Language Gaussian Splatting in Sparse Views",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 10,
+  "doi": "https://doi.org/10.1145/3746027.3755146",
+  "id": "W4415540452",
+  "publication_date": "2025-10-25",
+  "publication_year": 2025,
+  "title": "Training-Free Hierarchical Scene Understanding for Gaussian Splatting with Superpoint Graphs",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 53,
+  "doi": "https://doi.org/10.52202/079017-3399",
+  "id": "W4415795668",
+  "publication_date": "2024-01-01",
+  "publication_year": 2024,
+  "title": "MVSplat360: Feed-Forward 360 Scene Synthesis from Sparse Views",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 10,
+  "doi": "https://doi.org/10.52202/079017-3425",
+  "id": "W4415795909",
+  "publication_date": "2024-01-01",
+  "publication_year": 2024,
+  "title": "D-MiSo: Editing Dynamic 3D Scenes using Multi-Gaussians Soup",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 16,
+  "doi": "https://doi.org/10.52202/079017-2830",
+  "id": "W4415796579",
+  "publication_date": "2024-01-01",
+  "publication_year": 2024,
+  "title": "GaussianCut: Interactive segmentation via graph cut for 3D Gaussian Splatting",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 41,
+  "doi": "https://doi.org/10.52202/079017-2558",
+  "id": "W4415796650",
+  "publication_date": "2024-01-01",
+  "publication_year": 2024,
+  "title": "Dynamic 3D Gaussian Fields for Urban Areas",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 43,
+  "doi": "https://doi.org/10.52202/079017-2367",
+  "id": "W4415797101",
+  "publication_date": "2024-01-01",
+  "publication_year": 2024,
+  "title": "HumanSplat: Generalizable Single-Image Human Gaussian Splatting with Structure Priors",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 83,
+  "doi": "https://doi.org/10.52202/079017-1956",
+  "id": "W4415797436",
+  "publication_date": "2024-01-01",
+  "publication_year": 2024,
+  "title": "Spec-Gaussian: Anisotropic View-Dependent Appearance for 3D Gaussian Splatting",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 28,
+  "doi": "https://doi.org/10.52202/079017-1271",
+  "id": "W4415797911",
+  "publication_date": "2024-01-01",
+  "publication_year": 2024,
+  "title": "Large Spatial Model: End-to-end Unposed Images to Semantic 3D",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 11,
+  "doi": "https://doi.org/10.52202/079017-1251",
+  "id": "W4415797989",
+  "publication_date": "2024-01-01",
+  "publication_year": 2024,
+  "title": "Epipolar-Free 3D Gaussian Splatting for Generalizable Novel View Synthesis",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 109,
+  "doi": "https://doi.org/10.52202/079017-0604",
+  "id": "W4415798623",
+  "publication_date": "2024-01-01",
+  "publication_year": 2024,
+  "title": "OpenGaussian: Towards Point-Level 3D Gaussian-based Open Vocabulary Understanding",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 10,
+  "doi": "https://doi.org/10.52202/079017-0132",
+  "id": "W4415799023",
+  "publication_date": "2024-01-01",
+  "publication_year": 2024,
+  "title": "ReGS: Reference-based Controllable Scene Stylization with Gaussian Splatting",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 456,
+  "doi": "https://doi.org/10.52202/079017-4447",
+  "id": "W4415800390",
+  "publication_date": "2024-01-01",
+  "publication_year": 2024,
+  "title": "LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 3,
+  "doi": "https://doi.org/10.52202/085713-4606",
+  "id": "W4416156628",
+  "publication_date": "2025-01-01",
+  "publication_year": 2025,
+  "title": "Walking the Schrödinger Bridge: A Direct Trajectory for Text-to-3D Generation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 1,
+  "doi": "https://doi.org/10.1109/ijcnn64981.2025.11227757",
+  "id": "W4416251877",
+  "publication_date": "2025-06-30",
+  "publication_year": 2025,
+  "title": "Multi-view Geometry-Aware Diffusion Transformer for Novel View Synthesis of Indoor Scenes",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 20,
+  "doi": "https://doi.org/10.1016/j.imavis.2025.105830",
+  "id": "W4416416078",
+  "publication_date": "2025-11-20",
+  "publication_year": 2025,
+  "title": "CAGS: Open-vocabulary 3D scene understanding with context-aware Gaussian splatting",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 9,
+  "doi": "https://doi.org/10.1109/iccv51701.2025.00609",
+  "id": "W4416507458",
+  "publication_date": "2025-10-19",
+  "publication_year": 2025,
+  "title": "Votesplat: Hough Voting Gaussian Splatting for 3D Scene Understanding",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 4,
+  "doi": "https://doi.org/10.52202/085713-1679",
+  "id": "W4416550777",
+  "publication_date": "2025-01-01",
+  "publication_year": 2025,
+  "title": "TRIM: Scalable 3D Gaussian Diffusion Inference with Temporal and Spatial Trimming",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "2511.16624",
+  "cited_by_count": 277,
+  "doi": "https://doi.org/10.48550/arxiv.2511.16624",
+  "id": "W4416551737",
+  "publication_date": "2025-11-20",
+  "publication_year": 2025,
+  "title": "SAM 3D: 3Dfy Anything in Images",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 13,
+  "doi": "https://doi.org/10.1109/iccv51701.2025.02450",
+  "id": "W4416608622",
+  "publication_date": "2025-10-19",
+  "publication_year": 2025,
+  "title": "SpatialSplat: Efficient Semantic 3D from Sparse Unposed Images",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 9,
+  "doi": "https://doi.org/10.1109/iccv51701.2025.02585",
+  "id": "W4416653335",
+  "publication_date": "2025-10-19",
+  "publication_year": 2025,
+  "title": "QuickSplat: Fast 3D Surface Reconstruction via Learned Gaussian Initialization",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 4,
+  "doi": "https://doi.org/10.1109/iros60139.2025.11246657",
+  "id": "W4416748155",
+  "publication_date": "2025-10-19",
+  "publication_year": 2025,
+  "title": "Enhancing Single Image to 3D Generation using Gaussian Splatting and Hybrid Diffusion Priors",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 148,
+  "doi": "https://doi.org/10.1145/3763326",
+  "id": "W4417000825",
+  "publication_date": "2025-12-01",
+  "publication_year": 2025,
+  "title": "AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 6,
+  "doi": "https://doi.org/10.1109/iccv51701.2025.02647",
+  "id": "W4417100890",
+  "publication_date": "2025-10-19",
+  "publication_year": 2025,
+  "title": "Perspective-Aware 3D Gaussian Inpainting with Multi-View Consistency",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 3,
+  "doi": "https://doi.org/10.1109/iccv51701.2025.00522",
+  "id": "W4417423581",
+  "publication_date": "2025-10-19",
+  "publication_year": 2025,
+  "title": "Robust 3D-Masked Part-Level Editing in 3D Gaussian Splatting with Regularized Score Distillation Sampling",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 34,
+  "doi": "https://doi.org/10.1109/tvcg.2025.3644849",
+  "id": "W7117248304",
+  "publication_date": "2025-12-25",
+  "publication_year": 2025,
+  "title": "HoloDreamer: Holistic 3D Panoramic Scene Generation From Text Descriptions",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 167,
+  "doi": "https://doi.org/10.1007/s11263-026-02740-3",
+  "id": "W7125508211",
+  "publication_date": "2026-01-23",
+  "publication_year": 2026,
+  "title": "Periodic Vibration Gaussian: Dynamic Urban Scene Reconstruction and Real-time Rendering",
+  "type": "article"
+ },
+ {
+  "arxiv_id": "2601.19717",
+  "cited_by_count": 1,
+  "doi": "https://doi.org/10.48550/arxiv.2601.19717",
+  "id": "W7125910918",
+  "publication_date": "2026-01-27",
+  "publication_year": 2026,
+  "title": "DiffStyle3D: Consistent 3D Gaussian Stylization via Attention Optimization",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 35,
+  "doi": "https://doi.org/10.1016/j.cviu.2026.104699",
+  "id": "W7128586625",
+  "publication_date": "2026-02-11",
+  "publication_year": 2026,
+  "title": "GASP: Gaussian Splatting for physics-based simulations",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 605,
+  "doi": "https://doi.org/10.52202/075280-0368",
+  "id": "W7133190699",
+  "publication_date": "2023-01-01",
+  "publication_year": 2023,
+  "title": "ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 3220,
+  "doi": "https://doi.org/10.52202/075280-1516",
+  "id": "W7133193597",
+  "publication_date": "2023-01-01",
+  "publication_year": 2023,
+  "title": "Visual Instruction Tuning",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 72,
+  "doi": "https://doi.org/10.52202/075280-1130",
+  "id": "W7133197446",
+  "publication_date": "2023-01-01",
+  "publication_year": 2023,
+  "title": "Segment Anything in 3D with NeRFs",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 49,
+  "doi": "https://doi.org/10.52202/075280-0399",
+  "id": "W7133212131",
+  "publication_date": "2023-01-01",
+  "publication_year": 2023,
+  "title": "Contrastive Lift: 3D Object Instance Segmentation by Slow-Fast Contrastive Fusion",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 77,
+  "doi": "https://doi.org/10.52202/075280-2325",
+  "id": "W7133213856",
+  "publication_date": "2023-01-01",
+  "publication_year": 2023,
+  "title": "Weakly Supervised 3D Open-vocabulary Segmentation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 242,
+  "doi": "https://doi.org/10.52202/068431-1694",
+  "id": "W7133213953",
+  "publication_date": "2022-01-01",
+  "publication_year": 2022,
+  "title": "Decomposing NeRF for Editing Via Feature Field Distillation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 2,
+  "doi": "https://doi.org/10.1609/aaai.v40i14.38164",
+  "id": "W7138336640",
+  "publication_date": "2026-03-14",
+  "publication_year": 2026,
+  "title": "FantasyStyle: Controllable Stylized Distillation for 3D Gaussian Splatting",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 102,
+  "doi": "https://doi.org/10.1109/tcsvt.2026.3675320",
+  "id": "W7139091869",
+  "publication_date": "2026-03-18",
+  "publication_year": 2026,
+  "title": "Semantic Gaussians: Open-Vocabulary Scene Understanding With 3D Gaussian Splatting",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 28,
+  "doi": "https://doi.org/10.1109/tcsvt.2026.3676048",
+  "id": "W7139946179",
+  "publication_date": "2026-03-20",
+  "publication_year": 2026,
+  "title": "Compression in 3D Gaussian Splatting: A Survey of Methods, Trends, and Future Directions",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 2,
+  "doi": "https://doi.org/10.1109/iccv51701.2025.00727",
+  "id": "W7159960520",
+  "publication_date": "2025-10-19",
+  "publication_year": 2025,
+  "title": "GSV3D: Gaussian Splatting-Based Geometric Distillation With Stable Video Diffusion for Single-Image 3D Object Generation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 7,
+  "doi": "https://doi.org/10.1109/iccv51701.2025.02694",
+  "id": "W7160051884",
+  "publication_date": "2025-10-19",
+  "publication_year": 2025,
+  "title": "LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 3,
+  "doi": "https://doi.org/10.1109/iccv51701.2025.01903",
+  "id": "W7160062577",
+  "publication_date": "2025-10-19",
+  "publication_year": 2025,
+  "title": "Identity-Aware Language Gaussian Splatting for Open-Vocabulary 3D Semantic Segmentation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 24,
+  "doi": "https://doi.org/10.1109/iccv51701.2025.02324",
+  "id": "W7160077691",
+  "publication_date": "2025-10-19",
+  "publication_year": 2025,
+  "title": "Baking Gaussian Splatting Into Diffusion Denoiser for Fast and Scalable Single-Stage Image-to-3D Generation and Reconstruction",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 3,
+  "doi": "https://doi.org/10.1109/iccv51701.2025.02435",
+  "id": "W7160088671",
+  "publication_date": "2025-10-19",
+  "publication_year": 2025,
+  "title": "UniGS: Modeling Unitary 3D Gaussians for Novel View Synthesis from Sparse-View Images",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 13,
+  "doi": "https://doi.org/10.1109/iccv51701.2025.02554",
+  "id": "W7160107682",
+  "publication_date": "2025-10-19",
+  "publication_year": 2025,
+  "title": "Generative Gaussian Splatting: Generating 3D Scenes with Video Diffusion Priors",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 14,
+  "doi": "https://doi.org/10.1109/iccv51701.2025.00472",
+  "id": "W7160150509",
+  "publication_date": "2025-10-19",
+  "publication_year": 2025,
+  "title": "SceneSplat: Gaussian Splatting-Based Scene Understanding with Vision-Language Pretraining",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 3,
+  "doi": "https://doi.org/10.1109/iccv51701.2025.01649",
+  "id": "W7160163157",
+  "publication_date": "2025-10-19",
+  "publication_year": 2025,
+  "title": "A 3 GS: Arbitrary Artistic Style into Arbitrary 3D Gaussian Splatting",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 98,
+  "doi": "https://doi.org/10.1109/tip.2026.3689408",
+  "id": "W7160555316",
+  "publication_date": "2026-01-01",
+  "publication_year": 2026,
+  "title": "SAGD: Boundary-Enhanced Segment Anything in 3D Gaussian via Gaussian Decomposition",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 83,
+  "doi": "https://doi.org/10.1007/978-3-032-09970-9_14",
+  "id": "W7160768208",
+  "publication_date": "2026-01-01",
+  "publication_year": 2026,
+  "title": "DeformGS: Scene Flow in Highly Deformable Scenes for Deformable Object Manipulation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 6,
+  "doi": "https://doi.org/10.52202/085713-3746",
+  "id": "W7196945887",
+  "publication_date": "2025-01-01",
+  "publication_year": 2025,
+  "title": "CLIPGaussian: Universal and Multimodal Style Transfer Based on Gaussian Splatting",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 1,
+  "doi": "https://doi.org/10.52202/085713-0007",
+  "id": "W7196953129",
+  "publication_date": "2025-01-01",
+  "publication_year": 2025,
+  "title": "Diffusion Feature Field for Text-based 3D Editing with Gaussian Splatting",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 4,
+  "doi": "https://doi.org/10.52202/085713-0379",
+  "id": "W7196963536",
+  "publication_date": "2025-01-01",
+  "publication_year": 2025,
+  "title": "COS3D: Collaborative Open-Vocabulary 3D Segmentation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 6,
+  "doi": "https://doi.org/10.52202/085713-3701",
+  "id": "W7196987522",
+  "publication_date": "2025-01-01",
+  "publication_year": 2025,
+  "title": "SIU3R: Simultaneous Scene Understanding and 3D Reconstruction Beyond Feature Alignment",
+  "type": "conference-paper"
+ }
+]

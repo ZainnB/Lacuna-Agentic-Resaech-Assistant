@@ -1,0 +1,1952 @@
+[
+ {
+  "arxiv_id": null,
+  "cited_by_count": 47346,
+  "doi": "https://doi.org/10.1007/978-3-319-10602-1_48",
+  "id": "W1861492603",
+  "publication_date": "2014-01-01",
+  "publication_year": 2014,
+  "title": "Microsoft COCO: Common Objects in Context",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 1694,
+  "doi": "https://doi.org/10.1109/tac.1980.1102314",
+  "id": "W2098502158",
+  "publication_date": "1980-04-01",
+  "publication_year": 1980,
+  "title": "The singular value decomposition: Its computation and some applications",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 68756,
+  "doi": "https://doi.org/10.1109/cvpr.2009.5206848",
+  "id": "W2108598243",
+  "publication_date": "2009-06-01",
+  "publication_year": 2009,
+  "title": "ImageNet: A large-scale hierarchical image database",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 373,
+  "doi": "https://doi.org/10.1007/978-3-319-46493-0_15",
+  "id": "W2307512708",
+  "publication_date": "2016-01-01",
+  "publication_year": 2016,
+  "title": "A Diagram is Worth a Dozen Images",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 1904,
+  "doi": "https://doi.org/10.1109/cvpr.2016.571",
+  "id": "W2425121537",
+  "publication_date": "2016-06-01",
+  "publication_year": 2016,
+  "title": "MSR-VTT: A Large Video Description Dataset for Bridging Video and Language",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "1602.05629",
+  "cited_by_count": 15832,
+  "doi": "https://doi.org/10.48550/arxiv.1602.05629",
+  "id": "W2541884796",
+  "publication_date": "2016-02-17",
+  "publication_year": 2016,
+  "title": "Communication-Efficient Learning of Deep Networks from Decentralized Data",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 1746,
+  "doi": "https://doi.org/10.1109/cvpr.2017.345",
+  "id": "W2575842049",
+  "publication_date": "2017-07-01",
+  "publication_year": 2017,
+  "title": "Knowing When to Look: Adaptive Attention via a Visual Sentinel for Image Captioning",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "1703.04977",
+  "cited_by_count": 3600,
+  "doi": "https://doi.org/10.48550/arxiv.1703.04977",
+  "id": "W2600383743",
+  "publication_date": "2017-03-15",
+  "publication_year": 2017,
+  "title": "What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": "1706.04599",
+  "cited_by_count": 4171,
+  "doi": "https://doi.org/10.48550/arxiv.1706.04599",
+  "id": "W2626967530",
+  "publication_date": "2017-06-14",
+  "publication_year": 2017,
+  "title": "On Calibration of Modern Neural Networks",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 1723,
+  "doi": "https://doi.org/10.18653/v1/2021.naacl-main",
+  "id": "W2750779823",
+  "publication_date": "2021-01-01",
+  "publication_year": 2021,
+  "title": "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+  "type": "paratext"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 391,
+  "doi": "https://doi.org/10.1007/978-3-030-01216-8_35",
+  "id": "W2885138528",
+  "publication_date": "2018-01-01",
+  "publication_year": 2018,
+  "title": "Textual Explanations for Self-Driving Vehicles",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 2007,
+  "doi": "https://doi.org/10.18653/v1/p18-1238",
+  "id": "W2886641317",
+  "publication_date": "2018-01-01",
+  "publication_year": 2018,
+  "title": "Conceptual Captions: A Cleaned, Hypernymed, Image Alt-text Dataset For Automatic Image Captioning",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "1808.07945",
+  "cited_by_count": 112,
+  "doi": "https://doi.org/10.48550/arxiv.1808.07945",
+  "id": "W2888394138",
+  "publication_date": "2018-08-23",
+  "publication_year": 2018,
+  "title": "Maximal Jacobian-based Saliency Map Attack",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": "1812.01193",
+  "cited_by_count": 395,
+  "doi": "https://doi.org/10.48550/arxiv.1812.01193",
+  "id": "W2891012317",
+  "publication_date": "2018-12-04",
+  "publication_year": 2018,
+  "title": "e-SNLI: Natural Language Inference with Natural Language Explanations",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 235,
+  "doi": "https://doi.org/10.1007/978-3-030-01364-6_20",
+  "id": "W2897980926",
+  "publication_date": "2018-01-01",
+  "publication_year": 2018,
+  "title": "Radiology Objects in COntext (ROCO): A Multimodal Image Dataset",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 376,
+  "doi": "https://doi.org/10.1109/cvpr.2019.01282",
+  "id": "W2903172725",
+  "publication_date": "2019-06-01",
+  "publication_year": 2019,
+  "title": "TOUCHDOWN: Natural Language Navigation and Spatial Reasoning in Visual Street Environments",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 78,
+  "doi": "https://doi.org/10.1109/tip.2018.2886712",
+  "id": "W2903706803",
+  "publication_date": "2018-12-14",
+  "publication_year": 2018,
+  "title": "Matrix Completion Based on Non-Convex Low-Rank Approximation",
+  "type": "article"
+ },
+ {
+  "arxiv_id": "1902.00751",
+  "cited_by_count": 2643,
+  "doi": "https://doi.org/10.48550/arxiv.1902.00751",
+  "id": "W2913946806",
+  "publication_date": "2019-02-02",
+  "publication_year": 2019,
+  "title": "Parameter-Efficient Transfer Learning for NLP",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 2190,
+  "doi": null,
+  "id": "W2914304175",
+  "publication_date": "2000-01-01",
+  "publication_year": 2000,
+  "title": "Proceedings of the 13th International Conference on Neural Information Processing Systems",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 957,
+  "doi": "https://doi.org/10.1109/cvpr.2019.00851",
+  "id": "W2936135081",
+  "publication_date": "2019-06-01",
+  "publication_year": 2019,
+  "title": "Towards VQA Models That Can Read",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "1904.07451",
+  "cited_by_count": 341,
+  "doi": "https://doi.org/10.48550/arxiv.1904.07451",
+  "id": "W2936967648",
+  "publication_date": "2019-04-16",
+  "publication_year": 2019,
+  "title": "Counterfactual Visual Explanations",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": "1405.0312",
+  "cited_by_count": 4791,
+  "doi": "https://doi.org/10.48550/arxiv.1405.0312",
+  "id": "W2952122856",
+  "publication_date": "2014-05-01",
+  "publication_year": 2014,
+  "title": "Microsoft COCO: Common Objects in Context",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 675,
+  "doi": "https://doi.org/10.1007/s11263-018-1116-0",
+  "id": "W2952228917",
+  "publication_date": "2018-09-11",
+  "publication_year": 2018,
+  "title": "Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 288,
+  "doi": "https://doi.org/10.1371/journal.pone.0229132",
+  "id": "W2954555759",
+  "publication_date": "2020-02-21",
+  "publication_year": 2020,
+  "title": "Adaptive trust calibration for human-AI collaboration",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 25928,
+  "doi": "https://doi.org/10.1109/iccv.2017.74",
+  "id": "W2962858109",
+  "publication_date": "2017-10-01",
+  "publication_year": 2017,
+  "title": "Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 317,
+  "doi": "https://doi.org/10.1109/cvpr.2016.542",
+  "id": "W2963890019",
+  "publication_date": "2016-06-01",
+  "publication_year": 2016,
+  "title": "Yin and Yang: Balancing and Answering Binary Visual Questions",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "1908.03557",
+  "cited_by_count": 2294,
+  "doi": "https://doi.org/10.48550/arxiv.1908.03557",
+  "id": "W2968124245",
+  "publication_date": "2019-08-09",
+  "publication_year": 2019,
+  "title": "VisualBERT: A Simple and Performant Baseline for Vision and Language",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 5,
+  "doi": "https://doi.org/10.1109/icmew.2019.00050",
+  "id": "W2968742862",
+  "publication_date": "2019-07-01",
+  "publication_year": 2019,
+  "title": "Real-World Image Denoising via Weighted Low Rank Approximation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 45,
+  "doi": "https://doi.org/10.1016/j.jksuci.2019.08.002",
+  "id": "W2969209846",
+  "publication_date": "2019-08-09",
+  "publication_year": 2019,
+  "title": "An efficient technique for image compression and quality retrieval using matrix completion",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 1945,
+  "doi": "https://doi.org/10.1007/978-3-030-63076-8_2",
+  "id": "W2970408908",
+  "publication_date": "2020-01-01",
+  "publication_year": 2020,
+  "title": "Deep Leakage from Gradients",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 179,
+  "doi": "https://doi.org/10.18653/v1/d19-1215",
+  "id": "W2970603850",
+  "publication_date": "2019-01-01",
+  "publication_year": 2019,
+  "title": "Talk2Car: Taking Control of Your Self-Driving Car",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 120,
+  "doi": "https://doi.org/10.1109/cvpr.2019.01084",
+  "id": "W2982419388",
+  "publication_date": "2019-06-01",
+  "publication_year": 2019,
+  "title": "Grounding Human-To-Vehicle Advice for Self-Driving Vehicles",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 16044,
+  "doi": "https://doi.org/10.52202/085713",
+  "id": "W2990138404",
+  "publication_date": "2007-09-07",
+  "publication_year": 2007,
+  "title": "Advances in Neural Information Processing Systems 19: Proceedings of the 2006 Conference",
+  "type": "book"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 1806,
+  "doi": "https://doi.org/10.1007/978-3-030-58577-8_8",
+  "id": "W3091588028",
+  "publication_date": "2020-01-01",
+  "publication_year": 2020,
+  "title": "Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 120,
+  "doi": "https://doi.org/10.18653/v1/2020.findings-emnlp.191",
+  "id": "W3093351578",
+  "publication_date": "2020-01-01",
+  "publication_year": 2020,
+  "title": "MedICaT: A Dataset of Medical Images, Captions, and Textual References",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "2012.06946",
+  "cited_by_count": 61,
+  "doi": "https://doi.org/10.48550/arxiv.2012.06946",
+  "id": "W3110662498",
+  "publication_date": "2020-12-13",
+  "publication_year": 2020,
+  "title": "MiniVLM: A Smaller and Faster Vision-Language Model",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 831,
+  "doi": "https://doi.org/10.1109/wacv48630.2021.00225",
+  "id": "W3120043490",
+  "publication_date": "2021-01-01",
+  "publication_year": 2021,
+  "title": "DocVQA: A Dataset for VQA on Document Images",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "2103.00020",
+  "cited_by_count": 19258,
+  "doi": "https://doi.org/10.48550/arxiv.2103.00020",
+  "id": "W3135367836",
+  "publication_date": "2021-02-26",
+  "publication_year": 2021,
+  "title": "Learning Transferable Visual Models From Natural Language Supervision",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 85,
+  "doi": "https://doi.org/10.1109/iccv48922.2021.00146",
+  "id": "W3139732141",
+  "publication_date": "2021-10-01",
+  "publication_year": 2021,
+  "title": "Compressing Visual-linguistic Model via Knowledge Distillation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 4976,
+  "doi": "https://doi.org/10.18653/v1/2021.emnlp-main.243",
+  "id": "W3152956381",
+  "publication_date": "2021-01-01",
+  "publication_year": 2021,
+  "title": "The Power of Scale for Parameter-Efficient Prompt Tuning",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 245,
+  "doi": "https://doi.org/10.1109/jbhi.2022.3207502",
+  "id": "W3164654615",
+  "publication_date": "2022-09-19",
+  "publication_year": 2022,
+  "title": "Multi-Modal Understanding and Generation for Medical Images and Text via Vision-Language Pre-Training",
+  "type": "article"
+ },
+ {
+  "arxiv_id": "2106.08254",
+  "cited_by_count": 2778,
+  "doi": "https://doi.org/10.48550/arxiv.2106.08254",
+  "id": "W3170863103",
+  "publication_date": "2021-06-15",
+  "publication_year": 2021,
+  "title": "BEiT: BERT Pre-Training of Image Transformers",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": "2106.14156",
+  "cited_by_count": 208,
+  "doi": "https://doi.org/10.48550/arxiv.2106.14156",
+  "id": "W3175617644",
+  "publication_date": "2021-06-27",
+  "publication_year": 2021,
+  "title": "Post-Training Quantization for Vision Transformer",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 23,
+  "doi": "https://doi.org/10.15607/rss.2021.xvii.044",
+  "id": "W3175891028",
+  "publication_date": "2021-06-27",
+  "publication_year": 2021,
+  "title": "MQA: Answering the Question via Robotic Manipulation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "2106.13884",
+  "cited_by_count": 400,
+  "doi": "https://doi.org/10.48550/arxiv.2106.13884",
+  "id": "W3177174258",
+  "publication_date": "2021-06-25",
+  "publication_year": 2021,
+  "title": "Multimodal Few-Shot Learning with Frozen Language Models",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 29,
+  "doi": "https://doi.org/10.18653/v1/2022.findings-naacl.119",
+  "id": "W3200411758",
+  "publication_date": "2022-01-01",
+  "publication_year": 2022,
+  "title": "KD-VLP: Improving End-to-End Vision-and-Language Pretraining with Object Knowledge Distillation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 376,
+  "doi": "https://doi.org/10.1109/cvpr52688.2022.00516",
+  "id": "W4200629441",
+  "publication_date": "2022-06-01",
+  "publication_year": 2022,
+  "title": "VL-ADAPTER: Parameter-Efficient Transfer Learning for Vision-and-Language Tasks",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 18,
+  "doi": "https://doi.org/10.1109/gcwkshps52748.2021.9682052",
+  "id": "W4207039182",
+  "publication_date": "2021-12-01",
+  "publication_year": 2021,
+  "title": "Federated Learning in Heterogeneous Networks with Unreliable Communication",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 326,
+  "doi": "https://doi.org/10.24963/ijcai.2022/762",
+  "id": "W4225683910",
+  "publication_date": "2022-07-01",
+  "publication_year": 2022,
+  "title": "A Survey of Vision-Language Pre-Trained Models",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "2201.07703",
+  "cited_by_count": 54,
+  "doi": "https://doi.org/10.48550/arxiv.2201.07703",
+  "id": "W4226174177",
+  "publication_date": "2022-01-19",
+  "publication_year": 2022,
+  "title": "Q-ViT: Fully Differentiable Quantization for Vision Transformer",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 6,
+  "doi": "https://doi.org/10.1109/cac53003.2021.9728246",
+  "id": "W4246166363",
+  "publication_date": "2021-10-22",
+  "publication_year": 2021,
+  "title": "Fixed-point Quantization for Vision Transformer",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 1212,
+  "doi": "https://doi.org/10.18653/v1/2022.findings-acl.177",
+  "id": "W4285255856",
+  "publication_date": "2022-01-01",
+  "publication_year": 2022,
+  "title": "ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "2209.07511",
+  "cited_by_count": 169,
+  "doi": "https://doi.org/10.48550/arxiv.2209.07511",
+  "id": "W4296151208",
+  "publication_date": "2022-09-15",
+  "publication_year": 2022,
+  "title": "Test-Time Prompt Tuning for Zero-Shot Generalization in Vision-Language Models",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": "2211.10438",
+  "cited_by_count": 554,
+  "doi": "https://doi.org/10.48550/arxiv.2211.10438",
+  "id": "W4309591680",
+  "publication_date": "2022-11-18",
+  "publication_year": 2022,
+  "title": "SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 690,
+  "doi": "https://doi.org/10.1109/cvpr52688.2022.01519",
+  "id": "W4312910992",
+  "publication_date": "2022-06-01",
+  "publication_year": 2022,
+  "title": "FLAVA: A Foundational Language And Vision Alignment Model",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 220,
+  "doi": "https://doi.org/10.1007/978-3-031-19775-8_12",
+  "id": "W4313069943",
+  "publication_date": "2022-01-01",
+  "publication_year": 2022,
+  "title": "PTQ4ViT: Post-training Quantization for Vision Transformers with Twin Uniform Quantization",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 148,
+  "doi": "https://doi.org/10.1109/wacv56688.2023.00110",
+  "id": "W4319300501",
+  "publication_date": "2023-01-01",
+  "publication_year": 2023,
+  "title": "DRAMA: Joint Risk Localization and Captioning in Driving",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "2302.14794",
+  "cited_by_count": 24,
+  "doi": "https://doi.org/10.48550/arxiv.2302.14794",
+  "id": "W4322760880",
+  "publication_date": "2023-02-28",
+  "publication_year": 2023,
+  "title": "Meta Learning to Bridge Vision and Language Models for Multimodal Few-Shot Learning",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": "2304.10592",
+  "cited_by_count": 3626,
+  "doi": "https://doi.org/10.48550/arxiv.2304.10592",
+  "id": "W4366850747",
+  "publication_date": "2023-04-20",
+  "publication_year": 2023,
+  "title": "MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 88,
+  "doi": "https://doi.org/10.1145/3543507.3583518",
+  "id": "W4367046615",
+  "publication_date": "2023-04-26",
+  "publication_year": 2023,
+  "title": "pFedPrompt: Learning Personalized Prompt for Vision-Language Models in Federated Learning",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "2305.17888",
+  "cited_by_count": 354,
+  "doi": "https://doi.org/10.48550/arxiv.2305.17888",
+  "id": "W4378770729",
+  "publication_date": "2023-05-29",
+  "publication_year": 2023,
+  "title": "LLM-QAT: Data-Free Quantization Aware Training for Large Language Models",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 144,
+  "doi": "https://doi.org/10.1109/tmm.2023.3291588",
+  "id": "W4382999123",
+  "publication_date": "2023-07-03",
+  "publication_year": 2023,
+  "title": "Dual Modality Prompt Tuning for Vision-Language Pre-Trained Model",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 36,
+  "doi": "https://doi.org/10.1109/icra48891.2023.10160614",
+  "id": "W4383108807",
+  "publication_date": "2023-05-29",
+  "publication_year": 2023,
+  "title": "Ground then Navigate: Language-guided Navigation in Dynamic Scenes",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "2307.08691",
+  "cited_by_count": 1846,
+  "doi": "https://doi.org/10.48550/arxiv.2307.08691",
+  "id": "W4384648639",
+  "publication_date": "2023-07-17",
+  "publication_year": 2023,
+  "title": "FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": "2307.16125",
+  "cited_by_count": 982,
+  "doi": "https://doi.org/10.48550/arxiv.2307.16125",
+  "id": "W4385473806",
+  "publication_date": "2023-07-30",
+  "publication_year": 2023,
+  "title": "SEED-Bench: Benchmarking Multimodal LLMs with Generative Comprehension",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 67,
+  "doi": "https://doi.org/10.18653/v1/2023.findings-acl.873",
+  "id": "W4385571308",
+  "publication_date": "2023-01-01",
+  "publication_year": 2023,
+  "title": "EfficientVLM: Fast and Accurate Vision-Language Models via Knowledge Distillation and Modal-adaptive Pruning",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 72,
+  "doi": "https://doi.org/10.18653/v1/2023.acl-long.721",
+  "id": "W4385572090",
+  "publication_date": "2023-01-01",
+  "publication_year": 2023,
+  "title": "PuMer: Pruning and Merging Tokens for Efficient Vision Language Models",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 322,
+  "doi": "https://doi.org/10.1109/cvpr52729.2023.00653",
+  "id": "W4386065763",
+  "publication_date": "2023-06-01",
+  "publication_year": 2023,
+  "title": "Visual-Language Prompt Tuning with Knowledge-Guided Context Optimization",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 39,
+  "doi": "https://doi.org/10.1109/cvpr52729.2023.02170",
+  "id": "W4386071870",
+  "publication_date": "2023-06-01",
+  "publication_year": 2023,
+  "title": "Boost Vision Transformer with GPU-Friendly Sparsity and Quantization",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 71,
+  "doi": "https://doi.org/10.1109/cvpr52729.2023.01946",
+  "id": "W4386075763",
+  "publication_date": "2023-06-01",
+  "publication_year": 2023,
+  "title": "NoisyQuant: Noisy Bias-Enhanced Post-Training Activation Quantization for Vision Transformers",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "2309.02591",
+  "cited_by_count": 185,
+  "doi": "https://doi.org/10.48550/arxiv.2309.02591",
+  "id": "W4386556027",
+  "publication_date": "2023-09-05",
+  "publication_year": 2023,
+  "title": "Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 226,
+  "doi": "https://doi.org/10.18653/v1/2023.findings-eacl.88",
+  "id": "W4386566421",
+  "publication_date": "2023-01-01",
+  "publication_year": 2023,
+  "title": "PubMedCLIP: How Much Does CLIP Benefit Visual Question Answering in the Medical Domain?",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "2309.14717",
+  "cited_by_count": 212,
+  "doi": "https://doi.org/10.48550/arxiv.2309.14717",
+  "id": "W4387156572",
+  "publication_date": "2023-09-26",
+  "publication_year": 2023,
+  "title": "QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 252,
+  "doi": "https://doi.org/10.1007/978-3-031-43993-3_51",
+  "id": "W4387211014",
+  "publication_date": "2023-01-01",
+  "publication_year": 2023,
+  "title": "PMC-CLIP: Contrastive Language-Image Pre-training Using Biomedical Documents",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 105,
+  "doi": "https://doi.org/10.1007/978-3-031-43904-9_70",
+  "id": "W4387211791",
+  "publication_date": "2023-01-01",
+  "publication_year": 2023,
+  "title": "Open-Ended Medical Visual Question Answering Through Prefix Tuning of Language Models",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "2310.02255",
+  "cited_by_count": 1148,
+  "doi": "https://doi.org/10.48550/arxiv.2310.02255",
+  "id": "W4387356472",
+  "publication_date": "2023-10-03",
+  "publication_year": 2023,
+  "title": "MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 21,
+  "doi": "https://doi.org/10.1109/cluster52292.2023.00015",
+  "id": "W4388855670",
+  "publication_date": "2023-10-31",
+  "publication_year": 2023,
+  "title": "Prophet: Fine-grained Load Balancing for Parallel Training of Large-scale MoE Models",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "2312.00674",
+  "cited_by_count": 5,
+  "doi": "https://doi.org/10.48550/arxiv.2312.00674",
+  "id": "W4389326128",
+  "publication_date": "2023-12-01",
+  "publication_year": 2023,
+  "title": "LightCLIP: Learning Multi-Level Interaction for Lightweight Vision-Language Models",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 5,
+  "doi": "https://doi.org/10.18653/v1/2023.mrl-1.2",
+  "id": "W4389519293",
+  "publication_date": "2023-01-01",
+  "publication_year": 2023,
+  "title": "Meta-learning For Vision-and-language Cross-lingual Transfer",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 116,
+  "doi": "https://doi.org/10.18653/v1/2023.findings-emnlp.758",
+  "id": "W4389520274",
+  "publication_date": "2023-01-01",
+  "publication_year": 2023,
+  "title": "Scaling Vision-Language Models with Sparse Mixture of Experts",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 5,
+  "doi": "https://doi.org/10.1007/978-981-99-8540-1_31",
+  "id": "W4390166412",
+  "publication_date": "2023-12-24",
+  "publication_year": 2023,
+  "title": "User-Aware Prefix-Tuning Is a Good Learner for Personalized Image Captioning",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "2312.16886",
+  "cited_by_count": 288,
+  "doi": "https://doi.org/10.48550/arxiv.2312.16886",
+  "id": "W4390437694",
+  "publication_date": "2023-12-28",
+  "publication_year": 2023,
+  "title": "MobileVLM : A Fast, Strong and Open Vision Language Assistant for Mobile Devices",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 1884,
+  "doi": "https://doi.org/10.1109/iccv51070.2023.01100",
+  "id": "W4390873312",
+  "publication_date": "2023-10-01",
+  "publication_year": 2023,
+  "title": "Sigmoid Loss for Language Image Pre-Training",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 53,
+  "doi": "https://doi.org/10.1109/iccv51070.2023.02011",
+  "id": "W4390874497",
+  "publication_date": "2023-10-01",
+  "publication_year": 2023,
+  "title": "Distribution-Aware Prompt Tuning for Vision-Language Models",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 11,
+  "doi": "https://doi.org/10.3390/math12020286",
+  "id": "W4390912499",
+  "publication_date": "2024-01-16",
+  "publication_year": 2024,
+  "title": "VL-Meta: Vision-Language Models for Multimodal Meta-Learning",
+  "type": "article"
+ },
+ {
+  "arxiv_id": "2401.14159",
+  "cited_by_count": 1221,
+  "doi": "https://doi.org/10.48550/arxiv.2401.14159",
+  "id": "W4391272787",
+  "publication_date": "2024-01-25",
+  "publication_year": 2024,
+  "title": "Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 54,
+  "doi": "https://doi.org/10.1016/j.cag.2024.01.012",
+  "id": "W4391311406",
+  "publication_date": "2024-01-29",
+  "publication_year": 2024,
+  "title": "A survey of efficient fine-tuning methods for Vision-Language Models — Prompt and Adapter",
+  "type": "article"
+ },
+ {
+  "arxiv_id": "2402.04291",
+  "cited_by_count": 141,
+  "doi": "https://doi.org/10.48550/arxiv.2402.04291",
+  "id": "W4391670689",
+  "publication_date": "2024-02-06",
+  "publication_year": 2024,
+  "title": "BiLLM: Pushing the Limit of Post-Training Quantization for LLMs",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": "2402.12289",
+  "cited_by_count": 502,
+  "doi": "https://doi.org/10.48550/arxiv.2402.12289",
+  "id": "W4391988276",
+  "publication_date": "2024-02-19",
+  "publication_year": 2024,
+  "title": "DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": "2402.14289",
+  "cited_by_count": 228,
+  "doi": "https://doi.org/10.48550/arxiv.2402.14289",
+  "id": "W4392120646",
+  "publication_date": "2024-02-22",
+  "publication_year": 2024,
+  "title": "TinyLLaVA: A Framework of Small-scale Large Multimodal Models",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 1298,
+  "doi": "https://doi.org/10.1109/tpami.2024.3369699",
+  "id": "W4392172801",
+  "publication_date": "2024-02-26",
+  "publication_year": 2024,
+  "title": "Vision-Language Models for Vision Tasks: A Survey",
+  "type": "article"
+ },
+ {
+  "arxiv_id": "2403.12983",
+  "cited_by_count": 9,
+  "doi": "https://doi.org/10.48550/arxiv.2403.12983",
+  "id": "W4393064028",
+  "publication_date": "2024-03-02",
+  "publication_year": 2024,
+  "title": "OSSCAR: One-Shot Structured Pruning in Vision and Language Models with Combinatorial Optimization",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": "2403.14119",
+  "cited_by_count": 45,
+  "doi": "https://doi.org/10.48550/arxiv.2403.14119",
+  "id": "W4393118303",
+  "publication_date": "2024-03-21",
+  "publication_year": 2024,
+  "title": "C-TPT: Calibrated Test-Time Prompt Tuning for Vision-Language Models via Text Feature Dispersion",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 2,
+  "doi": "https://doi.org/10.1609/aaai.v38i19.30158",
+  "id": "W4393157486",
+  "publication_date": "2024-03-24",
+  "publication_year": 2024,
+  "title": "Bidirectional Contrastive Split Learning for Visual Question Answering",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "2403.19838",
+  "cited_by_count": 55,
+  "doi": "https://doi.org/10.48550/arxiv.2403.19838",
+  "id": "W4393399197",
+  "publication_date": "2024-03-28",
+  "publication_year": 2024,
+  "title": "Multi-Frame, Lightweight & Efficient Vision-Language Models for Question Answering in Autonomous Driving",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 169,
+  "doi": "https://doi.org/10.2139/ssrn.4783140",
+  "id": "W4393857491",
+  "publication_date": "2024-01-01",
+  "publication_year": 2024,
+  "title": "Exploring the Frontier of Vision-Language Models: A Survey of Current Methodologies and Future Directions",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": "1901.07042",
+  "cited_by_count": 953,
+  "doi": "https://doi.org/10.48550/arxiv.1901.07042",
+  "id": "W4394659038",
+  "publication_date": "2019-01-21",
+  "publication_year": 2019,
+  "title": "MIMIC-CXR-JPG, a large publicly available database of labeled chest radiographs",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 8,
+  "doi": "https://doi.org/10.1109/wacvw60836.2024.00040",
+  "id": "W4394862575",
+  "publication_date": "2024-01-01",
+  "publication_year": 2024,
+  "title": "TextAug: Test Time Text Augmentation for Multimodal Person Re-Identification",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 58,
+  "doi": "https://doi.org/10.1109/wacvw60836.2024.00107",
+  "id": "W4394862786",
+  "publication_date": "2024-01-01",
+  "publication_year": 2024,
+  "title": "VLAAD: Vision and Language Assistant for Autonomous Driving",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 12,
+  "doi": "https://doi.org/10.1145/3589335.3651939",
+  "id": "W4396844157",
+  "publication_date": "2024-05-12",
+  "publication_year": 2024,
+  "title": "Federated Learning in Large Model Era: Vision-Language Model for Smart City Safety Operation Management",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 241,
+  "doi": "https://doi.org/10.1109/tiv.2024.3402136",
+  "id": "W4396982312",
+  "publication_date": "2024-05-16",
+  "publication_year": 2024,
+  "title": "Vision Language Models in Autonomous Driving: A Survey and Outlook",
+  "type": "article"
+ },
+ {
+  "arxiv_id": "2405.09215",
+  "cited_by_count": 8,
+  "doi": "https://doi.org/10.48550/arxiv.2405.09215",
+  "id": "W4396987110",
+  "publication_date": "2024-05-15",
+  "publication_year": 2024,
+  "title": "Xmodel-VLM: A Simple Baseline for Multimodal Vision Language Model",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": "2405.09818",
+  "cited_by_count": 1059,
+  "doi": "https://doi.org/10.48550/arxiv.2405.09818",
+  "id": "W4397049097",
+  "publication_date": "2024-05-16",
+  "publication_year": 2024,
+  "title": "Chameleon: Mixed-Modal Early-Fusion Foundation Models",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": "2406.06385",
+  "cited_by_count": 59,
+  "doi": "https://doi.org/10.48550/arxiv.2406.06385",
+  "id": "W4399554365",
+  "publication_date": "2024-06-10",
+  "publication_year": 2024,
+  "title": "Low-Rank Quantization-Aware Training for LLMs",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": "2407.00952",
+  "cited_by_count": 124,
+  "doi": "https://doi.org/10.48550/arxiv.2407.00952",
+  "id": "W4400332356",
+  "publication_date": "2024-07-01",
+  "publication_year": 2024,
+  "title": "SplitLoRA: A Split Parameter-Efficient Fine-Tuning Framework for Large Language Models",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": "2407.08515",
+  "cited_by_count": 23,
+  "doi": "https://doi.org/10.48550/arxiv.2407.08515",
+  "id": "W4400611904",
+  "publication_date": "2024-07-11",
+  "publication_year": 2024,
+  "title": "15M Multimodal Facial Image-Text Dataset",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 27,
+  "doi": "https://doi.org/10.18653/v1/2024.clinicalnlp-1.24",
+  "id": "W4401042290",
+  "publication_date": "2024-01-01",
+  "publication_year": 2024,
+  "title": "SERPENT-VLM : Self-Refining Radiology Report Generation Using Vision Language Models",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 112,
+  "doi": "https://doi.org/10.1109/icra57147.2024.10611485",
+  "id": "W4401416408",
+  "publication_date": "2024-05-13",
+  "publication_year": 2024,
+  "title": "Talk2BEV: Language-enhanced Bird’s-eye View Maps for Autonomous Driving",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 185,
+  "doi": "https://doi.org/10.1109/icra57147.2024.10610090",
+  "id": "W4401417048",
+  "publication_date": "2024-05-13",
+  "publication_year": 2024,
+  "title": "Physically Grounded Vision-Language Models for Robotic Manipulation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 4,
+  "doi": "https://doi.org/10.1109/infocomwkshps61880.2024.10620835",
+  "id": "W4401538175",
+  "publication_date": "2024-05-20",
+  "publication_year": 2024,
+  "title": "Efficient Adapting for Vision-language Foundation Model in Edge Computing Based on Personalized and Multi-Granularity Federated Learning",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 21,
+  "doi": "https://doi.org/10.1109/tmm.2024.3453061",
+  "id": "W4402302067",
+  "publication_date": "2024-01-01",
+  "publication_year": 2024,
+  "title": "VLDadaptor: Domain Adaptive Object Detection With Vision-Language Model Distillation",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 17,
+  "doi": "https://doi.org/10.1007/s11263-026-03019-3",
+  "id": "W4402386967",
+  "publication_date": "2026-10-01",
+  "publication_year": 2026,
+  "title": "Efficient Test-Time Prompt Tuning for Vision-Language Models",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 18,
+  "doi": "https://doi.org/10.1145/3677386.3682095",
+  "id": "W4402521406",
+  "publication_date": "2024-09-13",
+  "publication_year": 2024,
+  "title": "TAGGAR: General-Purpose Task Guidance from Natural Language in Augmented Reality using Vision-Language Models",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 1274,
+  "doi": "https://doi.org/10.18653/v1/2024.acl-long.679",
+  "id": "W4402671548",
+  "publication_date": "2024-01-01",
+  "publication_year": 2024,
+  "title": "Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 6,
+  "doi": "https://doi.org/10.18653/v1/2024.findings-acl.595",
+  "id": "W4402683863",
+  "publication_date": "2024-01-01",
+  "publication_year": 2024,
+  "title": "Fair Federated Learning with Biased Vision-Language Models",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 9,
+  "doi": "https://doi.org/10.18653/v1/2024.acl-long.122",
+  "id": "W4402684165",
+  "publication_date": "2024-01-01",
+  "publication_year": 2024,
+  "title": "LRQuant: Learnable and Robust Post-Training Quantization for Large Language Models",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 24,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.00529",
+  "id": "W4402702928",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "Time-, Memory- and Parameter-Efficient Visual Adaptation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 177,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.02191",
+  "id": "W4402702936",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "Boosting Continual Learning of Vision-Language Models via Mixture-of-Experts Adapters",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 8,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.01348",
+  "id": "W4402702966",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "Building Vision-Language Models on Solid Foundations with Masked Distillation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 14,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.01486",
+  "id": "W4402704558",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "PELA: Learning Parameter-Efficient Models with Low-Rank Approximation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 36,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.01509",
+  "id": "W4402715871",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "PTQ4SAM: Post-Training Quantization for Segment Anything",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 15,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.01532",
+  "id": "W4402716027",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "MULTIFLOW: Shifting Towards Task-Agnostic Vision-Language Pruning",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 40,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.02245",
+  "id": "W4402716070",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "On the Test-Time Zero-Shot Generalization of Vision-Language Models: Do we Really need Prompt Learning?",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 55,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.01533",
+  "id": "W4402716390",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "MTLoRA: A Low-Rank Adaptation Approach for Efficient Multi-Task Learning",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 21,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.01306",
+  "id": "W4402716409",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "Low-Rank Approximation for Sparse Attention in Multi-Modal LLMs",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 1106,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.00913",
+  "id": "W4402716477",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "MMMU: A Massive Multi-Discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 133,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.01356",
+  "id": "W4402726945",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "Multi-Modal Hallucination Control by Visual Information Grounding",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 28,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.02584",
+  "id": "W4402754285",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "MoPE-CLIP: Structured Pruning for Efficient Vision-Language Models with Module-Wise Pruning Error Metric",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 109,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.02249",
+  "id": "W4402754294",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "MMA: Multi-Modal Adapter for Vision-Language Models",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 115,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.01343",
+  "id": "W4402774099",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "Efficient Test-Time Adaptation of Vision-Language Models",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 141,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.02513",
+  "id": "W4402783842",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "PromptKD: Unsupervised Prompt Distillation for Vision-Language Models",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 23,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.02537",
+  "id": "W4402816831",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "Sonic VisionLM: Playing Sound with Vision Language Models",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 118,
+  "doi": "https://doi.org/10.1109/cvprw63382.2024.00166",
+  "id": "W4402916156",
+  "publication_date": "2024-06-17",
+  "publication_year": 2024,
+  "title": "Low-Rank Few-Shot Adaptation of Vision-Language Models",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 6,
+  "doi": "https://doi.org/10.1007/978-3-031-72952-2_25",
+  "id": "W4403002333",
+  "publication_date": "2024-09-30",
+  "publication_year": 2024,
+  "title": "Turbo: Informativity-Driven Acceleration Plug-In for Vision-Language Large Models",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 1493,
+  "doi": "https://doi.org/10.1007/978-3-031-72658-3_13",
+  "id": "W4403081466",
+  "publication_date": "2024-10-01",
+  "publication_year": 2024,
+  "title": "MMBench: Is Your Multi-modal Model an All-Around Player?",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "2409.12587",
+  "cited_by_count": 6,
+  "doi": "https://doi.org/10.48550/arxiv.2409.12587",
+  "id": "W4403747466",
+  "publication_date": "2024-09-19",
+  "publication_year": 2024,
+  "title": "Test-Time Augmentation Meets Variational Bayes",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 7,
+  "doi": "https://doi.org/10.1145/3664647.3680838",
+  "id": "W4403791729",
+  "publication_date": "2024-10-26",
+  "publication_year": 2024,
+  "title": "Advancing Multimodal Large Language Models with Quantization-Aware Scale Learning for Efficient Adaptation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "2409.17634",
+  "cited_by_count": 12,
+  "doi": "https://doi.org/10.48550/arxiv.2409.17634",
+  "id": "W4403796033",
+  "publication_date": "2024-09-26",
+  "publication_year": 2024,
+  "title": "P4Q: Learning to Prompt for Quantization in Visual-language Models",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 31,
+  "doi": "https://doi.org/10.1007/978-3-031-73404-5_14",
+  "id": "W4403866612",
+  "publication_date": "2024-10-29",
+  "publication_year": 2024,
+  "title": "Isomorphic Pruning for Vision Models",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "2410.02367",
+  "cited_by_count": 63,
+  "doi": "https://doi.org/10.48550/arxiv.2410.02367",
+  "id": "W4403882887",
+  "publication_date": "2024-10-03",
+  "publication_year": 2024,
+  "title": "SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 15,
+  "doi": "https://doi.org/10.1007/978-3-031-73390-1_18",
+  "id": "W4403886626",
+  "publication_date": "2024-10-30",
+  "publication_year": 2024,
+  "title": "Self-adapting Large Visual-Language Models to Edge Devices Across Visual Modalities",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 37,
+  "doi": "https://doi.org/10.1145/3666025.3699331",
+  "id": "W4404034597",
+  "publication_date": "2024-11-04",
+  "publication_year": 2024,
+  "title": "mmCLIP: Boosting mmWave-based Zero-shot HAR via Signal-Text Alignment",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 63,
+  "doi": "https://doi.org/10.1145/3687060",
+  "id": "W4404172944",
+  "publication_date": "2024-11-07",
+  "publication_year": 2024,
+  "title": "Understanding the Evolvement of Trust Over Time within Human-AI Teams",
+  "type": "article"
+ },
+ {
+  "arxiv_id": "2410.17809",
+  "cited_by_count": 26,
+  "doi": "https://doi.org/10.48550/arxiv.2410.17809",
+  "id": "W4404307969",
+  "publication_date": "2024-10-23",
+  "publication_year": 2024,
+  "title": "An Intelligent Agentic System for Complex Image Restoration Problems",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 299,
+  "doi": "https://doi.org/10.3389/frai.2024.1430984",
+  "id": "W4404509535",
+  "publication_date": "2024-11-19",
+  "publication_year": 2024,
+  "title": "Vision-language models for medical report generation and visual question answering: a review",
+  "type": "review"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 38,
+  "doi": "https://doi.org/10.1007/978-3-031-72995-9_4",
+  "id": "W4404654839",
+  "publication_date": "2024-11-23",
+  "publication_year": 2024,
+  "title": "Adversarial Prompt Tuning for Vision-Language Models",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 4,
+  "doi": "https://doi.org/10.18653/v1/2024.findings-emnlp.921",
+  "id": "W4404781745",
+  "publication_date": "2024-01-01",
+  "publication_year": 2024,
+  "title": "Advancing Vision-Language Models with Adapter Ensemble Strategies",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 100,
+  "doi": "https://doi.org/10.18653/v1/2024.findings-emnlp.221",
+  "id": "W4404781870",
+  "publication_date": "2024-01-01",
+  "publication_year": 2024,
+  "title": "Med-MoE: Mixture of Domain-Specific Experts for Lightweight Medical Vision-Language Models",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 98,
+  "doi": "https://doi.org/10.1109/lra.2024.3511409",
+  "id": "W4405022833",
+  "publication_date": "2024-12-04",
+  "publication_year": 2024,
+  "title": "VLM-Social-Nav: Socially Aware Robot Navigation Through Scoring Using Vision-Language Models",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 26,
+  "doi": "https://doi.org/10.18653/2026.findings-emnlp.806",
+  "id": "W4405033251",
+  "publication_date": "2026-01-01",
+  "publication_year": 2026,
+  "title": "Take Only What You Need: Rank Minimization as an Implicit Forgetting Regularizer in Continual Learning",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 590,
+  "doi": "https://doi.org/10.1007/s11432-024-4235-6",
+  "id": "W4405399726",
+  "publication_date": "2024-12-01",
+  "publication_year": 2024,
+  "title": "OCRBench: on the hidden mystery of OCR in large multimodal models",
+  "type": "article"
+ },
+ {
+  "arxiv_id": "2412.15115",
+  "cited_by_count": 10458,
+  "doi": "https://doi.org/10.48550/arxiv.2412.15115",
+  "id": "W4405655184",
+  "publication_date": "2024-12-19",
+  "publication_year": 2024,
+  "title": "Qwen2.5 Technical Report",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 43,
+  "doi": "https://doi.org/10.1109/iros58592.2024.10801993",
+  "id": "W4405786114",
+  "publication_date": "2024-10-14",
+  "publication_year": 2024,
+  "title": "ManipVQA: Injecting Robotic Affordance and Physically Grounded Information into Multi-Modal Large Language Models",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "2501.01834",
+  "cited_by_count": 8,
+  "doi": "https://doi.org/10.48550/arxiv.2501.01834",
+  "id": "W4406093458",
+  "publication_date": "2025-01-03",
+  "publication_year": 2025,
+  "title": "MoColl: Agent-Based Specific and General Model Collaboration for Image Captioning",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 992,
+  "doi": "https://doi.org/10.1109/access.2025.3532853",
+  "id": "W4406728221",
+  "publication_date": "2025-01-01",
+  "publication_year": 2025,
+  "title": "Agentic AI: Autonomous Intelligence for Complex Goals—A Comprehensive Survey",
+  "type": "article"
+ },
+ {
+  "arxiv_id": "2501.13904",
+  "cited_by_count": 10,
+  "doi": "https://doi.org/10.48550/arxiv.2501.13904",
+  "id": "W4406810884",
+  "publication_date": "2025-01-23",
+  "publication_year": 2025,
+  "title": "Privacy-Preserving Personalized Federated Prompt Learning for Multimodal Large Language Models",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 7,
+  "doi": "https://doi.org/10.1109/icassp55912.2026.11461843",
+  "id": "W4406879973",
+  "publication_date": "2026-04-21",
+  "publication_year": 2026,
+  "title": "Complementary Subspace Low-Rank Adaptation of Vision-Language Models for Few-Shot Classification",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "2501.16720",
+  "cited_by_count": 4,
+  "doi": "https://doi.org/10.48550/arxiv.2501.16720",
+  "id": "W4406959331",
+  "publication_date": "2025-01-28",
+  "publication_year": 2025,
+  "title": "One Head Eight Arms: Block Matrix based Low Rank Adaptation for CLIP-based Few-Shot Learning",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": "2502.02069",
+  "cited_by_count": 8,
+  "doi": "https://doi.org/10.48550/arxiv.2502.02069",
+  "id": "W4407185620",
+  "publication_date": "2025-02-04",
+  "publication_year": 2025,
+  "title": "LoRA-TTT: Low-Rank Test-Time Training for Vision-Language Models",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": "2502.06786",
+  "cited_by_count": 22,
+  "doi": "https://doi.org/10.48550/arxiv.2502.06786",
+  "id": "W4407359588",
+  "publication_date": "2025-02-10",
+  "publication_year": 2025,
+  "title": "Matryoshka Quantization",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": "2502.07838",
+  "cited_by_count": 3,
+  "doi": "https://doi.org/10.48550/arxiv.2502.07838",
+  "id": "W4407569455",
+  "publication_date": "2025-02-11",
+  "publication_year": 2025,
+  "title": "NanoVLMs: How small can we go and still make coherent Vision Language Models?",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 4,
+  "doi": "https://doi.org/10.1109/flics70075.2026",
+  "id": "W4407683686",
+  "publication_date": "2026-01-01",
+  "publication_year": 2026,
+  "title": "2026 2nd International Conference on Federated Learning and Intelligent Computing Systems (FLICS)",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 5,
+  "doi": "https://doi.org/10.1007/978-3-031-82240-7_11",
+  "id": "W4408095412",
+  "publication_date": "2025-01-01",
+  "publication_year": 2025,
+  "title": "Lightweight Unsupervised Federated Learning with Pretrained Vision Language Model",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 8,
+  "doi": "https://doi.org/10.1109/tencon61640.2024.10902892",
+  "id": "W4408258414",
+  "publication_date": "2024-12-01",
+  "publication_year": 2024,
+  "title": "Large Language Models for Video Surveillance Applications",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 21,
+  "doi": "https://doi.org/10.1109/tvcg.2025.3549147",
+  "id": "W4408358257",
+  "publication_date": "2025-03-12",
+  "publication_year": 2025,
+  "title": "ViDDAR: Vision Language Model-Based Task-Detrimental Content Detection for Augmented Reality",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 25,
+  "doi": "https://doi.org/10.1109/tcsvt.2025.3551766",
+  "id": "W4408564121",
+  "publication_date": "2025-03-18",
+  "publication_year": 2025,
+  "title": "M2IST: Multi-Modal Interactive Side-Tuning for Efficient Referring Expression Comprehension",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 9,
+  "doi": "https://doi.org/10.1609/aaai.v39i22.34512",
+  "id": "W4409348240",
+  "publication_date": "2025-04-11",
+  "publication_year": 2025,
+  "title": "Mitigating Hallucinations in Large Vision-Language Models by Adaptively Constraining Information Flow",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 13,
+  "doi": "https://doi.org/10.1109/vrw66409.2025.00039",
+  "id": "W4409761465",
+  "publication_date": "2025-03-08",
+  "publication_year": 2025,
+  "title": "Advancing the Understanding and Evaluation of AR-Generated Scenes: When Vision-Language Models Shine and Stumble",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 8,
+  "doi": "https://doi.org/10.1007/978-3-031-89471-8_43",
+  "id": "W4410514916",
+  "publication_date": "2025-01-01",
+  "publication_year": 2025,
+  "title": "Addressing Failures in Robotics Using Vision-Based Language Models (VLMs) and Behavior Trees (BT)",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 5,
+  "doi": "https://doi.org/10.18653/v1/2024.inlg-main.32",
+  "id": "W4411113483",
+  "publication_date": "2024-01-01",
+  "publication_year": 2024,
+  "title": "Context-aware Visual Storytelling with Visual Prefix Tuning and Contrastive Learning",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 92,
+  "doi": "https://doi.org/10.1109/jiot.2025.3579032",
+  "id": "W4411232024",
+  "publication_date": "2025-06-12",
+  "publication_year": 2025,
+  "title": "Vision-Language Models for Edge Networks: A Comprehensive Survey",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 22,
+  "doi": "https://doi.org/10.1145/3731715.3733324",
+  "id": "W4411631898",
+  "publication_date": "2025-06-25",
+  "publication_year": 2025,
+  "title": "Enhancing Adversarial Robustness of Vision-Language Models through Low-Rank Adaptation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 180,
+  "doi": "https://doi.org/10.18653/v1/2025.acl-long.498",
+  "id": "W4412945475",
+  "publication_date": "2025-01-01",
+  "publication_year": 2025,
+  "title": "EfficientQAT: Efficient Quantization-Aware Training for Large Language Models",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 63,
+  "doi": "https://doi.org/10.1109/cvpr52734.2025.01841",
+  "id": "W4413144805",
+  "publication_date": "2025-06-10",
+  "publication_year": 2025,
+  "title": "FastVLM: Efficient Vision Encoding for Vision Language Models",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 28,
+  "doi": "https://doi.org/10.1109/cvpr52734.2025.00394",
+  "id": "W4413146209",
+  "publication_date": "2025-06-10",
+  "publication_year": 2025,
+  "title": "MBQ: Modality-Balanced Quantization for Large Vision-Language Models",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 4,
+  "doi": "https://doi.org/10.1109/cvpr52734.2025.02347",
+  "id": "W4413155965",
+  "publication_date": "2025-06-10",
+  "publication_year": 2025,
+  "title": "Minimal Interaction Separated Tuning: A New Paradigm for Visual Adaptation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 86,
+  "doi": "https://doi.org/10.1016/j.chbah.2025.100200",
+  "id": "W4413635962",
+  "publication_date": "2025-08-26",
+  "publication_year": 2025,
+  "title": "Collaborative human-AI trust (CHAI-T): A process framework for active management of trust in human-AI collaboration",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 8,
+  "doi": "https://doi.org/10.1145/3764944.3764948",
+  "id": "W4413767857",
+  "publication_date": "2025-08-26",
+  "publication_year": 2025,
+  "title": "Rethinking Pruning for Vision-Language Models: Strategies for Effective Sparsity",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 31,
+  "doi": "https://doi.org/10.1109/icra55743.2025.11128264",
+  "id": "W4413917771",
+  "publication_date": "2025-05-19",
+  "publication_year": 2025,
+  "title": "VLM-GroNav: Robot Navigation Using Physically Grounded Vision-Language Models in Outdoor Environments",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 9,
+  "doi": "https://doi.org/10.1109/cvprw67362.2025.00018",
+  "id": "W4414197420",
+  "publication_date": "2025-06-11",
+  "publication_year": 2025,
+  "title": "Online Gaussian Test-Time Adaptation of Vision-Language Models",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 16873,
+  "doi": "https://doi.org/10.1038/s41586-025-09422-z",
+  "id": "W4414281281",
+  "publication_date": "2025-09-17",
+  "publication_year": 2025,
+  "title": "DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning",
+  "type": "article"
+ },
+ {
+  "arxiv_id": "2503.13754",
+  "cited_by_count": 47,
+  "doi": "https://doi.org/10.48550/arxiv.2503.13754",
+  "id": "W4414900407",
+  "publication_date": "2025-03-17",
+  "publication_year": 2025,
+  "title": "From Autonomous Agents to Integrated Systems, A New Paradigm: Orchestrated Distributed Intelligence",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 6,
+  "doi": "https://doi.org/10.1109/icme59968.2025.11209041",
+  "id": "W4415708071",
+  "publication_date": "2025-06-30",
+  "publication_year": 2025,
+  "title": "RealMind: Advancing Visual Decoding and Language Interaction via EEG Signals",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 31,
+  "doi": "https://doi.org/10.52202/079017-4099",
+  "id": "W4415795202",
+  "publication_date": "2024-01-01",
+  "publication_year": 2024,
+  "title": "Frustratingly Easy Test-Time Adaptation of Vision-Language Models",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 45,
+  "doi": "https://doi.org/10.52202/079017-3638",
+  "id": "W4415795654",
+  "publication_date": "2024-01-01",
+  "publication_year": 2024,
+  "title": "Q-VLM: Post-training Quantization for Large Vision-Language Models",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 11,
+  "doi": "https://doi.org/10.52202/079017-2319",
+  "id": "W4415797029",
+  "publication_date": "2024-01-01",
+  "publication_year": 2024,
+  "title": "SeTAR: Out-of-Distribution Detection with Selective Low-Rank Approximation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 754,
+  "doi": "https://doi.org/10.52202/079017-0850",
+  "id": "W4415798312",
+  "publication_date": "2024-01-01",
+  "publication_year": 2024,
+  "title": "Are We on the Right Way for Evaluating Large Vision-Language Models?",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "2503.10291",
+  "cited_by_count": 159,
+  "doi": "https://doi.org/10.48550/arxiv.2503.10291",
+  "id": "W4416039144",
+  "publication_date": "2025-03-13",
+  "publication_year": 2025,
+  "title": "VisualPRM: An Effective Process Reward Model for Multimodal Reasoning",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 2,
+  "doi": "https://doi.org/10.1109/ijcnn64981.2025.11228676",
+  "id": "W4416251210",
+  "publication_date": "2025-06-30",
+  "publication_year": 2025,
+  "title": "Simplifying CLIP: Unleashing the Power of Large-Scale Models on Consumer-level Computers",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 7,
+  "doi": "https://doi.org/10.1109/iccv51701.2025.02112",
+  "id": "W4417049779",
+  "publication_date": "2025-10-19",
+  "publication_year": 2025,
+  "title": "DASH: Detection and Assessment of Systematic Hallucinations of VLMs",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 190,
+  "doi": "https://doi.org/10.1007/s44267-025-00099-6",
+  "id": "W4417147545",
+  "publication_date": "2025-12-01",
+  "publication_year": 2025,
+  "title": "Efficient multimodal large language models: a survey",
+  "type": "article"
+ },
+ {
+  "arxiv_id": "2502.19545",
+  "cited_by_count": 7,
+  "doi": "https://doi.org/10.48550/arxiv.2502.19545",
+  "id": "W4417422180",
+  "publication_date": "2025-02-26",
+  "publication_year": 2025,
+  "title": "Winning Big with Small Models: Knowledge Distillation vs. Self-Training for Reducing Hallucination in QA Agents",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": "1506.02142",
+  "cited_by_count": 7187,
+  "doi": "https://doi.org/10.48550/arxiv.1506.02142",
+  "id": "W582134693",
+  "publication_date": "2015-06-06",
+  "publication_year": 2015,
+  "title": "Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 70,
+  "doi": "https://doi.org/10.1016/j.trc.2025.105457",
+  "id": "W7107945717",
+  "publication_date": "2025-11-30",
+  "publication_year": 2025,
+  "title": "V2X-VLM: End-to-End V2X cooperative autonomous driving through large vision-Language models",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 161,
+  "doi": "https://doi.org/10.52202/075280-2308",
+  "id": "W7133241261",
+  "publication_date": "2023-01-01",
+  "publication_year": 2023,
+  "title": "Fine-Tuning Language Models with Just Forward Passes",
+  "type": "conference-paper"
+ }
+]

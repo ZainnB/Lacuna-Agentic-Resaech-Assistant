@@ -1,0 +1,1592 @@
+[
+ {
+  "arxiv_id": null,
+  "cited_by_count": 5881,
+  "doi": "https://doi.org/10.1007/978-3-642-33715-4_54",
+  "id": "W125693051",
+  "publication_date": "2012-01-01",
+  "publication_year": 2012,
+  "title": "Indoor Segmentation and Support Inference from RGBD Images",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 1789,
+  "doi": "https://doi.org/10.1109/tcad.2015.2474396",
+  "id": "W1604973310",
+  "publication_date": "2015-08-28",
+  "publication_year": 2015,
+  "title": "TrueNorth: Design and Tool Flow of a 65 mW 1 Million Neuron Programmable Neurosynaptic Chip",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 47346,
+  "doi": "https://doi.org/10.1007/978-3-319-10602-1_48",
+  "id": "W1861492603",
+  "publication_date": "2014-01-01",
+  "publication_year": 2014,
+  "title": "Microsoft COCO: Common Objects in Context",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "1412.3555",
+  "cited_by_count": 15956,
+  "doi": "https://doi.org/10.48550/arxiv.1412.3555",
+  "id": "W1924770834",
+  "publication_date": "2014-12-11",
+  "publication_year": 2014,
+  "title": "Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 5429,
+  "doi": "https://doi.org/10.1109/msp.2012.2211477",
+  "id": "W2007339694",
+  "publication_date": "2012-10-19",
+  "publication_year": 2012,
+  "title": "The MNIST Database of Handwritten Digit Images for Machine Learning Research [Best of the Web]",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 20268,
+  "doi": "https://doi.org/10.1007/s11263-009-0275-4",
+  "id": "W2031489346",
+  "publication_date": "2009-09-08",
+  "publication_year": 2009,
+  "title": "The Pascal Visual Object Classes (VOC) Challenge",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 109050,
+  "doi": "https://doi.org/10.1162/neco.1997.9.8.1735",
+  "id": "W2064675550",
+  "publication_date": "1997-11-01",
+  "publication_year": 1997,
+  "title": "Long Short-Term Memory",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 68756,
+  "doi": "https://doi.org/10.1109/cvpr.2009.5206848",
+  "id": "W2108598243",
+  "publication_date": "2009-06-01",
+  "publication_year": 2009,
+  "title": "ImageNet: A large-scale hierarchical image database",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 480,
+  "doi": null,
+  "id": "W2120972216",
+  "publication_date": "1988-01-01",
+  "publication_year": 1988,
+  "title": "Comparing Biases for Minimal Network Construction with Back-Propagation",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 1504,
+  "doi": null,
+  "id": "W2125389748",
+  "publication_date": "1993-01-01",
+  "publication_year": 1993,
+  "title": "Second Order Derivatives for Network Pruning: Optimal Brain Surgeon",
+  "type": "book-chapter"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 114712,
+  "doi": "https://doi.org/10.1145/3065386",
+  "id": "W2163605009",
+  "publication_date": "2017-05-24",
+  "publication_year": 2017,
+  "title": "ImageNet classification with deep convolutional neural networks",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 288,
+  "doi": "https://doi.org/10.1109/mc.1986.1663069",
+  "id": "W2186373062",
+  "publication_date": "1986-10-01",
+  "publication_year": 1986,
+  "title": "25th ACM/IEEE Design Automation Conference ®",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 977,
+  "doi": "https://doi.org/10.1587/essfr.14.3_255",
+  "id": "W2240990343",
+  "publication_date": "2003-01-01",
+  "publication_year": 2003,
+  "title": "2010 IEEE international symposium on circuits and systems",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 104,
+  "doi": "https://doi.org/10.1109/micro20571.2012",
+  "id": "W2244090709",
+  "publication_date": "2012-12-01",
+  "publication_year": 2012,
+  "title": "2012 45th Annual IEEE/ACM International Symposium on Microarchitecture",
+  "type": "paratext"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 181,
+  "doi": "https://doi.org/10.1109/tcsvt.2016.2592330",
+  "id": "W2260498192",
+  "publication_date": "2016-07-18",
+  "publication_year": 2016,
+  "title": "Origami: A 803-GOp/s/W Convolutional Network Accelerator",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 2004,
+  "doi": "https://doi.org/10.1007/s11263-018-1140-0",
+  "id": "W2507296351",
+  "publication_date": "2018-12-07",
+  "publication_year": 2018,
+  "title": "Semantic Understanding of Scenes Through the ADE20K Dataset",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 1414,
+  "doi": "https://doi.org/10.1109/cvpr.2018.00132",
+  "id": "W2561196672",
+  "publication_date": "2018-06-01",
+  "publication_year": 2018,
+  "title": "COCO-Stuff: Thing and Stuff Classes in Context",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "1706.03762",
+  "cited_by_count": 136318,
+  "doi": "https://doi.org/10.48550/arxiv.1706.03762",
+  "id": "W2626778328",
+  "publication_date": "2017-06-12",
+  "publication_year": 2017,
+  "title": "Attention Is All You Need",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": "1710.09282",
+  "cited_by_count": 1291,
+  "doi": "https://doi.org/10.48550/arxiv.1710.09282",
+  "id": "W2766839578",
+  "publication_date": "2017-10-23",
+  "publication_year": 2017,
+  "title": "A Survey of Model Compression and Acceleration for Deep Neural Networks",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": "1805.06085",
+  "cited_by_count": 1134,
+  "doi": "https://doi.org/10.48550/arxiv.1805.06085",
+  "id": "W2786771851",
+  "publication_date": "2018-05-16",
+  "publication_year": 2018,
+  "title": "PACT: Parameterized Clipping Activation for Quantized Neural Networks",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 177,
+  "doi": "https://doi.org/10.1109/tnnls.2018.2876179",
+  "id": "W2789027062",
+  "publication_date": "2018-11-09",
+  "publication_year": 2018,
+  "title": "$L1$ -Norm Batch Normalization for Efficient Training of Deep Neural Networks",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 175,
+  "doi": "https://doi.org/10.1145/3154484",
+  "id": "W2888727064",
+  "publication_date": "2018-08-22",
+  "publication_year": 2018,
+  "title": "A domain-specific architecture for deep neural networks",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 526,
+  "doi": "https://doi.org/10.1145/3242897",
+  "id": "W2891946740",
+  "publication_date": "2018-09-30",
+  "publication_year": 2018,
+  "title": "FINN- R: An End-to-End Deep-Learning Framework for Fast Exploration of Quantized Neural Networks",
+  "type": "article"
+ },
+ {
+  "arxiv_id": "1812.00332",
+  "cited_by_count": 1856,
+  "doi": "https://doi.org/10.48550/arxiv.1812.00332",
+  "id": "W2902251695",
+  "publication_date": "2018-12-02",
+  "publication_year": 2018,
+  "title": "ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": "1902.08153",
+  "cited_by_count": 773,
+  "doi": "https://doi.org/10.48550/arxiv.1902.08153",
+  "id": "W2916954108",
+  "publication_date": "2019-02-21",
+  "publication_year": 2019,
+  "title": "Learned Step Size Quantization",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 430,
+  "doi": "https://doi.org/10.1109/iccvw.2019.00363",
+  "id": "W2917767146",
+  "publication_date": "2019-10-01",
+  "publication_year": 2019,
+  "title": "Low-bit Quantization of Neural Networks for Efficient Inference",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 7967,
+  "doi": "https://doi.org/10.1109/cvpr42600.2020.01164",
+  "id": "W2925148167",
+  "publication_date": "2020-06-01",
+  "publication_year": 2020,
+  "title": "nuScenes: A Multimodal Dataset for Autonomous Driving",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 550,
+  "doi": "https://doi.org/10.1109/iccv.2019.00141",
+  "id": "W2950297794",
+  "publication_date": "2019-10-01",
+  "publication_year": 2019,
+  "title": "Data-Free Quantization Through Weight Equalization and Bias Correction",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "1405.0312",
+  "cited_by_count": 4791,
+  "doi": "https://doi.org/10.48550/arxiv.1405.0312",
+  "id": "W2952122856",
+  "publication_date": "2014-05-01",
+  "publication_year": 2014,
+  "title": "Microsoft COCO: Common Objects in Context",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 219,
+  "doi": "https://doi.org/10.1109/cvpr.2019.00292",
+  "id": "W2962298324",
+  "publication_date": "2019-06-01",
+  "publication_year": 2019,
+  "title": "Fully Quantized Network for Object Detection",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "1909.03108",
+  "cited_by_count": 31,
+  "doi": "https://doi.org/10.48550/arxiv.1909.03108",
+  "id": "W2972291421",
+  "publication_date": "2019-09-06",
+  "publication_year": 2019,
+  "title": "High Resolution Medical Image Analysis with Spatial Partitioning",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 53,
+  "doi": "https://doi.org/10.1109/tc.2019.2941875",
+  "id": "W2973613048",
+  "publication_date": "2019-09-16",
+  "publication_year": 2019,
+  "title": "Fast and Efficient Convolutional Accelerator for Edge Computing",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 1120,
+  "doi": "https://doi.org/10.1109/cvpr.2019.00881",
+  "id": "W2982479999",
+  "publication_date": "2019-06-01",
+  "publication_year": 2019,
+  "title": "HAQ: Hardware-Aware Automated Quantization With Mixed Precision",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 23,
+  "doi": "https://doi.org/10.3390/electronics8111321",
+  "id": "W2988454569",
+  "publication_date": "2019-11-09",
+  "publication_year": 2019,
+  "title": "Fast Convolutional Neural Networks in Low Density FPGAs Using Zero-Skipping and Weight Pruning",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 16044,
+  "doi": "https://doi.org/10.52202/085713",
+  "id": "W2990138404",
+  "publication_date": "2007-09-07",
+  "publication_year": 2007,
+  "title": "Advances in Neural Information Processing Systems 19: Proceedings of the 2006 Conference",
+  "type": "book"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 20,
+  "doi": "https://doi.org/10.1109/icfpt47387.2019.00012",
+  "id": "W3003537648",
+  "publication_date": "2019-12-01",
+  "publication_year": 2019,
+  "title": "Static Block Floating-Point Quantization for Convolutional Neural Networks on FPGA",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "2004.10568",
+  "cited_by_count": 298,
+  "doi": "https://doi.org/10.48550/arxiv.2004.10568",
+  "id": "W3020212829",
+  "publication_date": "2020-04-22",
+  "publication_year": 2020,
+  "title": "Up or Down? Adaptive Rounding for Post-Training Quantization",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 19702,
+  "doi": "https://doi.org/10.1007/978-3-030-58452-8_13",
+  "id": "W3030520226",
+  "publication_date": "2020-01-01",
+  "publication_year": 2020,
+  "title": "End-to-End Object Detection with Transformers",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 4377,
+  "doi": "https://doi.org/10.1007/s11263-021-01453-z",
+  "id": "W3034368386",
+  "publication_date": "2021-03-22",
+  "publication_year": 2021,
+  "title": "Knowledge Distillation: A Survey",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 207,
+  "doi": "https://doi.org/10.1109/cvpr42600.2020.00215",
+  "id": "W3035332806",
+  "publication_date": "2020-06-01",
+  "publication_year": 2020,
+  "title": "APQ: Joint Search for Network Architecture, Pruning and Quantization Policy",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "2006.16669",
+  "cited_by_count": 88,
+  "doi": "https://doi.org/10.48550/arxiv.2006.16669",
+  "id": "W3038470071",
+  "publication_date": "2020-06-30",
+  "publication_year": 2020,
+  "title": "EasyQuant: Post-training Quantization via Scale Optimization",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 54,
+  "doi": "https://doi.org/10.1016/j.patcog.2020.107647",
+  "id": "W3088262073",
+  "publication_date": "2020-09-24",
+  "publication_year": 2020,
+  "title": "Mixed-precision quantized neural networks with progressively decreasing bitwidth",
+  "type": "article"
+ },
+ {
+  "arxiv_id": "2010.11929",
+  "cited_by_count": 51361,
+  "doi": "https://doi.org/10.48550/arxiv.2010.11929",
+  "id": "W3094502228",
+  "publication_date": "2020-10-22",
+  "publication_year": 2020,
+  "title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 284,
+  "doi": "https://doi.org/10.1109/access.2020.3034343",
+  "id": "W3096015486",
+  "publication_date": "2020-01-01",
+  "publication_year": 2020,
+  "title": "Transfer Learning With Adaptive Fine-Tuning",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 182,
+  "doi": "https://doi.org/10.1007/978-3-030-58536-5_5",
+  "id": "W3108835732",
+  "publication_date": "2020-01-01",
+  "publication_year": 2020,
+  "title": "Post-training Piecewise Linear Quantization for Deep Neural Networks",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "2012.12877",
+  "cited_by_count": 4586,
+  "doi": "https://doi.org/10.48550/arxiv.2012.12877",
+  "id": "W3116489684",
+  "publication_date": "2020-12-23",
+  "publication_year": 2020,
+  "title": "Training data-efficient image transformers & distillation through attention",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": "2101.01321",
+  "cited_by_count": 239,
+  "doi": "https://doi.org/10.48550/arxiv.2101.01321",
+  "id": "W3118568258",
+  "publication_date": "2021-01-05",
+  "publication_year": 2021,
+  "title": "I-BERT: Integer-only BERT Quantization",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 10,
+  "doi": "https://doi.org/10.1109/tcad.2021.3058317",
+  "id": "W3127181201",
+  "publication_date": "2021-02-10",
+  "publication_year": 2021,
+  "title": "Hardware-Enabled Efficient Data Processing With Tensor-Train Decomposition",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 176,
+  "doi": "https://doi.org/10.1109/dac18074.2021.9586134",
+  "id": "W3137649401",
+  "publication_date": "2021-11-08",
+  "publication_year": 2021,
+  "title": "Softermax: Hardware/Software Co-Design of an Efficient Softmax for Transformers",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 38647,
+  "doi": "https://doi.org/10.1109/iccv48922.2021.00986",
+  "id": "W3138516171",
+  "publication_date": "2021-10-01",
+  "publication_year": 2021,
+  "title": "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 44,
+  "doi": "https://doi.org/10.1109/fccm51124.2021.00014",
+  "id": "W3168376295",
+  "publication_date": "2021-05-01",
+  "publication_year": 2021,
+  "title": "HAO: Hardware-aware Neural Architecture Optimization for Efficient Inference",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "2106.04533",
+  "cited_by_count": 129,
+  "doi": "https://doi.org/10.48550/arxiv.2106.04533",
+  "id": "W3169769781",
+  "publication_date": "2021-06-08",
+  "publication_year": 2021,
+  "title": "Chasing Sparsity in Vision Transformers: An End-to-End Exploration",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": "2106.08295",
+  "cited_by_count": 950,
+  "doi": "https://doi.org/10.48550/arxiv.2106.08295",
+  "id": "W3170437634",
+  "publication_date": "2021-06-15",
+  "publication_year": 2021,
+  "title": "A White Paper on Neural Network Quantization",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": "2106.14156",
+  "cited_by_count": 208,
+  "doi": "https://doi.org/10.48550/arxiv.2106.14156",
+  "id": "W3175617644",
+  "publication_date": "2021-06-27",
+  "publication_year": 2021,
+  "title": "Post-Training Quantization for Vision Transformer",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 1057,
+  "doi": "https://doi.org/10.1016/j.neucom.2021.07.045",
+  "id": "W3184606595",
+  "publication_date": "2021-07-21",
+  "publication_year": 2021,
+  "title": "Pruning and quantization for deep neural network acceleration: A survey",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 521,
+  "doi": "https://doi.org/10.3390/diagnostics11081384",
+  "id": "W3188404242",
+  "publication_date": "2021-07-31",
+  "publication_year": 2021,
+  "title": "TransMed: Transformers Advance Multi-Modal Medical Image Classification",
+  "type": "article"
+ },
+ {
+  "arxiv_id": "2104.08500",
+  "cited_by_count": 159,
+  "doi": "https://doi.org/10.48550/arxiv.2104.08500",
+  "id": "W3194959296",
+  "publication_date": "2021-04-17",
+  "publication_year": 2021,
+  "title": "Vision Transformer Pruning",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 14,
+  "doi": "https://doi.org/10.3390/s21175901",
+  "id": "W3196915596",
+  "publication_date": "2021-09-02",
+  "publication_year": 2021,
+  "title": "Evolutionary Multi-Objective One-Shot Filter Pruning for Designing Lightweight Convolutional Neural Network",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 71,
+  "doi": "https://doi.org/10.1109/tnnls.2021.3114747",
+  "id": "W3203810622",
+  "publication_date": "2021-10-07",
+  "publication_year": 2021,
+  "title": "AANet: Adaptive Attention Network for COVID-19 Detection From Chest X-Ray Images",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 69,
+  "doi": "https://doi.org/10.1109/iccv48922.2021.00523",
+  "id": "W3204021316",
+  "publication_date": "2021-10-01",
+  "publication_year": 2021,
+  "title": "Improving Neural Network Efficiency via Post-training Quantization with Adaptive Floating-Point",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 328,
+  "doi": "https://doi.org/10.1109/iccvw54120.2021.00314",
+  "id": "W3211328899",
+  "publication_date": "2021-10-01",
+  "publication_year": 2021,
+  "title": "ViT-YOLO:Transformer-Based YOLO for Object Detection",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 1772,
+  "doi": "https://doi.org/10.1109/tnn.2010.2102870",
+  "id": "W4205616158",
+  "publication_date": "2011-01-01",
+  "publication_year": 2011,
+  "title": "2011 International Joint Conference on Neural Networks",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 51,
+  "doi": "https://doi.org/10.1109/icfpt51103.2020.00001",
+  "id": "W4207060104",
+  "publication_date": "2020-12-01",
+  "publication_year": 2020,
+  "title": "2020 International Conference on Field-Programmable Technology",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 7,
+  "doi": "https://doi.org/10.1016/j.image.2022.116649",
+  "id": "W4210470642",
+  "publication_date": "2022-01-31",
+  "publication_year": 2022,
+  "title": "MFFNet: Single facial depth map refinement using multi-level feature fusion",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 34,
+  "doi": "https://doi.org/10.1145/3490422",
+  "id": "W4211095909",
+  "publication_date": "2022-02-11",
+  "publication_year": 2022,
+  "title": "Proceedings of the 2022 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays",
+  "type": "paratext"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 3961,
+  "doi": "https://doi.org/10.1109/wacv51458.2022.00181",
+  "id": "W4212875960",
+  "publication_date": "2022-01-01",
+  "publication_year": 2022,
+  "title": "UNETR: Transformers for 3D Medical Image Segmentation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "2203.04570",
+  "cited_by_count": 58,
+  "doi": "https://doi.org/10.48550/arxiv.2203.04570",
+  "id": "W4221144813",
+  "publication_date": "2022-03-09",
+  "publication_year": 2022,
+  "title": "CP-ViT: Cascade Vision Transformer Pruning via Progressive Sparsity Prediction",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 2622,
+  "doi": "https://doi.org/10.1007/978-3-031-08999-2_22",
+  "id": "W4221163766",
+  "publication_date": "2022-01-01",
+  "publication_year": 2022,
+  "title": "Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 49,
+  "doi": "https://doi.org/10.1145/3470496.3527423",
+  "id": "W4224267386",
+  "publication_date": "2022-05-31",
+  "publication_year": 2022,
+  "title": "Accelerating attention through gradient-based learned runtime pruning",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 11,
+  "doi": "https://doi.org/10.1109/icassp43922.2022.9747484",
+  "id": "W4224917841",
+  "publication_date": "2022-04-27",
+  "publication_year": 2022,
+  "title": "Attention Probe: Vision Transformer Distillation in the Wild",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 33,
+  "doi": "https://doi.org/10.1109/icassp43922.2022.9747634",
+  "id": "W4226281299",
+  "publication_date": "2022-04-27",
+  "publication_year": 2022,
+  "title": "Dynamically Pruning Segformer for Efficient Semantic Segmentation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "2203.08243",
+  "cited_by_count": 92,
+  "doi": "https://doi.org/10.48550/arxiv.2203.08243",
+  "id": "W4226484461",
+  "publication_date": "2022-03-15",
+  "publication_year": 2022,
+  "title": "Unified Visual Transformer Compression",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": "2201.06618",
+  "cited_by_count": 59,
+  "doi": "https://doi.org/10.48550/arxiv.2201.06618",
+  "id": "W4226549668",
+  "publication_date": "2022-01-17",
+  "publication_year": 2022,
+  "title": "VAQF: Fully Automatic Software-Hardware Co-Design Framework for Low-Bit Vision Transformer",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 1343,
+  "doi": "https://doi.org/10.1109/icassp.1983",
+  "id": "W4234842379",
+  "publication_date": "1983-01-01",
+  "publication_year": 1983,
+  "title": "ICASSP '83. IEEE International Conference on Acoustics, Speech, and Signal Processing",
+  "type": "paratext"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 54,
+  "doi": "https://doi.org/10.1109/fccm17827.2011",
+  "id": "W4241102044",
+  "publication_date": "2011-05-01",
+  "publication_year": 2011,
+  "title": "2011 IEEE 19th Annual International Symposium on Field-Programmable Custom Computing Machines",
+  "type": "paratext"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 495,
+  "doi": "https://doi.org/10.1109/micro.2016.7783720",
+  "id": "W4242577057",
+  "publication_date": "2016-10-01",
+  "publication_year": 2016,
+  "title": "From high-level deep neural models to FPGAs",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 4263,
+  "doi": "https://doi.org/10.1109/cvpr12618.2008",
+  "id": "W4249502209",
+  "publication_date": "2008-01-01",
+  "publication_year": 2008,
+  "title": "2008 IEEE Conference on Computer Vision and Pattern Recognition",
+  "type": "paratext"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 814,
+  "doi": "https://doi.org/10.1109/itsc30712.2015",
+  "id": "W4254057358",
+  "publication_date": "2015-01-01",
+  "publication_year": 2015,
+  "title": "2015 IEEE 18th International Conference on Intelligent Transportation Systems",
+  "type": "paratext"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 134,
+  "doi": "https://doi.org/10.1109/iccad13990.2008",
+  "id": "W4254609273",
+  "publication_date": "2008-11-01",
+  "publication_year": 2008,
+  "title": "2008 IEEE/ACM International Conference on Computer-Aided Design",
+  "type": "paratext"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 149,
+  "doi": "https://doi.org/10.1109/cvpr52688.2022.01064",
+  "id": "W4281489207",
+  "publication_date": "2022-06-01",
+  "publication_year": 2022,
+  "title": "Knowledge Distillation via the Target-aware Transformer",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 106,
+  "doi": "https://doi.org/10.1609/aaai.v36i3.20222",
+  "id": "W4283811336",
+  "publication_date": "2022-06-28",
+  "publication_year": 2022,
+  "title": "Width & Depth Pruning for Vision Transformers",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 289,
+  "doi": "https://doi.org/10.24963/ijcai.2022/164",
+  "id": "W4285601701",
+  "publication_date": "2022-07-01",
+  "publication_year": 2022,
+  "title": "FQ-ViT: Post-Training Quantization for Fully Quantized Vision Transformer",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 8,
+  "doi": "https://doi.org/10.1145/3549535",
+  "id": "W4285798357",
+  "publication_date": "2022-07-19",
+  "publication_year": 2022,
+  "title": "Structured Dynamic Precision for Deep Neural Networks Quantization",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 76,
+  "doi": "https://doi.org/10.1155/2022/5863782",
+  "id": "W4289890839",
+  "publication_date": "2022-08-04",
+  "publication_year": 2022,
+  "title": "Object Detection in Medical Images Based on Hierarchical Transformer and Mask Mechanism",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 14,
+  "doi": "https://doi.org/10.3934/era.2022192",
+  "id": "W4291952092",
+  "publication_date": "2022-01-01",
+  "publication_year": 2022,
+  "title": "Hardware-friendly compression and hardware acceleration for transformer: A survey",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 20,
+  "doi": "https://doi.org/10.1109/cvprw56347.2022.00411",
+  "id": "W4292794054",
+  "publication_date": "2022-06-01",
+  "publication_year": 2022,
+  "title": "Multi-Dimensional Vision Transformer Compression via Dependency Guided Gaussian Process Search",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 247,
+  "doi": "https://doi.org/10.1109/embc48229.2022.9871809",
+  "id": "W4294975187",
+  "publication_date": "2022-07-11",
+  "publication_year": 2022,
+  "title": "Vision Transformers for Classification of Breast Ultrasound Images",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 7,
+  "doi": "https://doi.org/10.1007/978-3-031-16014-1_59",
+  "id": "W4296499650",
+  "publication_date": "2022-01-01",
+  "publication_year": 2022,
+  "title": "TT-ViT: Vision Transformer Compression Using Tensor-Train Decomposition",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 90,
+  "doi": "https://doi.org/10.1145/3503161.3547826",
+  "id": "W4304080501",
+  "publication_date": "2022-10-10",
+  "publication_year": 2022,
+  "title": "Towards Accurate Post-Training Quantization for Vision Transformer",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 16,
+  "doi": "https://doi.org/10.1109/itsc55140.2022.9921989",
+  "id": "W4308080034",
+  "publication_date": "2022-10-08",
+  "publication_year": 2022,
+  "title": "Lightweight and Optimization Acceleration Methods for Vision Transformer: A Review",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 159,
+  "doi": "https://doi.org/10.1109/tcad.2022.3197489",
+  "id": "W4308479898",
+  "publication_date": "2022-11-01",
+  "publication_year": 2022,
+  "title": "ViA: A Novel Vision-Transformer Accelerator Based on FPGA",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 69,
+  "doi": "https://doi.org/10.1007/978-3-031-20083-0_10",
+  "id": "W4309125142",
+  "publication_date": "2022-01-01",
+  "publication_year": 2022,
+  "title": "Patch Similarity Aware Data-Free Quantization for Vision Transformers",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "2211.10438",
+  "cited_by_count": 554,
+  "doi": "https://doi.org/10.48550/arxiv.2211.10438",
+  "id": "W4309591680",
+  "publication_date": "2022-11-18",
+  "publication_year": 2022,
+  "title": "SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 21,
+  "doi": "https://doi.org/10.1101/2022.11.26.22282782",
+  "id": "W4311541097",
+  "publication_date": "2022-11-29",
+  "publication_year": 2022,
+  "title": "Rethinking Transfer Learning for Medical Image Classification",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 59,
+  "doi": "https://doi.org/10.1109/cvpr52688.2022.01627",
+  "id": "W4312273141",
+  "publication_date": "2022-06-01",
+  "publication_year": 2022,
+  "title": "Co-advise: Cross Inductive Bias Distillation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 225,
+  "doi": "https://doi.org/10.1109/cvpr52688.2022.01185",
+  "id": "W4312340826",
+  "publication_date": "2022-06-01",
+  "publication_year": 2022,
+  "title": "Patch Slimming for Efficient Vision Transformers",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 24,
+  "doi": "https://doi.org/10.1109/tpami.2022.3229313",
+  "id": "W4312453883",
+  "publication_date": "2022-12-19",
+  "publication_year": 2022,
+  "title": "Quantformer: Learning Extremely Low-Precision Vision Transformers",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 24,
+  "doi": "https://doi.org/10.1007/978-3-031-20083-0_39",
+  "id": "W4312600348",
+  "publication_date": "2022-01-01",
+  "publication_year": 2022,
+  "title": "Non-uniform Step Size Quantization for Accurate Post-training Quantization",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 526,
+  "doi": "https://doi.org/10.1007/978-3-031-19803-8_5",
+  "id": "W4312671791",
+  "publication_date": "2022-01-01",
+  "publication_year": 2022,
+  "title": "TinyViT: Fast Pretraining Distillation for Small Vision Transformers",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 85,
+  "doi": "https://doi.org/10.1109/cvpr52688.2022.01174",
+  "id": "W4312677967",
+  "publication_date": "2022-06-01",
+  "publication_year": 2022,
+  "title": "DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 139,
+  "doi": "https://doi.org/10.1109/cvpr52688.2022.01183",
+  "id": "W4312769570",
+  "publication_date": "2022-06-01",
+  "publication_year": 2022,
+  "title": "MiniViT: Compressing Vision Transformers with Weight Multiplexing",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 1682,
+  "doi": "https://doi.org/10.1007/978-3-031-20077-9_1",
+  "id": "W4312894406",
+  "publication_date": "2022-01-01",
+  "publication_year": 2022,
+  "title": "BEVFormer: Learning Bird’s-Eye-View Representation from Multi-camera Images via Spatiotemporal Transformers",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 186,
+  "doi": "https://doi.org/10.1007/978-3-031-20083-0_37",
+  "id": "W4312910119",
+  "publication_date": "2022-01-01",
+  "publication_year": 2022,
+  "title": "SPViT: Enabling Faster Vision Transformers via Latency-Aware Soft Token Pruning",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 47,
+  "doi": "https://doi.org/10.1109/cvpr52688.2022.01211",
+  "id": "W4313045298",
+  "publication_date": "2022-06-01",
+  "publication_year": 2022,
+  "title": "Instance-Aware Dynamic Neural Network Quantization",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 35,
+  "doi": "https://doi.org/10.1109/cvpr52688.2022.01201",
+  "id": "W4313187582",
+  "publication_date": "2022-06-01",
+  "publication_year": 2022,
+  "title": "Mr.BiQ: Post-Training Non-Uniform Quantization based on Minimizing the Reconstruction Error",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 60,
+  "doi": "https://doi.org/10.1016/j.engappai.2022.105772",
+  "id": "W4313420323",
+  "publication_date": "2022-12-28",
+  "publication_year": 2022,
+  "title": "StrokeViT with AutoML for brain stroke classification",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 59,
+  "doi": "https://doi.org/10.1016/j.bspc.2022.104518",
+  "id": "W4313481407",
+  "publication_date": "2022-12-27",
+  "publication_year": 2022,
+  "title": "Deep learning detection network for peripheral blood leukocytes based on improved detection transformer",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 6,
+  "doi": "https://doi.org/10.1109/access.2023.3240784",
+  "id": "W4318586198",
+  "publication_date": "2023-01-01",
+  "publication_year": 2023,
+  "title": "TT-MLP: Tensor Train Decomposition on Deep MLPs",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 608,
+  "doi": "https://doi.org/10.1109/wacv56688.2023.00614",
+  "id": "W4319300975",
+  "publication_date": "2023-01-01",
+  "publication_year": 2023,
+  "title": "HiFormer: Hierarchical Multi-scale Representations Using Transformers for Medical Image Segmentation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 13,
+  "doi": "https://doi.org/10.1145/3543622.3573044",
+  "id": "W4319870541",
+  "publication_date": "2023-02-10",
+  "publication_year": 2023,
+  "title": "Accelerating Neural-ODE Inference on FPGAs with Two-Stage Structured Pruning and History-based Stepsize Search",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 92,
+  "doi": "https://doi.org/10.1109/fpl57034.2022.00027",
+  "id": "W4321637298",
+  "publication_date": "2022-08-01",
+  "publication_year": 2022,
+  "title": "Auto-ViT-Acc: An FPGA-Aware Automatic Acceleration Framework for Vision Transformer with Mixed-Scheme Quantization",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 145,
+  "doi": "https://doi.org/10.1109/hpca56546.2023.10071047",
+  "id": "W4360831786",
+  "publication_date": "2023-02-01",
+  "publication_year": 2023,
+  "title": "HeatViT: Hardware-Efficient Adaptive Token Pruning for Vision Transformers",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 150,
+  "doi": "https://doi.org/10.1109/hpca56546.2023.10071027",
+  "id": "W4360831795",
+  "publication_date": "2023-02-01",
+  "publication_year": 2023,
+  "title": "ViTCoD: Vision Transformer Acceleration via Dedicated Algorithm and Accelerator Co-Design",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 442,
+  "doi": "https://doi.org/10.1109/tmi.2023.3264513",
+  "id": "W4362602094",
+  "publication_date": "2023-04-05",
+  "publication_year": 2023,
+  "title": "H2Former: An Efficient Hierarchical Hybrid Transformer for Medical Image Segmentation",
+  "type": "article"
+ },
+ {
+  "arxiv_id": "2304.09785",
+  "cited_by_count": 5,
+  "doi": "https://doi.org/10.48550/arxiv.2304.09785",
+  "id": "W4366564444",
+  "publication_date": "2023-04-19",
+  "publication_year": 2023,
+  "title": "Improving Post-Training Quantization on Object Detection with Task Loss-Guided Lp Metric",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 23,
+  "doi": "https://doi.org/10.1109/icassp49357.2023.10096817",
+  "id": "W4375868854",
+  "publication_date": "2023-05-05",
+  "publication_year": 2023,
+  "title": "TSPTQ-ViT: Two-Scaled Post-Training Quantization for Vision Transformer",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 13,
+  "doi": "https://doi.org/10.1109/tcsvt.2023.3274964",
+  "id": "W4376455279",
+  "publication_date": "2023-05-10",
+  "publication_year": 2023,
+  "title": "CNN Accelerator at the Edge With Adaptive Zero Skipping and Sparsity-Driven Data Flow",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 56,
+  "doi": "https://doi.org/10.1109/tmi.2023.3278461",
+  "id": "W4377235560",
+  "publication_date": "2023-05-22",
+  "publication_year": 2023,
+  "title": "EPT-Net: Edge Perception Transformer for 3D Medical Image Segmentation",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 56,
+  "doi": "https://doi.org/10.1007/978-3-031-32095-8_1",
+  "id": "W4380479950",
+  "publication_date": "2023-01-01",
+  "publication_year": 2023,
+  "title": "Categories of Response-Based, Feature-Based, and Relation-Based Knowledge Distillation",
+  "type": "book-chapter"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 11,
+  "doi": "https://doi.org/10.1007/978-3-031-32095-8",
+  "id": "W4380480075",
+  "publication_date": "2023-01-01",
+  "publication_year": 2023,
+  "title": "Advancements in Knowledge Distillation: Towards New Horizons of Intelligent Systems",
+  "type": "book"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 22,
+  "doi": "https://doi.org/10.1109/tcsvt.2023.3286072",
+  "id": "W4380607092",
+  "publication_date": "2023-06-14",
+  "publication_year": 2023,
+  "title": "Joint-Guided Distillation Binary Neural Network via Dynamic Channel-Wise Diversity Enhancement for Object Detection",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 433,
+  "doi": "https://doi.org/10.1109/tmi.2023.3291719",
+  "id": "W4382998948",
+  "publication_date": "2023-07-03",
+  "publication_year": 2023,
+  "title": "LViT: Language Meets Vision Transformer in Medical Image Segmentation",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 76,
+  "doi": "https://doi.org/10.1109/iscas46773.2023.10181988",
+  "id": "W4385187240",
+  "publication_date": "2023-05-21",
+  "publication_year": 2023,
+  "title": "ViTA: A Vision Transformer Inference Accelerator for Edge Applications",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 47,
+  "doi": "https://doi.org/10.1109/ijcnn54540.2023.10191521",
+  "id": "W4385488484",
+  "publication_date": "2023-06-18",
+  "publication_year": 2023,
+  "title": "SwiftTron: An Efficient Hardware Accelerator for Quantized Transformers",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 57,
+  "doi": "https://doi.org/10.1109/tnnls.2023.3301007",
+  "id": "W4385819842",
+  "publication_date": "2023-08-14",
+  "publication_year": 2023,
+  "title": "PSAQ-ViT V2: Toward Accurate and General Data-Free Quantization for Vision Transformers",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 103,
+  "doi": "https://doi.org/10.1109/cvpr52729.2023.01779",
+  "id": "W4386065441",
+  "publication_date": "2023-06-01",
+  "publication_year": 2023,
+  "title": "Global Vision Transformer Pruning with Hessian-Aware Saliency",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 87,
+  "doi": "https://doi.org/10.1109/cvpr52729.2023.00205",
+  "id": "W4386065588",
+  "publication_date": "2023-06-01",
+  "publication_year": 2023,
+  "title": "SparseViT: Revisiting Activation Sparsity for Efficient High-Resolution Vision Transformer",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 71,
+  "doi": "https://doi.org/10.1109/cvpr52729.2023.01946",
+  "id": "W4386075763",
+  "publication_date": "2023-06-01",
+  "publication_year": 2023,
+  "title": "NoisyQuant: Noisy Bias-Enhanced Post-Training Activation Quantization for Vision Transformers",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 36,
+  "doi": "https://doi.org/10.1109/cvpr52729.2023.00374",
+  "id": "W4386075873",
+  "publication_date": "2023-06-01",
+  "publication_year": 2023,
+  "title": "Q-DETR: An Efficient Low-Bit Quantized Detection Transformer",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 30,
+  "doi": "https://doi.org/10.1145/3600006.3613139",
+  "id": "W4387302777",
+  "publication_date": "2023-10-03",
+  "publication_year": 2023,
+  "title": "PIT: Optimization of Dynamic Sparse Deep Learning Models via Permutation Invariant Transformation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 470,
+  "doi": "https://doi.org/10.1109/tpami.2023.3334614",
+  "id": "W4389104738",
+  "publication_date": "2023-11-28",
+  "publication_year": 2023,
+  "title": "Structured Pruning for Deep Convolutional Neural Networks: A Survey",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 59,
+  "doi": "https://doi.org/10.1109/iccad57390.2023.10323725",
+  "id": "W4389166736",
+  "publication_date": "2023-10-28",
+  "publication_year": 2023,
+  "title": "SOLE: Hardware-Software Co-design of Softmax and LayerNorm for Efficient Transformer Inference",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 68,
+  "doi": "https://doi.org/10.1109/iccv51070.2023.00078",
+  "id": "W4390873032",
+  "publication_date": "2023-10-01",
+  "publication_year": 2023,
+  "title": "Dynamic Token Pruning in Plain Vision Transformers for Semantic Segmentation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 172,
+  "doi": "https://doi.org/10.1109/iccv51070.2023.01565",
+  "id": "W4390873361",
+  "publication_date": "2023-10-01",
+  "publication_year": 2023,
+  "title": "I-ViT: Integer-only Quantization for Efficient Vision Transformer Inference",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 157,
+  "doi": "https://doi.org/10.1109/iccv51070.2023.01580",
+  "id": "W4390873673",
+  "publication_date": "2023-10-01",
+  "publication_year": 2023,
+  "title": "RepQ-ViT: Scale Reparameterization for Post-Training Quantization of Vision Transformers",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 14,
+  "doi": "https://doi.org/10.1109/iccv51070.2023.00354",
+  "id": "W4390873685",
+  "publication_date": "2023-10-01",
+  "publication_year": 2023,
+  "title": "QD-BEV : Quantization-aware View-guided Distillation for Multi-view 3D Object Detection",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "2401.11243",
+  "cited_by_count": 18,
+  "doi": "https://doi.org/10.48550/arxiv.2401.11243",
+  "id": "W4391157567",
+  "publication_date": "2024-01-20",
+  "publication_year": 2024,
+  "title": "LRP-QViT: Mixed-Precision Vision Transformer Quantization via Layer-wise Relevance Propagation",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": "2401.14895",
+  "cited_by_count": 19,
+  "doi": "https://doi.org/10.48550/arxiv.2401.14895",
+  "id": "W4391335338",
+  "publication_date": "2024-01-26",
+  "publication_year": 2024,
+  "title": "MPTQ-ViT: Mixed-Precision Post-Training Quantization for Vision Transformer",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 11,
+  "doi": "https://doi.org/10.1609/aaai.v38i14.29487",
+  "id": "W4393147633",
+  "publication_date": "2024-03-24",
+  "publication_year": 2024,
+  "title": "AQ-DETR: Low-Bit Quantized Detection Transformer with Auxiliary Queries",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 38,
+  "doi": "https://doi.org/10.1109/hipc58850.2023.00039",
+  "id": "W4393973515",
+  "publication_date": "2023-12-18",
+  "publication_year": 2023,
+  "title": "ME- ViT: A Single-Load Memory-Efficient FPGA Accelerator for Vision Transformers",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 213,
+  "doi": "https://doi.org/10.1109/tpami.2024.3392941",
+  "id": "W4395113676",
+  "publication_date": "2024-04-24",
+  "publication_year": 2024,
+  "title": "A Survey on Efficient Vision Transformers: Algorithms, Techniques, and Performance Benchmarking",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 5,
+  "doi": "https://doi.org/10.1145/3649329.3655679",
+  "id": "W4395443790",
+  "publication_date": "2024-06-23",
+  "publication_year": 2024,
+  "title": "PIVOT- Input-aware Path Selection for Energy-efficient ViT Inference",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 28,
+  "doi": "https://doi.org/10.1109/jetcas.2024.3392972",
+  "id": "W4395470939",
+  "publication_date": "2024-04-25",
+  "publication_year": 2024,
+  "title": "FVIFormer: Flow-Guided Global-Local Aggregation Transformer Network for Video Inpainting",
+  "type": "article"
+ },
+ {
+  "arxiv_id": "2405.00314",
+  "cited_by_count": 23,
+  "doi": "https://doi.org/10.48550/arxiv.2405.00314",
+  "id": "W4396605054",
+  "publication_date": "2024-05-01",
+  "publication_year": 2024,
+  "title": "Model Quantization and Hardware Acceleration for Vision Transformers: A Comprehensive Survey",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 9,
+  "doi": "https://doi.org/10.1109/tcad.2024.3434447",
+  "id": "W4401070598",
+  "publication_date": "2024-07-29",
+  "publication_year": 2024,
+  "title": "COSA Plus: Enhanced Co-Operative Systolic Arrays for Attention Mechanism in Transformers",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 16,
+  "doi": "https://doi.org/10.1109/tcsvt.2024.3439600",
+  "id": "W4401357692",
+  "publication_date": "2024-08-06",
+  "publication_year": 2024,
+  "title": "A 109-GOPs/W FPGA-Based Vision Transformer Accelerator With Weight-Loop Dataflow Featuring Data Reusing and Resource Saving",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 36,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.01509",
+  "id": "W4402715871",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "PTQ4SAM: Post-Training Quantization for Segment Anything",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "2410.09324",
+  "cited_by_count": 6,
+  "doi": "https://doi.org/10.48550/arxiv.2410.09324",
+  "id": "W4403564591",
+  "publication_date": "2024-10-12",
+  "publication_year": 2024,
+  "title": "Token Pruning using a Lightweight Background Aware Vision Transformer",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 25,
+  "doi": "https://doi.org/10.1007/978-3-031-73209-6_16",
+  "id": "W4403941488",
+  "publication_date": "2024-10-31",
+  "publication_year": 2024,
+  "title": "LPViT: Low-Power Semi-structured Pruning for Vision Transformers",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 24,
+  "doi": "https://doi.org/10.1007/978-3-031-73383-3_24",
+  "id": "W4403995366",
+  "publication_date": "2024-11-02",
+  "publication_year": 2024,
+  "title": "AdaLog: Post-training Quantization for Vision Transformers with Adaptive Logarithm Quantizer",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 43,
+  "doi": "https://doi.org/10.1109/tcad.2024.3443692",
+  "id": "W4404102506",
+  "publication_date": "2024-11-01",
+  "publication_year": 2024,
+  "title": "EQ-ViT: Algorithm-Hardware Co-Design for End-to-End Acceleration of Real-Time Vision Transformer Inference on Versal ACAP Architecture",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 18,
+  "doi": "https://doi.org/10.1007/978-3-031-72855-6_18",
+  "id": "W4404177855",
+  "publication_date": "2024-11-08",
+  "publication_year": 2024,
+  "title": "CLAMP-ViT: Contrastive Data-Free Learning for Adaptive Post-training Quantization of ViTs",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 20,
+  "doi": "https://doi.org/10.1109/tevc.2025.3525635",
+  "id": "W4406046686",
+  "publication_date": "2025-01-03",
+  "publication_year": 2025,
+  "title": "A Subspace Sparsity-Driven Knowledge Transfer Strategy for Dynamic Constrained Multiobjective Optimization",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 334,
+  "doi": "https://doi.org/10.1145/3714983.3714987",
+  "id": "W4406650295",
+  "publication_date": "2025-01-20",
+  "publication_year": 2025,
+  "title": "AWQ: Activation-aware Weight Quantization for On-Device LLM Compression and Acceleration",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 30,
+  "doi": "https://doi.org/10.1109/tcsvt.2025.3541456",
+  "id": "W4407449423",
+  "publication_date": "2025-02-13",
+  "publication_year": 2025,
+  "title": "Adaptive Spatiotemporal Graph Transformer Network for Action Quality Assessment",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 16,
+  "doi": "https://doi.org/10.1109/icdcs63083.2025.00036",
+  "id": "W4414909010",
+  "publication_date": "2025-07-21",
+  "publication_year": 2025,
+  "title": "Efficient Partitioning Vision Transformer on Edge Devices for Distributed Inference",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 75,
+  "doi": "https://doi.org/10.52202/068431-0666",
+  "id": "W7133185110",
+  "publication_date": "2022-01-01",
+  "publication_year": 2022,
+  "title": "Learning Efficient Vision Transformers Via Fine-Grained Manifold Distillation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 48,
+  "doi": "https://doi.org/10.52202/068431-2062",
+  "id": "W7133200090",
+  "publication_date": "2022-01-01",
+  "publication_year": 2022,
+  "title": "M3ViT: Mixture-Of-Experts Vision Transformer for Efficient Multi-Task Learning with Model-Accelerator Co-Design",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 75,
+  "doi": "https://doi.org/10.52202/068431-2496",
+  "id": "W7133229067",
+  "publication_date": "2022-01-01",
+  "publication_year": 2022,
+  "title": "Q-ViT: Accurate and Fully Quantized Low-Bit Vision Transformer",
+  "type": "conference-paper"
+ }
+]

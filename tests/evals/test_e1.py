@@ -47,3 +47,17 @@ def test_load_dataset_shape(tmp_path):
     (tmp_path / "refs" / "W1.json").write_text(json.dumps([{"id": "W2"}, {"id": "W3"}]))
     [s] = load_dataset(tmp_path)
     assert s.freeze == date(2025, 3, 1) and s.gold == {"W2", "W3"}
+
+
+def test_references_after_freeze_are_unreachable_and_dropped(tmp_path):
+    (tmp_path / "refs").mkdir()
+    (tmp_path / "surveys.json").write_text(json.dumps([{"openalex_id": "W1", "title": "T", "query": "Q"}]))
+    (tmp_path / "freeze.json").write_text(json.dumps({"W1": "2025-03-01"}))
+    refs = [
+        {"id": "W2", "publication_date": "2024-01-01"},
+        {"id": "W3", "publication_date": "2025-06-01"},
+        {"id": "W4"},  # undated: kept, since it cannot be shown to postdate the freeze
+    ]
+    (tmp_path / "refs" / "W1.json").write_text(json.dumps(refs))
+    [s] = load_dataset(tmp_path)
+    assert s.gold == {"W2", "W4"} and s.n_unreachable == 1

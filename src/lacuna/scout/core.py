@@ -77,7 +77,7 @@ def candidate_score(rec: PaperRecord, links: int, today: date) -> float:
     cites = math.log1p(rec.citation_count or 0)
     age = max(0, today.year - (rec.year or today.year))
     recency = 1.0 / (1.0 + age / 5.0)
-    return links * 2.0 + cites * 0.5 + recency
+    return links * 3.0 + cites * 0.5 + recency  # links dominate: log1p(50k cites)*0.5 ~ 5.4 < 2 links
 
 
 def scout(

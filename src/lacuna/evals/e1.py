@@ -30,6 +30,12 @@ class Survey:
     query: str
     freeze: date
     gold: set[str]
+    n_unreachable: int = 0  # references published after the freeze, dropped from gold
+
+
+def after(ref: dict, freeze: date) -> bool:
+    d = ref.get("publication_date")
+    return bool(d) and date.fromisoformat(d) > freeze
 
 
 def load_dataset(dataset_dir: Path = DATASET_DIR) -> list[Survey]:
@@ -38,14 +44,13 @@ def load_dataset(dataset_dir: Path = DATASET_DIR) -> list[Survey]:
     out = []
     for s in surveys:
         refs = json.loads((dataset_dir / "refs" / f"{s['openalex_id']}.json").read_text())
+        frozen = date.fromisoformat(freeze[s["openalex_id"]])
+        # The freeze is the earlier of the arXiv and journal dates, but OpenAlex stores the journal
+        # version's reference list, which can cite work from after the freeze. No method may
+        # retrieve those, so they are unreachable by construction and leave the gold set.
+        reachable = {r["id"] for r in refs if not after(r, frozen)}
         out.append(
-            Survey(
-                s["openalex_id"],
-                s["title"],
-                s["query"],
-                date.fromisoformat(freeze[s["openalex_id"]]),
-                {r["id"] for r in refs},
-            )
+            Survey(s["openalex_id"], s["title"], s["query"], frozen, reachable, len(refs) - len(reachable))
         )
     return out
 
@@ -80,6 +85,7 @@ def run_e1(openalex, *, surveys: list[Survey] | None = None, seeds: int = 20, ks
                 "title": s.title,
                 "query": s.query,
                 "freeze": s.freeze.isoformat(),
+                "n_unreachable": s.n_unreachable,
                 "keyword": recall_at(keyword, s.gold, ks),
                 "snowball": {
                     **recall_at(snow.ids(), s.gold, ks),
@@ -112,7 +118,8 @@ def render_markdown(result: dict) -> str:
     lines = [f"# E1 survey recall — {result['date']} `{result['config_hash']}`", ""]
     lines += [
         "Recall of each survey's reference list in the top k, with the survey excluded and nothing "
-        "published after the survey's date. Macro average over surveys.",
+        "published after the survey's date. References published after that date are unreachable "
+        "and are left out of the gold set (column `dropped`). Macro average over surveys.",
         "",
         "| method | " + " | ".join(f"recall@{k}" for k in ks) + " |",
         "|---|" + "---|" * len(ks),
@@ -123,15 +130,16 @@ def render_markdown(result: dict) -> str:
         "",
         "## Per survey",
         "",
-        "| survey | freeze | gold | " + " | ".join(f"kw@{k} | sb@{k}" for k in ks) + " | status |",
-        "|---|---|---|" + "---|---|" * len(ks) + "---|",
+        "| survey | freeze | gold | dropped | " + " | ".join(f"kw@{k} | sb@{k}" for k in ks) + " | status |",
+        "|---|---|---|---|" + "---|---|" * len(ks) + "---|",
     ]
     for p in result["per_survey"]:
         cells = " | ".join(
             f"{p['keyword'][f'recall@{k}']:.3f} | {p['snowball'][f'recall@{k}']:.3f}" for k in ks
         )
         status = p["snowball"]["status"]
-        lines.append(f"| {p['title'][:60]} | {p['freeze']} | {p['keyword']['gold']} | {cells} | {status} |")
+        gold, dropped = p["keyword"]["gold"], p.get("n_unreachable", 0)
+        lines.append(f"| {p['title'][:60]} | {p['freeze']} | {gold} | {dropped} | {cells} | {status} |")
     return "\n".join(lines) + "\n"
 
 

@@ -12,6 +12,9 @@ SUBCOMMAND_MODULES = [
     "lacuna.ingest.cli",
     "lacuna.graph.cli",
     "lacuna.scout.cli",
+    "lacuna.papers.cli",
+    "lacuna.extract.cli",
+    "lacuna.mcp_server.cli",
     "lacuna.evals.cli",
     "lacuna.deepread.cli",
 ]
@@ -24,8 +27,10 @@ def build_parser() -> argparse.ArgumentParser:
         try:
             module = importlib.import_module(name)
         except ModuleNotFoundError as e:
-            if e.name and name.startswith(e.name):
-                continue  # package not built yet
+            # A lacuna package that isn't built yet, imported directly or by a dependency, hides
+            # only the subcommands that need it. A missing third-party module is a real error.
+            if e.name and (name.startswith(e.name) or e.name.startswith("lacuna.")):
+                continue
             raise
         module.register(sub)
     return parser

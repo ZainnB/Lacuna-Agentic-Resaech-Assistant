@@ -1,0 +1,14 @@
+{
+  "paper_id": "W4406658205",
+  "title": "Efficient Vision Transformers for Edge Devices: Pruning and Quantization Approaches",
+  "labeller": "",
+  "labelled_on": "",
+  "scope": "abstract",
+  "split": "tuning",
+  "abstract": "In this paper, background of pruning and quan-tization are discussed as well as carrying out the methods on Vision Transformers (ViT) with aim of improving efficiency and readiness for use on edge devices. The study considers the effects of these optimizations for model accuracy, size, time for inference, and energy expenditure. Reduction in size and computation demand is considerably achieved through pruning but this is at the expense of accuracy of the model. Quantization of models is beneficial as it reduces the size of the model and the time taken during inference, these are ideal for environments that have limited resources but it comes with drawbacks that are associated with quantization. Using both yields to the model as compact and efficient as possible but with a small trade off of accuracy. Some of the issues we consider are the question of how to op-timize trade-off between precision and speed, methods to reduce quantization effects, and techniques to make models conform to a given hardware system. The study determines that although existing techniques explain ways of advancing efficiency, they bring in new challenges and constraints. Further, there is a need to learn more about more sophisticated techniques concerning pruning and combinations of quantization approaches, as well as hardware wit tailored to perform low-precision calculations. Besides, the above approaches also need to be generalized into various application fields and enhance the model's practicality and stability. The study enriches the current knowledge base concerning the improvements of Vision Transformers for application on edge equipment while underlining the significance of the further work on model effectiveness and hardware implementation. This work is beneficial as it prepares the ground for innovations in applying state-of-art deep learning models in environments that are limited by resource availability in order to design better practical solutions in AI.",
+  "methods": [],
+  "datasets": [],
+  "tasks": [],
+  "metrics": [],
+  "notes": ""
+}

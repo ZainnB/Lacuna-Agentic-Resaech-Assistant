@@ -1,0 +1,1062 @@
+[
+ {
+  "arxiv_id": null,
+  "cited_by_count": 8353,
+  "doi": "https://doi.org/10.1109/iccv.2001.937655",
+  "id": "W2121927366",
+  "publication_date": "2002-11-13",
+  "publication_year": 2002,
+  "title": "A database of human segmented natural images and its application to evaluating segmentation algorithms and measuring ecological statistics",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 11570,
+  "doi": "https://doi.org/10.1007/978-3-319-46475-6_43",
+  "id": "W2331128040",
+  "publication_date": "2016-01-01",
+  "publication_year": 2016,
+  "title": "Perceptual Losses for Real-Time Style Transfer and Super-Resolution",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 5847,
+  "doi": "https://doi.org/10.1109/cvpr.2016.278",
+  "id": "W2342877626",
+  "publication_date": "2016-06-01",
+  "publication_year": 2016,
+  "title": "Context Encoders: Feature Learning by Inpainting",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 2460,
+  "doi": "https://doi.org/10.1109/cvpr.2017.35",
+  "id": "W2560533888",
+  "publication_date": "2017-07-01",
+  "publication_year": 2017,
+  "title": "Deep Multi-scale Convolutional Neural Network for Dynamic Scene Deblurring",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 945,
+  "doi": "https://doi.org/10.1109/cvpr.2018.00182",
+  "id": "W2799192307",
+  "publication_date": "2018-06-01",
+  "publication_year": 2018,
+  "title": "A High-Quality Denoising Dataset for Smartphone Cameras",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 50,
+  "doi": "https://doi.org/10.1007/978-3-030-03338-5_3",
+  "id": "W2899380831",
+  "publication_date": "2018-01-01",
+  "publication_year": 2018,
+  "title": "Large-Scale Visible Watermark Detection and Removal with Deep Convolutional Networks",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 12629,
+  "doi": "https://doi.org/10.1109/tpami.2020.2970919",
+  "id": "W2904367110",
+  "publication_date": "2019-06-01",
+  "publication_year": 2019,
+  "title": "A Style-Based Generator Architecture for Generative Adversarial Networks",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 16274,
+  "doi": "https://doi.org/10.1109/cvpr.2018.00068",
+  "id": "W2962785568",
+  "publication_date": "2018-06-01",
+  "publication_year": 2018,
+  "title": "The Unreasonable Effectiveness of Deep Features as a Perceptual Metric",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 13489,
+  "doi": "https://doi.org/10.1109/cvpr.2017.19",
+  "id": "W2963470893",
+  "publication_date": "2017-07-01",
+  "publication_year": 2017,
+  "title": "Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 6741,
+  "doi": "https://doi.org/10.1109/cvpr42600.2020.00813",
+  "id": "W2995327724",
+  "publication_date": "2020-06-01",
+  "publication_year": 2020,
+  "title": "Analyzing and Improving the Image Quality of StyleGAN",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 426,
+  "doi": "https://doi.org/10.1007/978-3-030-58595-2_12",
+  "id": "W3085824656",
+  "publication_date": "2020-01-01",
+  "publication_year": 2020,
+  "title": "Real-World Blur Dataset for Learning and Benchmarking Deblurring Algorithms",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "2009.09941",
+  "cited_by_count": 412,
+  "doi": "https://doi.org/10.48550/arxiv.2009.09941",
+  "id": "W3087858202",
+  "publication_date": "2020-09-21",
+  "publication_year": 2020,
+  "title": "PP-OCR: A Practical Ultra Lightweight OCR System",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 3142,
+  "doi": "https://doi.org/10.1007/978-3-030-58536-5_24",
+  "id": "W3109908659",
+  "publication_date": "2020-01-01",
+  "publication_year": 2020,
+  "title": "RAFT: Recurrent All-Pairs Field Transforms for Optical Flow",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 77,
+  "doi": "https://doi.org/10.1109/wacv48630.2021.00373",
+  "id": "W3119182190",
+  "publication_date": "2021-01-01",
+  "publication_year": 2021,
+  "title": "WDNet: Watermark-Decomposition Network for Visible Watermark Removal",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 1155,
+  "doi": "https://doi.org/10.1109/iccv48922.2021.00209",
+  "id": "W3140373187",
+  "publication_date": "2021-10-01",
+  "publication_year": 2021,
+  "title": "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 428,
+  "doi": "https://doi.org/10.1109/cvpr46437.2021.00229",
+  "id": "W3174194560",
+  "publication_date": "2021-06-01",
+  "publication_year": 2021,
+  "title": "TediGAN: Text-Guided Diverse Face Image Generation and Manipulation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 130,
+  "doi": "https://doi.org/10.1109/iccv48922.2021.01354",
+  "id": "W3196560303",
+  "publication_date": "2021-10-01",
+  "publication_year": 2021,
+  "title": "Talk-to-Edit: Fine-Grained Facial Editing via Dialog",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 297,
+  "doi": "https://doi.org/10.1109/cvpr52688.2022.01753",
+  "id": "W3216156094",
+  "publication_date": "2022-06-01",
+  "publication_year": 2022,
+  "title": "CLIPstyler: Image Style Transfer with a Single Text Condition",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 889,
+  "doi": "https://doi.org/10.1109/cvpr52688.2022.01767",
+  "id": "W3216352822",
+  "publication_date": "2022-06-01",
+  "publication_year": 2022,
+  "title": "Blended Diffusion for Text-driven Editing of Natural Images",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "2204.06125",
+  "cited_by_count": 8859,
+  "doi": "https://doi.org/10.48550/arxiv.2204.06125",
+  "id": "W4224035735",
+  "publication_date": "2022-04-13",
+  "publication_year": 2022,
+  "title": "Hierarchical Text-Conditional Image Generation with CLIP Latents",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 687,
+  "doi": "https://doi.org/10.1145/3528223.3530164",
+  "id": "W4286611278",
+  "publication_date": "2022-07-01",
+  "publication_year": 2022,
+  "title": "StyleGAN-NADA: CLIP-guided domain adaptation of image generators",
+  "type": "article"
+ },
+ {
+  "arxiv_id": "2208.01626",
+  "cited_by_count": 2013,
+  "doi": "https://doi.org/10.48550/arxiv.2208.01626",
+  "id": "W4289785045",
+  "publication_date": "2022-08-02",
+  "publication_year": 2022,
+  "title": "Prompt-to-Prompt Image Editing with Cross Attention Control",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 126,
+  "doi": "https://doi.org/10.1109/cvpr52688.2022.01754",
+  "id": "W4312283676",
+  "publication_date": "2022-06-01",
+  "publication_year": 2022,
+  "title": "HairCLIP: Design Your Hair by Text and Reference Image",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 2030,
+  "doi": "https://doi.org/10.1109/cvpr52688.2022.01117",
+  "id": "W4312497550",
+  "publication_date": "2022-06-01",
+  "publication_year": 2022,
+  "title": "RePaint: Inpainting using Denoising Diffusion Probabilistic Models",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 20670,
+  "doi": "https://doi.org/10.1109/cvpr52688.2022.01042",
+  "id": "W4312933868",
+  "publication_date": "2022-06-01",
+  "publication_year": 2022,
+  "title": "High-Resolution Image Synthesis with Latent Diffusion Models",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 73,
+  "doi": "https://doi.org/10.26599/cvm.2025.9450462",
+  "id": "W4361230700",
+  "publication_date": "2026-04-17",
+  "publication_year": 2026,
+  "title": "StyleDiffusion: Prompt-Embedding Inversion for Text-Based Editing",
+  "type": "article"
+ },
+ {
+  "arxiv_id": "2305.18047",
+  "cited_by_count": 68,
+  "doi": "https://doi.org/10.48550/arxiv.2305.18047",
+  "id": "W4378771069",
+  "publication_date": "2023-05-29",
+  "publication_year": 2023,
+  "title": "InstructEdit: Improving Automatic Masks for Diffusion-based Image Editing With User Instructions",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 27,
+  "doi": "https://doi.org/10.1145/3610287",
+  "id": "W4384826610",
+  "publication_date": "2023-07-19",
+  "publication_year": 2023,
+  "title": "CLIP-guided StyleGAN Inversion for Text-driven Real Image Editing",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 135,
+  "doi": "https://doi.org/10.1145/3592451",
+  "id": "W4385271134",
+  "publication_date": "2023-07-26",
+  "publication_year": 2023,
+  "title": "UniTune: Text-Driven Image Editing by Fine Tuning a Diffusion Model on a Single Image",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 470,
+  "doi": "https://doi.org/10.1145/3588432.3591513",
+  "id": "W4385527149",
+  "publication_date": "2023-07-19",
+  "publication_year": 2023,
+  "title": "Zero-shot Image-to-Image Translation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 992,
+  "doi": "https://doi.org/10.1109/cvpr52729.2023.00582",
+  "id": "W4386057725",
+  "publication_date": "2023-06-01",
+  "publication_year": 2023,
+  "title": "Imagic: Text-Based Real Image Editing with Diffusion Models",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 205,
+  "doi": "https://doi.org/10.1109/cvpr52729.2023.01761",
+  "id": "W4386071604",
+  "publication_date": "2023-06-01",
+  "publication_year": 2023,
+  "title": "Imagen Editor and EditBench: Advancing and Evaluating Text-Guided Image Inpainting",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 1961,
+  "doi": "https://doi.org/10.1109/cvpr52729.2023.01764",
+  "id": "W4386076215",
+  "publication_date": "2023-06-01",
+  "publication_year": 2023,
+  "title": "InstructPix2Pix: Learning to Follow Image Editing Instructions",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 179,
+  "doi": "https://doi.org/10.1109/cvpr52729.2023.02158",
+  "id": "W4386076273",
+  "publication_date": "2023-06-01",
+  "publication_year": 2023,
+  "title": "EDICT: Exact Diffusion Inversion via Coupled Transformations",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 95,
+  "doi": "https://doi.org/10.1109/cvpr52729.2023.02004",
+  "id": "W4386076284",
+  "publication_date": "2023-06-01",
+  "publication_year": 2023,
+  "title": "SINE: Semantic-driven Image-based NeRF Editing with Prior-guided Editing Field",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 961,
+  "doi": "https://doi.org/10.1109/cvpr52729.2023.00585",
+  "id": "W4386076532",
+  "publication_date": "2023-06-01",
+  "publication_year": 2023,
+  "title": "Null-text Inversion for Editing Real Images using Guided Diffusion Models",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 792,
+  "doi": "https://doi.org/10.1109/cvpr52729.2023.00191",
+  "id": "W4386113271",
+  "publication_date": "2023-06-01",
+  "publication_year": 2023,
+  "title": "Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "2308.14749",
+  "cited_by_count": 78,
+  "doi": "https://doi.org/10.48550/arxiv.2308.14749",
+  "id": "W4386273470",
+  "publication_date": "2023-08-28",
+  "publication_year": 2023,
+  "title": "MagicEdit: High-Fidelity and Temporally Coherent Video Editing",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": "2309.02591",
+  "cited_by_count": 185,
+  "doi": "https://doi.org/10.48550/arxiv.2309.02591",
+  "id": "W4386556027",
+  "publication_date": "2023-09-05",
+  "publication_year": 2023,
+  "title": "Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": "2310.02426",
+  "cited_by_count": 60,
+  "doi": "https://doi.org/10.48550/arxiv.2310.02426",
+  "id": "W4387389729",
+  "publication_date": "2023-10-03",
+  "publication_year": 2023,
+  "title": "EditVal: Benchmarking Diffusion Based Text-Guided Image Editing Methods",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 189,
+  "doi": "https://doi.org/10.1145/3610548.3618154",
+  "id": "W4389539271",
+  "publication_date": "2023-12-10",
+  "publication_year": 2023,
+  "title": "Break-A-Scene: Extracting Multiple Concepts from a Single Image",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 6051,
+  "doi": "https://doi.org/10.1109/iccv51070.2023.00355",
+  "id": "W4390873054",
+  "publication_date": "2023-10-01",
+  "publication_year": 2023,
+  "title": "Adding Conditional Control to Text-to-Image Diffusion Models",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 603,
+  "doi": "https://doi.org/10.1109/iccv51070.2023.02062",
+  "id": "W4390873195",
+  "publication_date": "2023-10-01",
+  "publication_year": 2023,
+  "title": "MasaCtrl: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 82,
+  "doi": "https://doi.org/10.1109/iccv51070.2023.00683",
+  "id": "W4390873319",
+  "publication_date": "2023-10-01",
+  "publication_year": 2023,
+  "title": "Prompt Tuning Inversion for Text-Driven Image Editing Using Diffusion Models",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 128,
+  "doi": "https://doi.org/10.1109/iccv51070.2023.00221",
+  "id": "W4390874314",
+  "publication_date": "2023-10-01",
+  "publication_year": 2023,
+  "title": "Delta Denoising Score",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 16933,
+  "doi": "https://doi.org/10.1109/iccv51070.2023.00371",
+  "id": "W4390874575",
+  "publication_date": "2023-10-01",
+  "publication_year": 2023,
+  "title": "Segment Anything",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "2403.05530",
+  "cited_by_count": 4630,
+  "doi": "https://doi.org/10.48550/arxiv.2403.05530",
+  "id": "W4392679398",
+  "publication_date": "2024-03-08",
+  "publication_year": 2024,
+  "title": "Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 11,
+  "doi": "https://doi.org/10.1109/icassp48485.2024.10446377",
+  "id": "W4392902661",
+  "publication_date": "2024-03-18",
+  "publication_year": 2024,
+  "title": "Grounded-Instruct-Pix2Pix: Improving Instruction Based Image Editing with Automatic Target Grounding",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 3,
+  "doi": "https://doi.org/10.1609/aaai.v38i5.28255",
+  "id": "W4393159387",
+  "publication_date": "2024-03-24",
+  "publication_year": 2024,
+  "title": "BARET: Balanced Attention Based Real Image Editing Driven by Target-Text Inversion",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 22,
+  "doi": "https://doi.org/10.1609/aaai.v38i13.29332",
+  "id": "W4393178792",
+  "publication_date": "2024-03-24",
+  "publication_year": 2024,
+  "title": "Autoregressive Omni-Aware Outpainting for Open-Vocabulary 360-Degree Image Generation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 93,
+  "doi": "https://doi.org/10.1109/wacv57701.2024.00424",
+  "id": "W4394596927",
+  "publication_date": "2024-01-03",
+  "publication_year": 2024,
+  "title": "ProxEdit: Improving Tuning-Free Real Image Editing with Proximal Guidance",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "2405.11190",
+  "cited_by_count": 13,
+  "doi": "https://doi.org/10.48550/arxiv.2405.11190",
+  "id": "W4398191746",
+  "publication_date": "2024-05-18",
+  "publication_year": 2024,
+  "title": "ReasonPix2Pix: Instruction Reasoning Dataset for Advanced Image Editing",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 139,
+  "doi": "https://doi.org/10.26599/air.2024.9150038",
+  "id": "W4401784158",
+  "publication_date": "2024-08-22",
+  "publication_year": 2024,
+  "title": "Bilateral Reference for High-Resolution Dichotomous Image Segmentation",
+  "type": "article"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 150,
+  "doi": "https://doi.org/10.18653/v1/2024.acl-long.663",
+  "id": "W4402671992",
+  "publication_date": "2024-01-01",
+  "publication_year": 2024,
+  "title": "VIEScore: Towards Explainable Metrics for Conditional Image Synthesis Evaluation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 127,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.00846",
+  "id": "W4402715857",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "LEDITS++: Limitless Image Editing Using Text-to-Image Models",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 133,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.01208",
+  "id": "W4402716223",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "InstructDiffusion: A Generalist Modeling Interface for Vision Tasks",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 52,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.00667",
+  "id": "W4402727570",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "Focus on Your Instruction: Fine-grained and Multi-instruction Image Editing by Attention Modulation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 197,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.02497",
+  "id": "W4402727574",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 141,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.00799",
+  "id": "W4402727613",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "SmartEdit: Exploring Complex Instruction-Based Image Editing with Multimodal Large Language Models",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 135,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.00758",
+  "id": "W4402733577",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "Grounded Text-to-Image Synthesis with Attention Refocusing",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 190,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.00847",
+  "id": "W4402753379",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "Emu Edit: Precise Image Editing via Recognition and Generation Tasks",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 60,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.00598",
+  "id": "W4402753539",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "ZONE: Zero-Shot Instruction-Guided Local Editing",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 205,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.01185",
+  "id": "W4402753991",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "An Edit Friendly DDPM Noise Space: Inversion and Manipulations",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 66,
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.00455",
+  "id": "W4402774090",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "title": "Instruct-Imagen: Image Generation with Multi-modal Instruction",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 364,
+  "doi": "https://doi.org/10.1109/cvprw63382.2024.00179",
+  "id": "W4402917081",
+  "publication_date": "2024-06-17",
+  "publication_year": 2024,
+  "title": "Recognize Anything: A Strong Image Tagging Model",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 13,
+  "doi": "https://doi.org/10.1007/978-3-031-73209-6_14",
+  "id": "W4403941572",
+  "publication_date": "2024-10-31",
+  "publication_year": 2024,
+  "title": "Guide-and-Rescale: Self-guidance Mechanism for Effective Tuning-Free Real Image Editing",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "2410.21276",
+  "cited_by_count": 8884,
+  "doi": "https://doi.org/10.48550/arxiv.2410.21276",
+  "id": "W4404330874",
+  "publication_date": "2024-10-25",
+  "publication_year": 2024,
+  "title": "GPT-4o System Card",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": "2411.06686",
+  "cited_by_count": 63,
+  "doi": "https://doi.org/10.48550/arxiv.2411.06686",
+  "id": "W4404401718",
+  "publication_date": "2024-11-11",
+  "publication_year": 2024,
+  "title": "SeedEdit: Align Image Re-Generation to Image Editing",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 2462,
+  "doi": "https://doi.org/10.1007/978-3-031-72970-6_3",
+  "id": "W4404612908",
+  "publication_date": "2024-11-22",
+  "publication_year": 2024,
+  "title": "Grounding DINO: Marrying DINO with Grounded Pre-training for Open-Set Object Detection",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 172,
+  "doi": "https://doi.org/10.1007/978-3-031-72661-3_9",
+  "id": "W4404726022",
+  "publication_date": "2024-11-26",
+  "publication_year": 2024,
+  "title": "BrushNet: A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 31,
+  "doi": "https://doi.org/10.1109/tpami.2026.3695011",
+  "id": "W4405434107",
+  "publication_date": "2026-05-19",
+  "publication_year": 2026,
+  "title": "BrushEdit: All-in-One Image Inpainting and Editing",
+  "type": "article"
+ },
+ {
+  "arxiv_id": "2412.13552",
+  "cited_by_count": 6,
+  "doi": "https://doi.org/10.48550/arxiv.2412.13552",
+  "id": "W4405626245",
+  "publication_date": "2024-12-18",
+  "publication_year": 2024,
+  "title": "DragScene: Interactive 3D Scene Editing with Single-view Drag Instructions",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 279,
+  "doi": "https://doi.org/10.1109/tpami.2025.3541625",
+  "id": "W4407450948",
+  "publication_date": "2025-02-13",
+  "publication_year": 2025,
+  "title": "Diffusion Model-Based Image Editing: A Survey",
+  "type": "article"
+ },
+ {
+  "arxiv_id": "2502.13923",
+  "cited_by_count": 8522,
+  "doi": "https://doi.org/10.48550/arxiv.2502.13923",
+  "id": "W4407794264",
+  "publication_date": "2025-02-19",
+  "publication_year": 2025,
+  "title": "Qwen2.5-VL Technical Report",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 10,
+  "doi": "https://doi.org/10.1109/wacv61041.2025.00227",
+  "id": "W4409262148",
+  "publication_date": "2025-02-26",
+  "publication_year": 2025,
+  "title": "DreaMo: Articulated 3D Reconstruction from a Single Casual Video",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 159,
+  "doi": "https://doi.org/10.1109/wacv61041.2025.00207",
+  "id": "W4409262782",
+  "publication_date": "2025-02-26",
+  "publication_year": 2025,
+  "title": "Negative-Prompt Inversion: Fast Image Inversion for Editing with Text-Guided Diffusion Models",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 6,
+  "doi": "https://doi.org/10.1609/aaai.v39i4.32424",
+  "id": "W4409368430",
+  "publication_date": "2025-04-11",
+  "publication_year": 2025,
+  "title": "Energy-Guided Optimization for Personalized Image Editing with Pretrained Text-to-Image Diffusion Models",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 69,
+  "doi": "https://doi.org/10.1609/aaai.v39i3.32304",
+  "id": "W4409369698",
+  "publication_date": "2025-04-11",
+  "publication_year": 2025,
+  "title": "DiT4Edit: Diffusion Transformer for Image Editing",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 7,
+  "doi": "https://doi.org/10.1109/cvpr52734.2025.01710",
+  "id": "W4413144770",
+  "publication_date": "2025-06-10",
+  "publication_year": 2025,
+  "title": "Unleashing In-context Learning of Autoregressive Models for Few-shot Image Manipulation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 67,
+  "doi": "https://doi.org/10.1109/cvpr52734.2025.00789",
+  "id": "W4413145449",
+  "publication_date": "2025-06-10",
+  "publication_year": 2025,
+  "title": "Koala-36M : A Large-Scale Video Dataset Improving Consistency between Fine-Grained Conditions and Video Content",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 116,
+  "doi": "https://doi.org/10.1109/cvpr52734.2025.02433",
+  "id": "W4413147134",
+  "publication_date": "2025-06-10",
+  "publication_year": 2025,
+  "title": "AnyEdit: Mastering Unified High-Quality Image Editing for Any Idea",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 17,
+  "doi": "https://doi.org/10.1109/cvpr52734.2025.01222",
+  "id": "W4413147351",
+  "publication_date": "2025-06-10",
+  "publication_year": 2025,
+  "title": "FireEdit: Fine-grained Instruction-based Image Editing via Region-aware Vision Language Model",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 24,
+  "doi": "https://doi.org/10.1109/cvpr52734.2025.00740",
+  "id": "W4413147473",
+  "publication_date": "2025-06-10",
+  "publication_year": 2025,
+  "title": "EditAR: Unified Conditional Generation with Autoregressive Models",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 288,
+  "doi": "https://doi.org/10.1109/cvpr52734.2025.01241",
+  "id": "W4413158163",
+  "publication_date": "2025-06-10",
+  "publication_year": 2025,
+  "title": "OmniGen: Unified Image Generation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 11,
+  "doi": "https://doi.org/10.1109/cvpr52734.2025.01251",
+  "id": "W4413158671",
+  "publication_date": "2025-06-10",
+  "publication_year": 2025,
+  "title": "RealEdit: Reddit Edits As a Large-scale Empirical Dataset for Image Transformations",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "2506.15742",
+  "cited_by_count": 1062,
+  "doi": "https://doi.org/10.48550/arxiv.2506.15742",
+  "id": "W4414682104",
+  "publication_date": "2025-06-17",
+  "publication_year": 2025,
+  "title": "FLUX.1 Kontext: Flow Matching for In-Context Image Generation and Editing in Latent Space",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 33,
+  "doi": "https://doi.org/10.1109/tpami.2025.3618016",
+  "id": "W4414856505",
+  "publication_date": "2025-01-01",
+  "publication_year": 2025,
+  "title": "Lodge++: High-Quality and Long Dance Generation With Robust Choreography Patterns",
+  "type": "article"
+ },
+ {
+  "arxiv_id": "2504.17761",
+  "cited_by_count": 508,
+  "doi": "https://doi.org/10.48550/arxiv.2504.17761",
+  "id": "W4414929961",
+  "publication_date": "2025-04-24",
+  "publication_year": 2025,
+  "title": "Step1X-Edit: A Practical Framework for General Image Editing",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": "2504.21356",
+  "cited_by_count": 34,
+  "doi": "https://doi.org/10.48550/arxiv.2504.21356",
+  "id": "W4414942243",
+  "publication_date": "2025-04-30",
+  "publication_year": 2025,
+  "title": "Nexus-Gen: Unified Image Understanding, Generation, and Editing via Prefilled Autoregression in Shared Embedding Space",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": "2505.12200",
+  "cited_by_count": 20,
+  "doi": "https://doi.org/10.48550/arxiv.2505.12200",
+  "id": "W4415016576",
+  "publication_date": "2025-05-18",
+  "publication_year": 2025,
+  "title": "CompBench: Benchmarking Complex Instruction-guided Image Editing",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": "2506.03107",
+  "cited_by_count": 23,
+  "doi": "https://doi.org/10.48550/arxiv.2506.03107",
+  "id": "W4415135976",
+  "publication_date": "2025-06-03",
+  "publication_year": 2025,
+  "title": "ByteMorph: Benchmarking Instruction-Guided Image Editing with Non-Rigid Motions",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": "2510.06679",
+  "cited_by_count": 45,
+  "doi": "https://doi.org/10.48550/arxiv.2510.06679",
+  "id": "W4415316592",
+  "publication_date": "2025-10-08",
+  "publication_year": 2025,
+  "title": "DreamOmni2: Multimodal Instruction-based Editing and Generation",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 43,
+  "doi": "https://doi.org/10.1145/3746027.3756870",
+  "id": "W4415535646",
+  "publication_date": "2025-10-25",
+  "publication_year": 2025,
+  "title": "HiDream-I1: An Open-Source High-Efficient Image Generative Foundation Model",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 20,
+  "doi": "https://doi.org/10.1145/3746027.3758301",
+  "id": "W4415541163",
+  "publication_date": "2025-10-25",
+  "publication_year": 2025,
+  "title": "ComplexBench-Edit: Benchmarking Complex Instruction-Driven Image Editing via Compositional Dependencies",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 21,
+  "doi": "https://doi.org/10.52202/079017-3675",
+  "id": "W4415795799",
+  "publication_date": "2024-01-01",
+  "publication_year": 2024,
+  "title": "Schedule Your Edit: A Simple yet Effective Diffusion Noise Schedule for Image Editing",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 50,
+  "doi": "https://doi.org/10.52202/079017-1977",
+  "id": "W4415797170",
+  "publication_date": "2024-01-01",
+  "publication_year": 2024,
+  "title": "4M-21: An Any-to-Any Vision Model for Tens of Tasks and Modalities",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 7,
+  "doi": "https://doi.org/10.52202/079017-1202",
+  "id": "W4415797931",
+  "publication_date": "2024-01-01",
+  "publication_year": 2024,
+  "title": "Learning Action and Reasoning-Centric Image Editing from Videos and Simulation",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 115,
+  "doi": "https://doi.org/10.52202/079017-0100",
+  "id": "W4415799132",
+  "publication_date": "2024-01-01",
+  "publication_year": 2024,
+  "title": "UltraEdit: Instruction-based Fine-Grained Image Editing at Scale",
+  "type": "conference-paper"
+ },
+ {
+  "arxiv_id": "2510.16888",
+  "cited_by_count": 94,
+  "doi": "https://doi.org/10.48550/arxiv.2510.16888",
+  "id": "W4415898428",
+  "publication_date": "2025-10-19",
+  "publication_year": 2025,
+  "title": "Uniworld-V2: Reinforce Image Editing with Diffusion Negative-aware Finetuning and MLLM Implicit Feedback",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": "2508.07607",
+  "cited_by_count": 12,
+  "doi": "https://doi.org/10.48550/arxiv.2508.07607",
+  "id": "W4416156313",
+  "publication_date": "2025-08-11",
+  "publication_year": 2025,
+  "title": "X2Edit: Revisiting Arbitrary-Instruction Image Editing through Self-Constructed Data and Task-Aware Representation Learning",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": "2506.23044",
+  "cited_by_count": 91,
+  "doi": "https://doi.org/10.48550/arxiv.2506.23044",
+  "id": "W4416261851",
+  "publication_date": "2025-06-29",
+  "publication_year": 2025,
+  "title": "Ovis-U1 Technical Report",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": "2504.13143",
+  "cited_by_count": 26,
+  "doi": "https://doi.org/10.48550/arxiv.2504.13143",
+  "id": "W4416538115",
+  "publication_date": "2025-04-17",
+  "publication_year": 2025,
+  "title": "$\\texttt{Complex-Edit}$: CoT-Like Instruction Generation for Complexity-Controllable Image Editing Benchmark",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": "2505.22705",
+  "cited_by_count": 155,
+  "doi": "https://doi.org/10.48550/arxiv.2505.22705",
+  "id": "W4416601021",
+  "publication_date": "2025-05-28",
+  "publication_year": 2025,
+  "title": "HiDream-I1: A High-Efficient Image Generative Foundation Model with Sparse Diffusion Transformer",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 32,
+  "doi": "https://doi.org/10.1109/tpami.2025.3636582",
+  "id": "W4416690956",
+  "publication_date": "2025-11-24",
+  "publication_year": 2025,
+  "title": "FreeEdit: Mask-Free Reference-Based Image Editing With Multi-Modal Instruction",
+  "type": "article"
+ },
+ {
+  "arxiv_id": "2506.05083",
+  "cited_by_count": 62,
+  "doi": "https://doi.org/10.48550/arxiv.2506.05083",
+  "id": "W4417095739",
+  "publication_date": "2025-06-05",
+  "publication_year": 2025,
+  "title": "SeedEdit 3.0: Fast and High-Quality Generative Image Editing",
+  "type": "preprint"
+ },
+ {
+  "arxiv_id": null,
+  "cited_by_count": 104,
+  "doi": "https://doi.org/10.1109/iccvw69036.2025.00207",
+  "id": "W7131079003",
+  "publication_date": "2025-10-19",
+  "publication_year": 2025,
+  "title": "ACE++: Instruction-Based Image Creation and Editing via Context-Aware Content Filling",
+  "type": "conference-paper"
+ }
+]

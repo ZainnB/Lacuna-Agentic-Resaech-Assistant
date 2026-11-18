@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/scEW3HCCjdnne5yGNnMRMqiaySM</id>
+  <title>arXiv Query: search_query=all:vision OR all:transformer&amp;id_list=&amp;start=0&amp;max_results=2</title>
+  <updated>2026-11-13T21:08:05Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=all:vision+OR+all:transformer&amp;start=0&amp;max_results=2&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>2</opensearch:itemsPerPage>
+  <opensearch:totalResults>384374</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2206.10552v2</id>
+    <title>Vicinity Vision Transformer</title>
+    <updated>2023-07-20T08:57:20Z</updated>
+    <link href="https://arxiv.org/abs/2206.10552v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2206.10552v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Vision transformers have shown great success on numerous computer vision tasks. However, its central component, softmax attention, prohibits vision transformers from scaling up to high-resolution images, due to both the computational complexity and memory footprint being quadratic. Although linear attention was introduced in natural language processing (NLP) tasks to mitigate a similar issue, directly applying existing linear attention to vision transformers may not lead to satisfactory results. We investigate this problem and find that computer vision tasks focus more on local information compared with NLP tasks. Based on this observation, we present a Vicinity Attention that introduces a locality bias to vision transformers with linear complexity. Specifically, for each image patch, we adjust its attention weight based on its 2D Manhattan distance measured by its neighbouring patches. In this case, the neighbouring patches will receive stronger attention than far-away patches. Moreover, since our Vicinity Attention requires the token length to be much larger than the feature dimension to show its efficiency advantages, we further propose a new Vicinity Vision Transformer (VVT) structure to reduce the feature dimension without degenerating the accuracy. We perform extensive experiments on the CIFAR100, ImageNet1K, and ADE20K datasets to validate the effectiveness of our method. Our method has a slower growth rate of GFlops than previous transformer-based and convolution-based networks when the input resolution increases. In particular, our approach achieves state-of-the-art image classification accuracy with 50% fewer parameters than previous methods.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2022-06-21T17:33:53Z</published>
+    <arxiv:comment>code: https://github.com/OpenNLPLab/Vicinity-Vision-Transformer</arxiv:comment>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Weixuan Sun</name>
+    </author>
+    <author>
+      <name>Zhen Qin</name>
+    </author>
+    <author>
+      <name>Hui Deng</name>
+    </author>
+    <author>
+      <name>Jianyuan Wang</name>
+    </author>
+    <author>
+      <name>Yi Zhang</name>
+    </author>
+    <author>
+      <name>Kaihao Zhang</name>
+    </author>
+    <author>
+      <name>Nick Barnes</name>
+    </author>
+    <author>
+      <name>Stan Birchfield</name>
+    </author>
+    <author>
+      <name>Lingpeng Kong</name>
+    </author>
+    <author>
+      <name>Yiran Zhong</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2108.01390v5</id>
+    <title>Evo-ViT: Slow-Fast Token Evolution for Dynamic Vision Transformer</title>
+    <updated>2021-12-06T15:28:49Z</updated>
+    <link href="https://arxiv.org/abs/2108.01390v5" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2108.01390v5" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Vision transformers (ViTs) have recently received explosive popularity, but the huge computational cost is still a severe issue. Since the computation complexity of ViT is quadratic with respect to the input sequence length, a mainstream paradigm for computation reduction is to reduce the number of tokens. Existing designs include structured spatial compression that uses a progressive shrinking pyramid to reduce the computations of large feature maps, and unstructured token pruning that dynamically drops redundant tokens. However, the limitation of existing token pruning lies in two folds: 1) the incomplete spatial structure caused by pruning is not compatible with structured spatial compression that is commonly used in modern deep-narrow transformers; 2) it usually requires a time-consuming pre-training procedure. To tackle the limitations and expand the applicable scenario of token pruning, we present Evo-ViT, a self-motivated slow-fast token evolution approach for vision transformers. Specifically, we conduct unstructured instance-wise token selection by taking advantage of the simple and effective global class attention that is native to vision transformers. Then, we propose to update the selected informative tokens and uninformative tokens with different computation paths, namely, slow-fast updating. Since slow-fast updating mechanism maintains the spatial structure and information flow, Evo-ViT can accelerate vanilla transformers of both flat and deep-narrow structures from the very beginning of the training process. Experimental results demonstrate that our method significantly reduces the computational cost of vision transformers while maintaining comparable performance on image classification.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2021-08-03T09:56:07Z</published>
+    <arxiv:comment>We propose a novel and effective design for dynamic vision transformer to achieve better computational efficiency. The code is available at https://github.com/YifanXu74/Evo-ViT</arxiv:comment>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Yifan Xu</name>
+    </author>
+    <author>
+      <name>Zhijie Zhang</name>
+    </author>
+    <author>
+      <name>Mengdan Zhang</name>
+    </author>
+    <author>
+      <name>Kekai Sheng</name>
+    </author>
+    <author>
+      <name>Ke Li</name>
+    </author>
+    <author>
+      <name>Weiming Dong</name>
+    </author>
+    <author>
+      <name>Liqing Zhang</name>
+    </author>
+    <author>
+      <name>Changsheng Xu</name>
+    </author>
+    <author>
+      <name>Xing Sun</name>
+    </author>
+  </entry>
+</feed>

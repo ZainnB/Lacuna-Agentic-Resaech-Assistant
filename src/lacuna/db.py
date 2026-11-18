@@ -8,7 +8,8 @@ from __future__ import annotations
 
 import json
 import sys
-from datetime import date
+from datetime import date, datetime
+from zoneinfo import ZoneInfo
 
 import psycopg
 from psycopg.rows import dict_row
@@ -17,6 +18,8 @@ from psycopg.types.json import Jsonb
 from lacuna.settings import get_settings
 
 SCHEMA = """
+CREATE EXTENSION IF NOT EXISTS vector;
+
 CREATE TABLE IF NOT EXISTS papers (
     paper_id         text PRIMARY KEY,
     doi              text,
@@ -118,6 +121,52 @@ CREATE TABLE IF NOT EXISTS eval_results (
     metrics     jsonb NOT NULL,
     UNIQUE (eval, config_hash)
 );
+-- Phase 2. Chunks for topic papers: the abstract always, full text only after approval.
+-- Separate from deepread's `chunks`, whose corpus and index hash are frozen for E6.
+CREATE TABLE IF NOT EXISTS paper_chunks (
+    chunk_id     text PRIMARY KEY,      -- "<paper_id>:abs" or "<paper_id>:<n>" for full text
+    paper_id     text NOT NULL,
+    kind         text NOT NULL,         -- abstract | fulltext
+    ord          int  NOT NULL,         -- 0 = abstract, then reading order
+    page         int,
+    section      text,
+    text         text NOT NULL,
+    content_hash text NOT NULL,
+    embedding    vector(768)            -- bge-base, normalised
+);
+CREATE INDEX IF NOT EXISTS paper_chunks_paper_idx ON paper_chunks (paper_id, ord);
+
+-- Chunks handed to an MCP host. A host extraction may cite only chunks served to it (blueprint 3).
+CREATE TABLE IF NOT EXISTS served_chunks (
+    chunk_id  text NOT NULL,
+    session   text NOT NULL DEFAULT 'default',
+    served_at timestamptz NOT NULL DEFAULT now(),
+    PRIMARY KEY (chunk_id, session)
+);
+
+-- Validated extractions, keyed so a re-run with the same text, prompt and extractor is free.
+CREATE TABLE IF NOT EXISTS extraction_cache (
+    paper_id       text NOT NULL,
+    content_hash   text NOT NULL,
+    prompt_version text NOT NULL,
+    extracted_by   text NOT NULL,      -- "host:<model>" or "api:<provider>/<model>"
+    value          jsonb NOT NULL,
+    created_at     timestamptz NOT NULL DEFAULT now(),
+    PRIMARY KEY (paper_id, content_hash, prompt_version, extracted_by)
+);
+
+-- Canonical entities after resolution. Graph nodes mirror these by entity_id.
+CREATE TABLE IF NOT EXISTS entities (
+    entity_id      text PRIMARY KEY,   -- "<type>:<normalised canonical name>"
+    type           text NOT NULL,      -- method | dataset | task | metric
+    canonical_name text NOT NULL,
+    aliases        text[] NOT NULL DEFAULT '{}',
+    embedding      vector(768)
+);
+CREATE INDEX IF NOT EXISTS entities_type_idx ON entities (type);
+
+-- Human approval gate before full-text download and extraction (blueprint 8).
+ALTER TABLE topic_papers ADD COLUMN IF NOT EXISTS approved boolean NOT NULL DEFAULT false;
 """
 
 LEDGER_COLUMNS = {
@@ -147,7 +196,8 @@ def bump_usage(conn: psycopg.Connection, table: str, keys: dict, **increments) -
     """Add `increments` to one ledger row, creating it if needed.
 
     `keys` must supply every key column of `table`, e.g.
-    bump_usage(conn, "api_usage", {"day": date.today(), "source": "openalex"}, calls=1, cost_usd=0.001)
+    bump_usage(conn, "api_usage", {"day": quota_day("openalex"), "source": "openalex"},
+               calls=1, cost_usd=0.001)
     """
     cols = LEDGER_COLUMNS[table]
     bad = set(increments) - cols
@@ -164,12 +214,21 @@ def bump_usage(conn: psycopg.Connection, table: str, keys: dict, **increments) -
     )
 
 
+# Daily quotas reset on the provider's clock, not ours: OpenAlex at midnight UTC, Google AI Studio at
+# midnight Pacific. A ledger dated by local time would reset early and let a run overspend.
+QUOTA_TZ = {"gemini": "America/Los_Angeles"}
+
+
+def quota_day(source: str) -> date:
+    """The current quota day for a provider or paper API (UTC unless listed in QUOTA_TZ)."""
+    return datetime.now(ZoneInfo(QUOTA_TZ.get(source, "UTC"))).date()
+
+
 def usage_today(conn: psycopg.Connection, table: str, **keys) -> dict:
-    """The ledger row for today matching `keys` (e.g. source="openalex"), or zeros."""
+    """The ledger row for the current quota day matching `keys` (e.g. source="openalex"), or zeros."""
     where = " AND ".join(f"{k} = %s" for k in keys)
-    row = conn.execute(
-        f"SELECT * FROM {table} WHERE day = %s AND {where}", (date.today(), *keys.values())
-    ).fetchone()
+    day = quota_day(keys.get("source") or keys.get("provider") or "")
+    row = conn.execute(f"SELECT * FROM {table} WHERE day = %s AND {where}", (day, *keys.values())).fetchone()
     return dict(row) if row else {c: 0 for c in LEDGER_COLUMNS[table]}
 
 
@@ -208,10 +267,10 @@ def cmd_status(args) -> None:
             for t in ("papers", "paper_references", "topics", "api_cache", "llm_cache", "eval_results")
         }
         usage = conn.execute(
-            "SELECT * FROM api_usage WHERE day = %s UNION ALL "
+            "SELECT * FROM api_usage WHERE day >= %s UNION ALL "
             "SELECT day, provider || '/' || model, calls, NULL, rate_limited "
-            "FROM provider_usage WHERE day = %s",
-            (date.today(), date.today()),
+            "FROM provider_usage WHERE day >= %s",
+            (quota_day("gemini"), quota_day("gemini")),  # the earliest current quota day
         ).fetchall()
     print(json.dumps({"rows": counts, "usage_today": [dict(u) for u in usage]}, indent=2, default=str))
 
